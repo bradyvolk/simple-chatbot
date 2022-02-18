@@ -84,11 +84,11 @@ print("Training data created.")
 # equal to number of intents to predict output intent with softmax
 model = Sequential()
 model.add(Dense(256, input_shape=(len(train_x[0]),), activation='relu'))
-model.add(Dropout(0.5))
+model.add(Dropout(0.1))
 model.add(Dense(128, activation='relu'))
-model.add(Dropout(0.5))
+model.add(Dropout(0.2))
 model.add(Dense(64, activation='relu'))
-model.add(Dropout(0.5))
+model.add(Dropout(0.3))
 model.add(Dense(len(train_y[0]), activation='softmax'))
 
 # Compile model. Stochastic gradient descent with Nesterov accelerated gradient gives good results for this model

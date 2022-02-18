@@ -49,22 +49,45 @@ def predict_class(sentence, model):
         return_list.append({"intent": classes[r[0]], "probability": str(r[1])})
     return return_list
 
-def getResponse(ints, intents_json):
+# create a data structure to hold user context
+context = {}
+
+# show_details is for debugging purposes
+def getResponse(ints, intents_json, userID='123', show_details=False):
     tag = ints[0]['intent']
     list_of_intents = intents_json['intents']
     for i in list_of_intents:
-        if(i['tag']==tag):
+        # if highest probability intent matches tag in intents.json
+        if (i['tag'] == tag):
+            # set context for this intent if context exists
+            if 'context_set' in i:
+                if show_details: print('context:', i['context_set'])
+                context[userID] = i['context_set']
+
+            # check if this intent is contextual and applies to this user's conversation
+            if not 'context_filter' in i or \
+                (userID in context and 'context_filter' in i and i['context_filter'] == context[userID]):
+                if show_details:
+                    print('-------------------')
+                    print('tag:', i['tag'])
+                    print('ints:', ints)
+                    print('userID:', userID)
+                    print('context:', context)
+                    print('-------------------')
+                # a random response from the intent
+                result = random.choice(i['responses'])
             result = random.choice(i['responses'])
             break
     return result
 
 def chatbot_response(msg):
-    ints = predict_class(msg, model)
-    res = getResponse(ints, intents)
+    # ints is a list with intent/tag and its probability
+    ints = predict_class(msg, model) # example is [{'intent': 'greeting', 'probability': '0.999597'}]
+    res = getResponse(ints, intents, show_details=True)
     return res
 
 
-#Creating GUI with tkinter
+# Creating GUI with tkinter
 import tkinter
 from tkinter import *
 
@@ -92,7 +115,7 @@ base.geometry("400x500")
 base.resizable(width=FALSE, height=FALSE)
 
 #Create Chat window
-ChatLog = Text(base, bd=0, bg="white", height="8", width="50", font="Lato")
+ChatLog = Text(base, highlightthickness=0, bd=0, bg="white", height="8", width="50", font="Lato")
 
 ChatLog.config(state=DISABLED)
 

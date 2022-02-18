@@ -38,7 +38,7 @@ def bow(sentence, words, show_details=True):
 
 def predict_class(sentence, model):
     # filter out predictions below a threshold
-    p = bow(sentence, words,show_details=False)
+    p = bow(sentence, words, show_details=False)
     res = model.predict(np.array([p]))[0]
     ERROR_THRESHOLD = 0.25
     results = [[i,r] for i,r in enumerate(res) if r>ERROR_THRESHOLD]
@@ -53,7 +53,7 @@ def getResponse(ints, intents_json):
     tag = ints[0]['intent']
     list_of_intents = intents_json['intents']
     for i in list_of_intents:
-        if(i['tag']== tag):
+        if(i['tag']==tag):
             result = random.choice(i['responses'])
             break
     return result
@@ -69,29 +69,30 @@ import tkinter
 from tkinter import *
 
 
-def send():
-    msg = EntryBox.get("1.0",'end-1c').strip()
-    EntryBox.delete("0.0",END)
+def send(event=None):
+    msg = EntryBox.get("1.0", 'end-1c').strip()
+    EntryBox.delete("1.0", END)
 
     if msg != '':
         ChatLog.config(state=NORMAL)
         ChatLog.insert(END, "You: " + msg + '\n\n')
-        ChatLog.config(foreground="#442265", font=("Verdana", 12 ))
+        ChatLog.config(foreground="#2a4d69", font=("Lato", 12))
     
         res = chatbot_response(msg)
-        ChatLog.insert(END, "Bot: " + res + '\n\n')
+        ChatLog.insert(END, "EmpaBot: " + res + '\n\n')
             
         ChatLog.config(state=DISABLED)
         ChatLog.yview(END)
+    return 'break'
  
 
 base = Tk()
-base.title("Hello")
+base.title("Chat with EmpaBot!")
 base.geometry("400x500")
 base.resizable(width=FALSE, height=FALSE)
 
 #Create Chat window
-ChatLog = Text(base, bd=0, bg="white", height="8", width="50", font="Arial",)
+ChatLog = Text(base, bd=0, bg="white", height="8", width="50", font="Lato")
 
 ChatLog.config(state=DISABLED)
 
@@ -100,19 +101,18 @@ scrollbar = Scrollbar(base, command=ChatLog.yview, cursor="heart")
 ChatLog['yscrollcommand'] = scrollbar.set
 
 #Create Button to send message
-SendButton = Button(base, font=("Verdana",12,'bold'), text="Send", width="12", height=5,
-                    bd=0, bg="#32de97", activebackground="#3c9d9b",fg='#ffffff',
-                    command= send )
+SendButton = Button(base, font=("Lato", 14, 'bold'), text="Send", width="12", height="5",
+                    highlightthickness=0, bd=0, bg="#2a4d69", activebackground="#2a4d69", fg='#2a4d69',
+                    command=send)
 
 #Create the box to enter message
-EntryBox = Text(base, bd=0, bg="white",width="29", height="5", font="Arial")
-#EntryBox.bind("<Return>", send)
-
+EntryBox = Text(base, highlightthickness=0, bd=0, bg="white", width="29", height="5", font="Lato")
+EntryBox.bind("<Return>", send)
 
 #Place all components on the screen
-scrollbar.place(x=376,y=6, height=386)
-ChatLog.place(x=6,y=6, height=386, width=370)
-EntryBox.place(x=128, y=401, height=90, width=265)
-SendButton.place(x=6, y=401, height=90)
+scrollbar.place(x=376, y=6, height=426)
+ChatLog.place(x=6, y=6, height=426, width=370)
+EntryBox.place(x=128, y=441, height=50, width=265)
+SendButton.place(x=13, y=441, height=50, width=108)
 
 base.mainloop()

@@ -120,14 +120,14 @@ def send(event=None):
             user_says(msg)
             try:
                 rating = int(msg)
-                if rating > 5: empabot_says("Thank you!")
-                if rating <= 5: empabot_says("I'm sorry you're not satisfied. I'll work to get better!")
+                if (rating > 5) and (rating <= 10): empabot_says("Thank you! I'm glad I can help.")
+                if (rating <= 5) and (rating >= 1): empabot_says("I'm sorry you're not satisfied. I'll work to get better!")
                 user_feedback.log_rating(rating)
                 user_feedback.process_user_feedback()
                 user_feedback.clear_log()
                 is_feedback = False
             except ValueError:
-                empabot_says("Oh sorry, can you please enter a number!")
+                empabot_says("Oh sorry, can you please enter a number between 1 and 10!")
                 
         # Handle normal Response
         else:
@@ -141,7 +141,7 @@ def send(event=None):
             time_since_feedback += 1
             
             # Check if we need to ask for feedback
-            if time_since_feedback >= responses_between_feedback:
+            if time_since_feedback - 10 >= responses_between_feedback:
                 time_since_feedback = 0
                 empabot_says("EmpaBot: Would you please rate how I'm doing on a scale from 1 (the worst) to 10 (the best)?", "feedback")
                 is_feedback = True
@@ -168,9 +168,9 @@ scrollbar = Scrollbar(base, command=ChatLog.yview, cursor="heart")
 ChatLog['yscrollcommand'] = scrollbar.set
 
 # #Create Button to send message
-# SendButton = Button(base, font=("Lato", 14, 'bold'), text="Send", width="12", height="5",
-#                     highlightthickness=0, bd=0, bg="#2a4d69", activebackground="#2a4d69", fg='#2a4d69',
-#                     command=send)
+SendButton = Button(base, font=("Lato", 14, 'bold'), text="Send", width="12", height="5",
+                    highlightthickness=0, bd=0, bg="#2a4d69", activebackground="#2a4d69", fg='#2a4d69',
+                    command=send)
 
 #Create the box to enter message
 EntryBox = Text(base, highlightthickness=0, bd=0, bg="white", width="29", height="5", font="Lato")
@@ -180,6 +180,6 @@ EntryBox.bind("<Return>", send)
 scrollbar.place(x=376, y=6, height=426)
 ChatLog.place(x=6, y=6, height=426, width=370)
 EntryBox.place(x=128, y=441, height=50, width=265)
-# SendButton.place(x=13, y=441, height=50, width=108)
+SendButton.place(x=13, y=441, height=50, width=108)
 
 base.mainloop()

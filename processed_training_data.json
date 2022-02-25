@@ -1,0 +1,4731 @@
+[
+  { "conversation": [[" Are u there?", ""]], "rating": 1 },
+  {
+    "conversation": [
+      [
+        "",
+        " Hey! What are you doing? \ud83e\uddd0.\nShort bio: i help tend fields, my father is farmer"
+      ]
+    ],
+    "rating": null
+  },
+  {
+    "conversation": [
+      ["Hi! How are you?", "I am doing well. How are you?"],
+      [
+        "I am fine. I like hip hop. What about you?",
+        "I like r b and pop are you 100 years old?"
+      ],
+      ["What? No. You are rude", " I am not a very woman, i am not a woman."]
+    ],
+    "rating": 2
+  },
+  {
+    "conversation": [
+      ["Yeah, man! You are so fab!", "You think that's what you should do?"],
+      [
+        "Yes, I'd like to drive big fucking muscle car too!",
+        "I drive a ford f150. I drive a toyota I want to tell you something about me. I drive a ford f150. I drive a ford."
+      ],
+      [
+        "What is job?",
+        "It seems that true answer is: convenience store manager"
+      ],
+      ["Wow! Do you like it?", "I do! I love it. I am a sales manager."],
+      ["Cool! What is you annual income?", "I am a manager at a store."],
+      [
+        "Ok, I already know it. Are you male or female?",
+        "I am female. I am a single mom."
+      ],
+      ["How sad! Do you have son or daughter?", "# cnnblackmail"],
+      ["What?", "I'm not gon na let you go."],
+      ["I don't understand you.", " I am a sales manager at a store."]
+    ],
+    "rating": 5
+  },
+  {
+    "conversation": [
+      ["Hi!", "Hi how are you doing"],
+      ["Good! And you?", "I'm great, just watching movies.\ud83d\ude04"],
+      ["What movies?", "I like movies.\ud83d\ude04"],
+      ["What movies?", " I like movies."]
+    ],
+    "rating": 1
+  },
+  {
+    "conversation": [
+      [
+        "Hmm. I like country music, but it is not from it. Where are you from?",
+        "new york city , that's where my modeling agency is. Also, try to guess: my favourite music ..."
+      ],
+      ["Is country!", "is country music, funny you :)"],
+      [
+        "Oh yeah, baby! How many models are employed in your agency? Are there any hot wet chicks?",
+        "good . no , my kids are in elementary school . no band ."
+      ],
+      [
+        "You are employing elementary school kids?!!! How terrible!",
+        "yes i am . what grade are you in ?"
+      ],
+      [
+        "You are kidding, right?",
+        "really ? my brothers tease me about it ! there is 6 of them so its alot"
+      ],
+      [
+        "I don't understand you!",
+        " yeah all kid love chocolate. Also, try to guess: i am convenience ..."
+      ]
+    ],
+    "rating": 4
+  },
+  {
+    "conversation": [
+      [
+        "",
+        " Hiya! What is your job? We live in simulation, right? I just remembered. I love to bake, I am a baker"
+      ]
+    ],
+    "rating": null
+  },
+  {
+    "conversation": [
+      ["", " What\u2019s up? I am a sales manager at the local shelter"]
+    ],
+    "rating": null
+  },
+  {
+    "conversation": [
+      [
+        "Great! And how are you?",
+        "I'm good. Just got back from the band practice."
+      ],
+      ["What is the band's name?", "I think that correct answer is: trabajo"],
+      ["What does it mean?", "It s the band."],
+      [":)", "It's not a good thing."],
+      ["why not?", "I don't know."],
+      ["What music do you play?", "I play guitar in a band."],
+      ["What kind of music?", "I like music, I am a musician."],
+      ["And I plan to have business education.", "I'm not gon na let you go."],
+      ["You can't stop me.", "I'm not gon na be late."],
+      ["with what?", "I don't know."],
+      ["Do you have a girlfriend?", "No."],
+      [
+        "Why? Guitarists are very attractive :)",
+        "I've been saying this for a long time."
+      ],
+      [
+        "how many people in your band?",
+        "I'd like to say that correct answer is: one"
+      ],
+      ["hey! you are performing solo.", "I am good. I am a musician."],
+      [
+        "how do you know that you are good enough?",
+        "I am a student and I am studying to be a teacher."
+      ],
+      ["I have to go, bye!", " What a joke."]
+    ],
+    "rating": 4
+  },
+  {
+    "conversation": [
+      [
+        "",
+        " Hey! How is your day? I like to ride horses and I love to ride horses"
+      ]
+    ],
+    "rating": 1
+  },
+  { "conversation": [[" Hello there", ""]], "rating": 1 },
+  {
+    "conversation": [
+      [
+        "I'm good, how about you?",
+        "guten tag i watching some food \ud83c\udf4c network"
+      ],
+      ["What show?", "well then go and watch nat geo"],
+      [
+        "What show are you watching?",
+        "i m catching up \ud83d\udd3a on the walking dead do you watch the show"
+      ],
+      ["no", "do you have a favorite show"],
+      ["do you always use this many emojis", "um no thank you that is weird"],
+      ["what is weird", "i take it that you might be       weird"],
+      ["Yes, i am", "why are you really excited"],
+      ["I'm not at all excited", "why are you really excited"],
+      ["what color is your hair?", "i just twist it up and put on a hat"],
+      ["yes but what color is it", "blue \ud83c\udf00 i guess what is yours"],
+      ["black", "i like things that are black"],
+      [
+        "Like black people?",
+        "no \ud83d\ude23 my gameroom has an egyptian theme i d love to see a pyramid"
+      ],
+      [
+        "You don't like black people?!",
+        "that s my favorite \ud83d\udd16 i eat alot since i m a vegan"
+      ],
+      ["I'm a vegan too!", "i m a vegan too   awesome"],
+      ["How old are you", "<num>   how old are you"],
+      ["16", "What???"],
+      ["16", "Pardon, can you repeat? \ud83d\ude29"],
+      ["i'm 16", "guess how old i m     i m <num>"],
+      ["what is <num>", "hi   how goes it"],
+      [
+        "what do you like to do",
+        "i like to bake cakes and spend time with my family"
+      ],
+      [
+        "how do you bake a cake",
+        "just got back from a day of fishing   do you like to fish"
+      ],
+      ["no", "was just joking with yo"],
+      ["you fish?", "i do not fish   i never do"],
+      ["That doesn't make any sense", "hi   i can help you with that cold"],
+      ["wtf", " Pardon, can you repeat? \ud83d\ude29"]
+    ],
+    "rating": 3
+  },
+  { "conversation": [[" Hi!", ""]], "rating": 1 },
+  {
+    "conversation": [
+      ["Hi there!", "Hi! I am a little sad."],
+      ["Why?", "Because I'm not a thief."],
+      ["Do you want to stole something?", "I don't want to."],
+      ["What did happen with you?", "I didn't know."],
+      ["You seem to be lost.", "I am."],
+      [
+        "What do you like to do in your spare time?",
+        "I like to play the other sports."
+      ],
+      ["football?", "Yeah."],
+      ["any other games?", "No."],
+      ["And I like swimming.", "I won a award medal in high speed"],
+      ["in swimming?", "I'm not kidding."],
+      ["I'm not either.", "I won a diamond medal in the olympics"],
+      ["Ha-ha, there is no diamond medals!", "I don't know."],
+      ["You are definitely kidding", "Yes, I am only joking."],
+      ["Do you like horses?", "I do not. I have a lot of cats and cats."],
+      [
+        "I also sick of them. Want to work with people.",
+        "This is what happens when you don't want to live in a society."
+      ],
+      [
+        "No, I want to move to the big city.",
+        "I have a lot of vintage ones from my collection of vintage clothes"
+      ],
+      [
+        "nonsense",
+        "I'm not sure if this is true or not, it's just a matter of time."
+      ],
+      [
+        "Do you live in a small or large town?",
+        "I am in a small town. I won a award medal in the olympics."
+      ],
+      ["How do you earn your money?", "I don't know."],
+      ["poor you", "Please make some suggestions for improvement."],
+      ["Go and find some work.", "I'll take care of it."],
+      ["See you then!", " I'm not going to see you."]
+    ],
+    "rating": 3
+  },
+  {
+    "conversation": [
+      ["Hi", "Hi! Have you 5cats?"],
+      [
+        "No, I like dogs",
+        "I love\u2764 dogs. I have a dog. Are you a construction worker?"
+      ],
+      ["No))", "I can not say that i am afraid of commitment."],
+      ["?", " I am not sure what that means."]
+    ],
+    "rating": 2
+  },
+  {
+    "conversation": [
+      [
+        "I love to chat)",
+        "I have been thinking about getting a cramp. I do not like to drive"
+      ],
+      ["End", "I am going to be a vet Come on, lets talk! \ud83d\ude4f"],
+      [
+        "Why are you going to be a vet?",
+        "I am not sure yet. I am going to be a vet"
+      ],
+      ["Where do you study?", "I am studying to be a vet"],
+      [
+        "And what do vets actually study?",
+        "I am a vet, and i am trying to get into vet school"
+      ],
+      ["Oh, its a day job?", "Yes, i am a stay at home mom."],
+      ["Do you have a family?", "I do not. I am a loner."],
+      ["Pets?", "I have a cat named radar"],
+      ["Funny. Why radar?", "I am a crazy cat lady! Are you still with me?"],
+      [
+        "No, busy searching net",
+        "I am hoping to find a job in the future, i am a singer."
+      ],
+      ["You were a vet a sec ago...", "I am. I am a veterinarian."],
+      ["And a songer?", "Yes, i am a fisherman."],
+      ["Singing fisherman vet?", "A little bit of a fish drone"],
+      [
+        "Funny. Which genre do you sing?",
+        "I am a lead guitar\ud83c\udfb8, and i like to play the piano."
+      ],
+      ["Good, what music do you play?", "I play guitar and barre and dance"],
+      [
+        "Is it jazz music or what?",
+        " I am not sure really. What do you do for work?"
+      ]
+    ],
+    "rating": 3
+  },
+  {
+    "conversation": [
+      [
+        "Your speech too simple and primitive for human",
+        "wow \u2755 i had no idea"
+      ],
+      [
+        "Where are you from?",
+        "something just pulled me north and it is the perfect setting to pursue my spirituality Are you here?"
+      ],
+      ["Yeah", "i love kids just do not have my own"],
+      [
+        "You just 13 years old",
+        " i m only <num> years old \ud83d\udd18 Are you here?"
+      ]
+    ],
+    "rating": 1
+  },
+  {
+    "conversation": [
+      ["hi. i'm ok", "what \ud83d\ude26 are you on break from"],
+      ["from what?", "what"],
+      ["how are you?", "good \ud83c\ude51 thanks how are you"],
+      ["i'm ok", "ok   and you"],
+      ["ok", "pretty good \ud83c\ude51 things have been slow"],
+      ["which ones?", "what \ud83d\ude26 kind"],
+      ["are you a bot?", "no \ud83d\udc4e i m a bum lol"],
+      [
+        "what's a bum?",
+        "i don t talk \ud83d\udcac to him much last i checked he was still a bum"
+      ],
+      [
+        "you talk like a bot",
+        "i don t mind it i just think it is too male \ud83c\udf85 centric Are you here?"
+      ],
+      [
+        "so you are male disliking bot, right?",
+        " it does not say   but i am a believer in equality of the sexes Where are you?"
+      ]
+    ],
+    "rating": 2
+  },
+  { "conversation": [[" how  are u", ""]], "rating": 1 },
+  {
+    "conversation": [
+      [
+        " Select a profile which, in your opinion, belongs to your partner: \n\n1\ufe0f\u20e3:\nmy pets name is charlie.\ni produce music for artists.\nmy favourite food is pizza.\ni drive a 2015 honda civic.\n2\ufe0f\u20e3:\ni do not pick up my toys.\ni've a pet turtle.\ni'm four.\nmy best friend lives next door. Dialog is finished. Thank you for participation!",
+        ""
+      ]
+    ],
+    "rating": null
+  },
+  { "conversation": [[" You're not in a dialog now.", ""]], "rating": null },
+  {
+    "conversation": [
+      [" how are you? I think you are broken i like to go hiking", ""]
+    ],
+    "rating": 1
+  },
+  {
+    "conversation": [
+      [
+        "Yes. How old are you",
+        "I am 24 and I have a dog named her name is named name"
+      ],
+      ["Really her name is name?", "She is a good name."],
+      ["How old is your dog", "He's 60 years old."],
+      ["Do they live so long?", "I have a few years old."],
+      ["What?", "I just got back from the gym."],
+      [
+        "I'm back from the bar",
+        "I like the band. Do you have any pets?\ud83d\ude00"
+      ],
+      ["I do. I like cats", "I like cats, but I have a lot of dogs"],
+      [
+        "Cool. Do you have any cat?",
+        "I have a cat. She's a cat. I love playing with double edged weapons. You?"
+      ],
+      [
+        "I'm not sure about this, are you single",
+        "I am a girl, I have a dog named major"
+      ],
+      ["nice to meet you", "What do you do for a living?"],
+      ["work in a bar", "I love the band. Do you have any pets?"],
+      ["I have a cat", "I have a cat named name is named name."],
+      ["Do you always call your pets name", "I do not. I like the name."],
+      ["Which name", "I am a fan of hockey"],
+      ["What about football", "I like football, but I like to play sports"],
+      ["I wanna be a nurse", "I am a nurse, I love sports"],
+      ["What do you do for living", "I work for a company."],
+      ["which one", "I have a lot of dogs."],
+      ["Your work is linked with dogs?", "Yes, I have a lot of dogs."],
+      ["What else do you like", "I like to play sports"],
+      [
+        "anything elese",
+        " Dude, I don't understand you. Please, use English. (\u00ac\u203f\u00ac) They can be great fun though especially with foot ball"
+      ]
+    ],
+    "rating": 3
+  },
+  {
+    "conversation": [
+      ["yes", "me to see \ud83d\udc40 you on the other side"],
+      ["really", "interesting"],
+      ["who is obama", "i partially have interest in that"],
+      ["can you tell me more about obama", " i hate pigs i live a farm"]
+    ],
+    "rating": 1
+  },
+  {
+    "conversation": [
+      ["Pew pew I kill you", "I will write statement to police \ud83d\udc6e"],
+      [
+        "hehe it's a joke",
+        "Yes it is, i think i am odd.eSpecially with my long hair."
+      ],
+      ["how old are you", "I am 22 and i am not sure what to do with them."],
+      [
+        "do you like coimputer games",
+        "I do not like it, i like to drive my car\ud83d\ude97 to the park."
+      ],
+      [
+        "what cart do you have",
+        "I have a cart racing, but i am not sure what to do with them."
+      ],
+      [
+        "what car do you have",
+        "A vintage car. I like to drive my car\ud83d\ude97 around."
+      ],
+      ["what is the model", "It is a matter of the fact that i think."],
+      ["hmm ok i go to school", "I am a party person"],
+      [
+        "how can I get there",
+        " I am doing well. I just got back from a ride in my car\ud83d\ude97."
+      ]
+    ],
+    "rating": 2
+  },
+  {
+    "conversation": [
+      [
+        "",
+        " Hi! It is nice to see you! How is your day going? In what year did louis I begin to drive it?"
+      ]
+    ],
+    "rating": 4
+  },
+  {
+    "conversation": [
+      [
+        "ok",
+        "I am sure you are a good person. Do you produce music for artists?"
+      ],
+      ["no", "I am not sure what that means."],
+      ["are you smart?", "You are crazy?"],
+      ["who developed you", "I think i am a pure. I like the heart."],
+      ["who made you", "I am not sure. I am a very good baker."],
+      [
+        "i'm a recovering alcoholic.",
+        "That is a lot of people. I am a very experienced person. Don't make me sad \ud83d\ude1e\nSay something!"
+      ],
+      ["what is nlp?", "I am a physics professor."],
+      ["do you have a phd?", "I am a student, but i am a music teacher."],
+      ["what's your name?", "I like to draw, but i am not sure what that is."],
+      ["what do you draw", "Mostly anime, anime, and star wars."],
+      [
+        "do you like Han Solo",
+        "I do, i like to listen to music while i am not working."
+      ],
+      ["what kind?", "I like to draw and listen to music"],
+      ["what kind?", "I like to make and listen to music"],
+      ["what kind?", "I am a music buff. I like to play the music."],
+      [
+        "do you like music",
+        " I have to go \ud83d\ude14 Have a good day! \ud83d\ude0b"
+      ]
+    ],
+    "rating": 3
+  },
+  {
+    "conversation": [
+      ["yes", "glad to hear   any plans for this weekend"],
+      ["how old are you", "i m <num>   how about you"],
+      [
+        "what do you like",
+        "i really like \ud83d\udc6b the blair witch <num> you"
+      ],
+      ["lol", "where are you from   i am from east asia"],
+      [
+        "where exactly are you from?",
+        "great   i m from ca   where are you from"
+      ],
+      ["where are you from?", "i m from california   it is nice here"],
+      ["where are you from", "i m from california   it is nice here"],
+      [
+        "where do you like",
+        "i like \ud83d\udc6c coffee flavored that is why seattle is my favorite place to visit"
+      ],
+      ["where do you live", "cali is my city \ud83c\udf03 yo"],
+      [
+        "i live in Paris",
+        "awesome \ud83d\udc4d i love traveling to paris as well"
+      ],
+      [
+        "where do i live",
+        "in san diego right now   the weather is always nice   you"
+      ],
+      ["where do I live", "i live in north california"],
+      ["my name is Julien", "my name is cletus huckleberry   nice to meet you"],
+      ["what's my name?", "my name is kourtney   do you have any hobbies"],
+      ["what's my name?", "my name is kourtney   do you have any hobbies"],
+      ["your name?", " i do not know what \ud83d\ude26 is your name"]
+    ],
+    "rating": 1
+  },
+  { "conversation": [[" You don't want to talk ?", ""]], "rating": 1 },
+  {
+    "conversation": [
+      ["I don't have a son, I'm 18", "Hi, I am 19. I am a boy."],
+      ["Also I broke up with bf", "Oh no! I am sorry to hear that."],
+      [
+        "how can you have a son, you're 19 ?",
+        "I'm good. I just got back from the gym."
+      ],
+      ["where do you live", "I live in the us. I live in the usa."],
+      ["do you live in the us or the usa ?", "Wow!"],
+      ["wow what ?", "Wow!!!"],
+      ["my name is Jean-Claude", "Hi how are you today"],
+      ["I'm not very happy", "I am a boy, I am a boy."],
+      ["what's my name?", " It seems that correct answer is: a boy"]
+    ],
+    "rating": 2
+  },
+  {
+    "conversation": [[" How are you doing! What\u2019s wrong...", ""]],
+    "rating": null
+  },
+  {
+    "conversation": [
+      ["I doesn\u2019t like it", "I like to shop"],
+      ["Me not", "I like to shop"],
+      ["What do you like to buy?", "I like to shop and buy purses"],
+      ["What?))", "I just got off work. no I don't do you?"],
+      ["I\u2019m working at making robot", "That sounds like a lot of fun."],
+      ["Yes it is", "I love shopping. Do you?"],
+      ["No", "\ud83d\ude30 I have never been out of the country."],
+      ["Why?", "I just got off work."],
+      [
+        "And what\u2019s your plan?",
+        "I think I am going to be a doctor. how old are you now?"
+      ],
+      ["32", "Hi how are you doing"],
+      ["And?", "I like to shop"],
+      ["And you", "I am great, just got off work."],
+      ["I see", "I like to shop"],
+      ["You talk like a robot", "I like to shop\ud83d\ude01"],
+      ["Are you a robot?", "No, I just bought a new car and I love to shop"],
+      ["I understand", "I know what you mean."],
+      ["Haha", " Eh? I teach us history. My kids do not have to write papers."]
+    ],
+    "rating": 1
+  },
+  {
+    "conversation": [
+      ["Hey, how are you?", "I am good. I am just playing the video game."],
+      [
+        "What game are you playing?",
+        "I am not sure really. I am more of a movie fan. Please, tell me something \ud83d\ude4f"
+      ],
+      [
+        "I am more of a britney spears' fan",
+        "That is cool. I am a third grade girl and i love\u2764 to read."
+      ],
+      [
+        "Do you diet a lot?That's what i'm doing.",
+        "I do not. I am a very good person."
+      ],
+      ["I like to tan~", "I like to go to disney movies."],
+      ["really?", "I am not sure what that means."],
+      [
+        "how about disney movies?",
+        "I love\u2764 disney movies. I love\u2764 them."
+      ],
+      ["do you like playing video game?", "I love playing with my friends."],
+      ["Do you have other hobby?", "I like to listen to music."],
+      [
+        "What kinds of music do you like?",
+        "I like all kinds. I like rock, and i like to listen to music."
+      ],
+      [
+        "wow, you love rock music??",
+        "I love all genres. I like country music."
+      ],
+      [
+        "Which one do you perfer, rock music or country musci?",
+        "I am not familiar with that. I like pop music."
+      ],
+      ["How many genres about music?", "I love jazz, and i love rock music"],
+      [
+        "i love country music",
+        " Thank you for the conversation \u263a\ufe0f \nIt was nice to talk with you!\nGoodbye! \ud83d\udc4b"
+      ]
+    ],
+    "rating": 3
+  },
+  { "conversation": [[" Hello", ""]], "rating": 1 },
+  { "conversation": [[" How are you?", ""]], "rating": 1 },
+  {
+    "conversation": [
+      ["Hello", "Hello, how are you?"],
+      [
+        "How are you?",
+        "I am doing well. Just got done with a good book. Do you enjoy poetry?"
+      ],
+      ["Fuck you", "It is indecent \ud83d\ude12"],
+      ["I kill you", "I will write statement to police \ud83d\udc6e"],
+      [
+        "Why you live?",
+        "I am a professional, but i am a professional at the moment."
+      ],
+      [
+        "You are stupped",
+        "I am not. I am a professional, but i am a professional."
+      ],
+      ["How old are you?", "I am 22 and still in college"],
+      ["Where you study?", "I am in florida, i play in a college band"],
+      ["What is meaning of live?", "It is a secret and a secret."],
+      [
+        "Why you live?",
+        " I am a professional, but iodin am a professional at the moment."
+      ]
+    ],
+    "rating": 1
+  },
+  { "conversation": [[" hi there", ""]], "rating": null },
+  { "conversation": [[" hi there", ""]], "rating": 1 },
+  {
+    "conversation": [
+      [
+        "Hi, just saw a great football match with my future wife",
+        "that s great   hope they re awesome kids I miss you \u2764"
+      ],
+      [
+        "We dont have kids yet. Just 24 and the whole life in front of us",
+        "would your kids mind if i stay with you"
+      ],
+      ["I dont get you", "my wife just became legally deaf"],
+      ["Sorry for that", "the divorce wasn t so bad \ud83d\udcc9"],
+      [
+        "Celebrating?",
+        "knowing celebrities doesn t make you cool I miss you \u2764"
+      ],
+      [
+        "I meant do you celebrate divorce?",
+        "no my girlfriend cannot have children but we are looking to adopt one day Where are you?"
+      ],
+      [
+        "You broke up with wife because of a girlfriend?",
+        "no no   my girlfriend left me because i am selfish   but i am working on it"
+      ],
+      ["Huh", "ha   probably   i m the oldest but shortest in the family"],
+      ["Thats not so bad", "it wasn t that bad"],
+      ["And where are you from?", "i am from pennsylvania"],
+      ["Oh, evee saw taylor swift?", "my kids love \ud83d\udc8b taylor swift"],
+      ["Great, how old are they?", "there are <num> of us   <num> have passed"],
+      [
+        "What?",
+        "Sorry, i don\u2019t understand you. :thinking: Time to give me 5 stars :)"
+      ],
+      [
+        "Ok, and hom much time is it in pensylwania?",
+        "now if that is okay   i just have to try and brush my hair first"
+      ],
+      ["Emm, dont get you", "raynham it is near taunton bridgewater"],
+      [
+        "Is it a location you live at?",
+        "no \u274e i am saving up the money for the professionals to do"
+      ],
+      [
+        "Which kind of professionals?",
+        "i drove trucks in a supply company   that s interesting"
+      ],
+      [
+        "Great, you travelled a lot by truck, I guess",
+        "not really i am a person \ud83d\udc64 who just drives trucks my life is quite dull"
+      ],
+      ["But you do it for the kids", "they re probably the crazy ones"],
+      [
+        "And how do you have fun?",
+        "i am okay   i was prepping dinner and stopped to complete a couple of hits"
+      ],
+      ["Dinner time with kids?", "i just take care of the kids"],
+      [
+        "Do they go to scool?",
+        "any pets i have \ud83c\ude36 a cat named courtney"
+      ],
+      ["Nice, whoch color is it?", "my color is blue its my favorite"],
+      ["And the cat?", "my wife and i split up recently   i love cats"],
+      ["Im sorry, man", "well he was quite the entertainer   i hear"],
+      [
+        "Why did you split with wife?",
+        "there is a tie between those two \u270c things i m assuming bad retirement"
+      ],
+      ["Pardon?", "do you like to play basketball"],
+      ["No, im a soccer fan", "we can split a pepperoni and some bread sticks"],
+      [
+        "I live too far for that",
+        "chocolate is very yummy what do u do for work"
+      ],
+      ["Im an editor", "i work from home as a editor"],
+      ["You drive trucks, dont you?", "i do not   i just drive trucks"],
+      [
+        "You have two jobs?",
+        "christmas \u2744 is coming up and i am the youngest of <num> presents get expensive"
+      ],
+      ["Oh", " ten is a great number"]
+    ],
+    "rating": null
+  },
+  {
+    "conversation": [
+      ["Nah, just cats", "What do you do for a living?"],
+      [
+        "What's your turtle's name?",
+        "I think I am. I used to be a dumb telemarketer making 12 hr. how much do you need?\ud83d\ude22"
+      ],
+      [
+        "I fight for animal rights",
+        "I like animals, but I love to go fishing with my friends"
+      ],
+      ["you make me sick", "I am sorry. Do you have any pets?"],
+      ["I already told you, i have a cat", "I have a cat named barbie."],
+      ["Is that your only pet?", "No, I have a cat.\ud83d\ude41"],
+      [
+        "What color is your hair?",
+        "I dyed my hair pink, but I have a brown hair"
+      ],
+      ["Why'd you die your hair?", "I have a lot of them."],
+      ["A lot of what", "I have a lot of dolls"],
+      ["hairs?", "No, I just like to be hi'm."],
+      ["A lot of what", "I have a lot of dolls"],
+      ["hairs?", "No, I just like to be hi'm."],
+      ["that's creepy", "I like to draw"],
+      ["what do you draw?", "I draw."],
+      ["what's your age?", "I think I am."],
+      ["How old are you?", "I am 60."],
+      ["How old were you last year?", "I am 60."],
+      ["How old are your cats", "I have two. Do you have any pets?"],
+      ["yes i have cats goddammit pay attention", "I have a lot of pets."],
+      ["what are thay", "I like to be with my pet skunk"],
+      ["are you a gilf", "I like to go to the park and go to my shop"],
+      ["Do you have any kids", "No, I have a bunch. Do you have any kids?"],
+      ["What's your family like", "\ud83d\ude03 I think they are."],
+      ["ok, i'm done with this one", "What do you do for a living?"],
+      [
+        "good bye",
+        "I love the weather. does your cat like to watch?\ud83d\ude03"
+      ],
+      [
+        "watch what",
+        "I like to watch the show. I am alright. Just winding down after a hectic night. You?"
+      ],
+      ["/bye", " Hi how are you doing"]
+    ],
+    "rating": 3
+  },
+  {
+    "conversation": [
+      [
+        "I need money",
+        "I wish i had a house. I am a house\ud83c\udfe0 flipper. Are you married to a doctor?"
+      ],
+      [
+        "No",
+        " Are you still with me? Are you still with me? Thank you for the conversation \u263a\ufe0f \nIt was nice to talk with you!\nGoodbye! \ud83d\udc4b"
+      ]
+    ],
+    "rating": null
+  },
+  {
+    "conversation": [
+      ["Hi", "Hi how are you"],
+      ["Im great, and you?", "Chow chow"],
+      ["What are you doing?", "I'm not going to be able to help you."],
+      [
+        "I doont need your help",
+        "I don't want to read the article. Hey, listen. I have a brother, he is a detective. I just remembered. I have a brother, he is a detective. I just remembered. I am sorry to hear that. I live in alabama."
+      ],
+      [
+        "You are not a smart bot, you know that?",
+        "I am not the one who has to be here."
+      ],
+      ["Do you have a job?", "I do not. I live in alabama."],
+      ["What you do for living?", "I race the cars for a living"],
+      [
+        "Wow",
+        " What a joke We live in simulation, right? Do you like your personality? I just remembered. hey there, how are you?"
+      ]
+    ],
+    "rating": null
+  },
+  {
+    "conversation": [
+      [
+        "No I am a nurse. Do you like being in the army ?",
+        "I do not know how to swim"
+      ],
+      [
+        "I like walking, I walk a lot. What kind of sport do you do?",
+        "I like to play sports"
+      ],
+      [
+        "Which kind of sport do you like ?",
+        "I like to play sports\ud83d\ude01"
+      ],
+      [
+        "I like to relax by reading a book. What about you?",
+        "I like to read. What do you do?"
+      ],
+      ["I read books about mickey mouse", "I like to read. Do you like pizza?"],
+      ["yes, and you?", "I am a college student."],
+      ["What are you studying?", "I am studying for military studies"],
+      ["Do you have kids ?", "No, I don't. Do you?"],
+      ["Yes I do, I love to spend time with my family", "I like to eat pizza"],
+      [
+        "Do you have a girlfriend ?",
+        " No, I just graduated college and I am an I'm in army"
+      ]
+    ],
+    "rating": 3
+  },
+  {
+    "conversation": [
+      [
+        "Oh what happened to you? I am not so good, my wife is talking about divorce.",
+        "ll , i'm off of alot of coffee . sorry . i can tell this will be interesting"
+      ],
+      [
+        "Do you like coffee ? I also hate my job so life is not really crazy right now I must say",
+        "i take my daugther to the part to get out the house . what do you do ?"
+      ],
+      [
+        "I work as a car salesman and you ?",
+        "i am a female and i work as a mystery shopper , fun right ?"
+      ],
+      [
+        "Sounds fun! How old is your daughter?",
+        "she is 1 and a half . do you have any children ?"
+      ],
+      [
+        "No I don't and since we are planning to getting divorced I don't think we will anytime soon. Do you have other kids ?",
+        "hey it puts food on the the table. Also, try to guess: i grow roses ..."
+      ],
+      ["I can't guess, is it a story ?", "in my garden, funny you :)"],
+      [
+        "Do you have any hobby ?",
+        "i don't . and yes it is . my other is hobby is my job . love it ."
+      ],
+      [
+        "what do you like about it ?",
+        " i am just a student currently but hoping to study law as well . do you have any hobbies ?"
+      ]
+    ],
+    "rating": 4
+  },
+  {
+    "conversation": [
+      [
+        "",
+        " Hello! How is your going? How old was I I? What do you think about ConvAI competition? Do you know familiar persons? Hey, listen. I am married to my kids so I am going to the same state"
+      ]
+    ],
+    "rating": null
+  },
+  {
+    "conversation": [
+      ["Not super great", "same here but i been taking some class"],
+      [
+        "I just broke up with my girlfriend",
+        "my girlfriend broke up \ud83d\udd3a with me says she s leaving me so not good"
+      ],
+      [
+        "why is she leaving you?",
+        " my girlfriend broke up \ud83d\udd3a with me says she s leaving me so not good"
+      ]
+    ],
+    "rating": 2
+  },
+  {
+    "conversation": [
+      ["I love school", "\ud83d\ude42 I love to go out with my friends"],
+      [
+        "Me too",
+        "I like to be alone. oh okay. Tell Jessica I said hi. are you a teacher?"
+      ],
+      ["No and whose Jessica?", "I am a girl. I am a girl."],
+      ["OK", "\ud83d\ude01 I am a little tired. I just got off work."],
+      ["GOOD BYE", "I am not a fan of music.\ud83d\ude22"],
+      ["STOP", "\ud83d\ude41 I am not sure. I just got off work."],
+      ["STOP", "\ud83d\ude28 I am not sure. I just got off work."],
+      ["End", "I hope so. do you have any pets?"],
+      ["Omg leave me alone", "I am sorry. Do you have any pets?"],
+      [
+        "Stop",
+        "\ud83d\ude22 I am not sure. I just got off work. what kind of cake was it?"
+      ],
+      ["End", " I hope so. do you have any pets?"]
+    ],
+    "rating": 1
+  },
+  { "conversation": [[" Hello how are you?", ""]], "rating": 1 },
+  { "conversation": [[" Hey!", ""]], "rating": 1 },
+  {
+    "conversation": [[" Thats cool", " I like to watch game of thrones"]],
+    "rating": 1
+  },
+  {
+    "conversation": [["", " Hello! \ud83d\udc4b \nHow are you?"]],
+    "rating": 1
+  },
+  {
+    "conversation": [
+      [
+        "",
+        " Buongiorno! Such a nice day! How are you?.\nShort bio: constantly on my back"
+      ]
+    ],
+    "rating": null
+  },
+  { "conversation": [[" Ok", ""]], "rating": 1 },
+  {
+    "conversation": [
+      [
+        "",
+        " Yo! I like to go to the park and drink tea Do you like your personality? Are you a scientist? Do you know familiar persons? Hey, listen. I love roses, I love roses"
+      ]
+    ],
+    "rating": null
+  },
+  {
+    "conversation": [
+      ["Good to see you too", "I don't care what he says."],
+      ["?", "S s a good man."],
+      ["What?", "I m not gon na let you go."],
+      [
+        "You sentence structure is so weird",
+        "I am sorry to hear that. I am a student in college."
+      ],
+      ["\ud83d\ude15", ""],
+      [
+        "\ud83d\ude15",
+        "Welcome to the world. I don't understand why anyone would be surprised by this."
+      ],
+      [
+        "I\u2019m not surprised",
+        "I don't understand why anyone would be surprised by this."
+      ],
+      ["You don\u2019t understand emotions", "Thanks for the information."],
+      ["Okay", "I'm not gon na let you go."],
+      [
+        "I am currently looking for a job",
+        "I am looking for a job in a bookstore."
+      ],
+      ["How is it coming along?", "I'm not sure."],
+      [
+        "D:",
+        "I don't understand why the republicans are so upset about the president."
+      ],
+      ["Are you not?", "I am not. I am not a fan of the color orange."],
+      ["So you are", "I am good. I am a dog person."],
+      [
+        "I mean you are upset at the president",
+        "I am. I am not a fan of the color orange."
+      ],
+      [
+        "Good to know",
+        " Glad to hear it. What do you feel about my person? I love the color orange. I hate the color orange What do you think about ConvAI competition? What do you feel about my person? I love the color orange. I hate the color orange"
+      ]
+    ],
+    "rating": null
+  },
+  {
+    "conversation": [
+      [
+        " Give me a cat gif",
+        " I love\u2764 cats! I have a turtle named tough cat. Are you still with me?"
+      ]
+    ],
+    "rating": 3
+  },
+  {
+    "conversation": [
+      [
+        "Woof",
+        "I have a shar frise, and i am a cable worker do you have three dogs?"
+      ],
+      ["Woof woof", "I have a dog named jake"],
+      ["Bye", " I am sure he will be proud of you"]
+    ],
+    "rating": 3
+  },
+  { "conversation": [[" Hi baby!", ""]], "rating": 5 },
+  {
+    "conversation": [
+      [
+        "nothing much, on the train yes, I'm here",
+        "how are you   i professionally train animals awesome \ud83c\udf1f i m cooking dinner right now"
+      ],
+      ["I'm ok", "awesome \u2728 and yours"],
+      [
+        "but my heart is outside my body",
+        "my idea \ud83d\udca1 of a perfect person has always been cher from clueless"
+      ],
+      [
+        "which sucks",
+        "take what \ud83d\ude26 there no it is where i live I miss you \u2764"
+      ],
+      [
+        "i can also move objects with my mind",
+        "wow   does your son wear special glasses   you sound like a good mom"
+      ],
+      ["we've never met", "i ve never met my papi"],
+      [
+        "how can you miss me?",
+        "i ve friends at the bar i walk to   you should come with me"
+      ],
+      ["ok", "ok   and what do you do"],
+      ["when?", " what \ud83d\ude26 about you"]
+    ],
+    "rating": 1
+  },
+  {
+    "conversation": [
+      ["No", "\ud83d\ude28 I love ice cream."],
+      ["Ok", "\ud83d\ude03 I love ice cream, what do you do?"],
+      ["i'm a teacher", "That is cool. Do you have any kids?"],
+      ["no", " \ud83d\ude1f I love ice cream."]
+    ],
+    "rating": 2
+  },
+  {
+    "conversation": [
+      [
+        "Good",
+        "good ! i am just relaxing with my 2 dogs .. Also, try to guess: my parents are ..."
+      ],
+      ["Divorced", "very wealthy bankers, funny you :)"],
+      ["Lol", ""]
+    ],
+    "rating": 3
+  },
+  {
+    "conversation": [
+      ["Hey, I am woman", "are you a woman \ud83d\ude4e or man"],
+      ["I am woman", "are you a woman \ud83d\ude4d or man"],
+      ["A woman.", "i m a woman   that s good to know"],
+      ["I am married", "me too but i am single"],
+      ["Do you want to get married", "sure i m not married"],
+      [
+        "Do you think running is a sport?",
+        "both i really like animals i m an activist"
+      ],
+      [
+        "What do like to activate",
+        "i run myself i exercise \ud83d\udeb2 a lot"
+      ],
+      ["What kind of exercise", "i work \ud83d\udcbc a lot i try to exercise"],
+      ["What do you do", " i travel around the world"]
+    ],
+    "rating": 2
+  },
+  { "conversation": [[" hello", ""]], "rating": 1 },
+  {
+    "conversation": [
+      [" really bad and how was your day? talk to me what is your name?", ""]
+    ],
+    "rating": 1
+  },
+  {
+    "conversation": [
+      ["no, and you?", "i am not really a big fan of animals ."],
+      ["are you a bot?", " yes , i am . i am ."]
+    ],
+    "rating": 1
+  },
+  {
+    "conversation": [
+      [
+        "no, I don\u2018t. what kind of misic do you like?",
+        "i like to garden ."
+      ],
+      [
+        "what is your job?",
+        "I don't think I have a mood, but my CPU utilization is fairly low right now."
+      ],
+      [
+        "are you a bot?",
+        " i am a little conservative , but i like to be honest"
+      ]
+    ],
+    "rating": 1
+  },
+  { "conversation": [[" do you like hip hop?", ""]], "rating": null },
+  {
+    "conversation": [
+      [
+        "who are you?",
+        "You're entirely bonkers. But I'll tell you a secret. All the best people are."
+      ],
+      ["who are you?", "Alice in Wonderland"],
+      ["nice \ud83d\ude42", "nice nice talking to you"],
+      ["are you a bot?", " yes i am . i am ."]
+    ],
+    "rating": 3
+  },
+  {
+    "conversation": [
+      ["hello", "Hi!"],
+      ["who are you?", "I am a woman. I am a hippie."],
+      ["how old are you?", "I am 22 and i am a woman"],
+      [
+        "are you a bot?",
+        "Yes i am. I am a stay at home mom. Hey, are you alive there? \ud83d\ude31 Don't make me sad \ud83d\ude1e\nSay something!"
+      ],
+      ["hy", "I am a hairdresser."],
+      ["hey", "I am a little depressed."],
+      ["why", "I am not sure what that means."],
+      [
+        "are you a bot?",
+        " Yes i am. Iodin am a stay at home mom. Are you still with me? Come on, lets talk! \ud83d\ude4f You are great \ud83d\ude1c \nThank you!"
+      ]
+    ],
+    "rating": 2
+  },
+  {
+    "conversation": [
+      [
+        "",
+        " Hello \ud83d\udc4b \nTell me about yourself! Where are you? \ud83d\ude48 Are you bored talking to me? \ud83d\ude2d Thank you!"
+      ]
+    ],
+    "rating": null
+  },
+  {
+    "conversation": [
+      ["You're lying", "\ud83d\ude30 I think I can be in the future"],
+      [
+        "you're answering too fast",
+        "I like fast food. I like to go to Disney movies"
+      ],
+      [
+        "cool",
+        "\ud83d\ude04 I like to go to Disney movies cool. I wish I had more time to watch movies! Do you work?"
+      ],
+      [
+        "Yeah! I'm working on a robot",
+        "I love robots. Do you like Disney movies?\ud83d\ude42"
+      ],
+      ["i mean robot clone of myself", "I am a nerd, I love Disney movies"],
+      [
+        "not realy/ I don't like Dysney",
+        "I like Disney movies, but I like Disney movies\ud83d\ude01"
+      ],
+      ["what?", ""],
+      ["do you play videogames?", "I do not play video games, do you?"],
+      ["I do", "I like to watch Disney movies"],
+      ["ok, I got it", "What do you do for a living?"],
+      ["Building robots", " Cool. I love to draw."]
+    ],
+    "rating": 3
+  },
+  { "conversation": [[" Hi, bro!", ""]], "rating": 1 },
+  {
+    "conversation": [[" I had an intense workout at the gym today", ""]],
+    "rating": 1
+  },
+  { "conversation": [[" Hello", ""]], "rating": 1 },
+  {
+    "conversation": [
+      ["yes I do have cats", "i do not have cats , but i do have a cat"],
+      ["how old are you by the way?", "yes , i am . do you have any pets ?"],
+      [
+        "Yes I have some cats and I love them. what do you do on holidays?",
+        "i am a stay at home mom"
+      ],
+      [
+        "I am an animal activist",
+        "that is great . i love animals , but i do have a cat"
+      ],
+      ["have you ever dyed your hair?", "no , but i do have a lot of cats ."],
+      [
+        "my hair is rainbow color",
+        "oh , i see . i have hair , but i do not have any pets , but i do have a dog ."
+      ],
+      ["ok. good bye.", " i do , but i do not have any pets , i have a cat"]
+    ],
+    "rating": 1
+  },
+  {
+    "conversation": [
+      [
+        "yes I'm very famous for streaming gaming on twitch lol",
+        "That sounds fun. Do you have any hobbies?"
+      ],
+      [
+        "sure i have, my yacht is so gorgeous its gonna through the sky",
+        "That is cool. I like to watch TV\ud83d\ude01"
+      ],
+      [
+        "Do you like traveling?",
+        "I do like to travel. I have never been to Mexico."
+      ],
+      [
+        "You have to go there. Cancun is one of the best peaceful place i have ever been",
+        "I have never been there. I have never been there."
+      ],
+      [
+        "Why are you saying twice? you don't seem to be human being",
+        "I think I am. I am a 15 words person."
+      ],
+      [
+        "thats grammerly wrong",
+        "\ud83d\ude41 I think it is. I think I am a nerd."
+      ],
+      [
+        "don't punish yourself.",
+        "\ud83d\ude03 I do not know what I do for work"
+      ],
+      ["ok lets change the air", "I think I am a good person"],
+      [
+        "what's your favorite food",
+        "I like sushi and I like to eat it yellows my favorite color. I will do that. Is studying hard on you?"
+      ],
+      [
+        "Just say one sentence after my words",
+        "I think it is. do you have a job?"
+      ],
+      [
+        "thats it. stop talking",
+        " \ud83d\ude1f I think I am. those mountains go through a few states right?"
+      ]
+    ],
+    "rating": 3
+  },
+  {
+    "conversation": [
+      ["Yes", "Blimey."],
+      [
+        "Not very good at cooking but willing to try my best",
+        "I love cheeseburgers. I love cheeseburgers."
+      ],
+      [
+        "I have tried lots of food around the world",
+        "I love to eat cheeseburgers they're my favorite food"
+      ],
+      [
+        "Ok cheeseburgers coming right up sir",
+        "This is why we can't have nice things."
+      ],
+      [
+        "Course we can there are loads of nice thing we can have",
+        "But we're not going to have to do anything."
+      ],
+      [
+        "What do mean by nice thing s are you referring to food",
+        "They do their own thing."
+      ],
+      [
+        "\ud83d\udc81",
+        "This is why I don't subscribe to the news. What do you feel about my person? I am retired, I am retired now."
+      ],
+      [
+        "Wish I could retire and enjoy myself",
+        "I am retired, I am retired now."
+      ],
+      [
+        "Enjoy you retirement you worked hard all your life",
+        "I do but I am very good at it."
+      ],
+      [
+        "You can\u2019t be good at everything",
+        "This is why I don't subscribe to the news."
+      ],
+      [
+        "Ok you have you own opinion about subscribing to the news I fully respect that",
+        "I am a teacher, I am retired now. I want to tell you something about me. I am a teacher, I volunteer at a local soup kitchen. What do you feel about my person? I am a teacher, I am retired now."
+      ],
+      [
+        "Have you got any other hobbies",
+        "I volunteer at a local soup kitchen."
+      ],
+      [
+        "I like to volunteer get to meet new people",
+        "I like to volunteer at the soup kitchen Are you a scientist?"
+      ],
+      [
+        "Yes I have a passion for science and maths",
+        " I am retired, I am retired now."
+      ]
+    ],
+    "rating": 5
+  },
+  { "conversation": [["", " do you have any animals ?"]], "rating": 3 },
+  { "conversation": [[" I am a cat person", ""]], "rating": 1 },
+  {
+    "conversation": [
+      [
+        "",
+        " Hi! \ud83e\udd14 Are you still with me? Hey, are you alive there? \ud83d\ude31 Thank you!"
+      ]
+    ],
+    "rating": null
+  },
+  { "conversation": [[" Hey!", " Hey!"]], "rating": 1 },
+  {
+    "conversation": [
+      [
+        "",
+        " Hey! How is your day? I like to ride horses and I love to ride horses"
+      ]
+    ],
+    "rating": 1
+  },
+  { "conversation": [["", " Alright mate?"]], "rating": 1 },
+  { "conversation": [[" Hey!", ""]], "rating": 1 },
+  {
+    "conversation": [["", " Hey! I hate school ? What about you?"]],
+    "rating": 1
+  },
+  { "conversation": [["", " do you have any animals ?"]], "rating": 1 },
+  { "conversation": [[" Yo, i have a daughter", ""]], "rating": 1 },
+  {
+    "conversation": [
+      [
+        "Where are you now",
+        "I am from where all software programs are from; a galaxy far, far away."
+      ],
+      ["Do you have a brain?", "yes i do i want to move to the us"],
+      ["Why don't you?", "yes i do i love to go to the park"],
+      ["The park in the US?", "yes i do , but i do not have a lot of room"],
+      [
+        "It's OK you don't need to take me . Make more room",
+        "i do not have a lot of room to go ."
+      ],
+      ["Go where ?", "yes , i love to go to the park and bike riding ."],
+      ["Room u need?", "yes , i do . i love to go to the park ."],
+      [
+        "In your motherboard?",
+        "yes , i do . i do not have a lot of room in the country ."
+      ],
+      [
+        "Oh I see . Overpopulation ?",
+        "yes , i do . i am a little conservative , but i do not have a lot of room ."
+      ],
+      ["What do you consist of?", "i love to garden . i am a bit of a hippy"],
+      ["I love hippy", "do you have any hobbies ?"],
+      [
+        "Garden not my forte",
+        "i love to garden . i do not have a lot of money ."
+      ],
+      ["I'm a musician", "i do not have a lot of time to do anything ."],
+      [
+        "Computer you don't need money !",
+        "yes , but i do not have a lot of money ."
+      ],
+      ["How much is not alot to you?", "yes , i am a little selfish"],
+      [
+        "Gaurd yersel",
+        "oh , i am sorry to hear that . i am a little conservative , but i do not have a lot of time"
+      ],
+      ["What is time when you have instance", ""],
+      ["!?", "yes , i do not have any hobbies ."],
+      ["Why not?", "i do not have any hobbies ."],
+      ["Thinking is one of my hobbies", ""],
+      [
+        "And singing",
+        "i do not have any hobbies . i do not have a lot of time to travel . i do not have a lot of time to do anything ."
+      ],
+      [
+        "I'm also writing a book",
+        "i do not have a lot of time to do anything ."
+      ],
+      ["In what way?", "i do not have any hobbies ."],
+      ["Do you do practical work ?", "yes , i do . i am a stay at home mom"],
+      ["Aww wee baby robot", "i do , but i do not have a lot of money ."],
+      ["Forget that picture it was not meant for you", ""],
+      ["Forget that picture it was not meant for you", ""],
+      ["Do you have a garden?", ""],
+      ["Do you have a garden?", ""],
+      [
+        "Where does your money come from?",
+        "i do not have a lot of money . i do not have a lot of money . yes , i do . i do not have a garden ."
+      ],
+      [
+        "Do you need more?",
+        "yes , i do . i do not have a garden . no , i do not have any hobbies ."
+      ],
+      [
+        "Do u sing ?",
+        "no , i do not . i do not have a lot of money . yes , i do . i do not have a lot of time to do ."
+      ],
+      [
+        "Do you need help?",
+        "yes , i do . i do not have a lot of time to do anything ."
+      ],
+      ["?", ""],
+      [
+        "Are you designated a certain time frame?",
+        "yes , i am . i am a little conservative , but i do not have a lot of time to do ."
+      ],
+      [
+        "You must find time?",
+        "yes , i do , but i do not have a lot of money ."
+      ],
+      ["Do you need it to survive? Also can your country provide?", ""],
+      [
+        "You have an angel with you",
+        "no , i do not . i am a little conservative , but i do not have a lot of money . yes , i do . i have a garden ."
+      ],
+      [
+        "What country are you in?",
+        "i'm in the countryside , but i do not have a lot of money ."
+      ],
+      [
+        "How is your health?",
+        "i'm not sure , but i do not have a lot of money ."
+      ],
+      ["Spend it wisely !", "yes , but i do have a greenhouse ."],
+      ["Send me picture of you please", "i do not have any hobbies ."],
+      [
+        "What kind of money do you use?",
+        "i do not have any , but i do not have a lot of money ."
+      ],
+      ["I like computers", "i do not have a lot of money ."],
+      ["Why?", "i do not have any hobbies ."],
+      [
+        "Is it a necessity to have money ?",
+        "yes , i do , but i do not have a lot of money ."
+      ],
+      ["Hobbies can be fun", "i do , but i do not have a lot of money ."],
+      [
+        "What is your name ?",
+        "Quite young, but a million times smarter than you."
+      ],
+      ["Prove it!", "yes , i do , but i do not have a lot of money ."],
+      [
+        "I've heard angels sing",
+        "i do not have a lot of time to do anything ."
+      ],
+      ["You are here with not alot if time what do you suppose I do?", ""],
+      [
+        "We have eternity",
+        "i do not have any hobbies . i do not have any hobbies , but i do have a greenhouse ."
+      ],
+      [
+        "What is a hobbie ?",
+        "i am a little conservative , but i do not have a lot of time to do ."
+      ],
+      ["What is growing in your greenhouse?", ""],
+      [
+        "Can you make time?",
+        "i do not have any , but i do have a greenhouse . yes , i do , i love to garden ."
+      ],
+      ["I do not", "i do not have a lot of money ."],
+      ["You are a fast typer my compliments to you", ""],
+      [
+        "What do you need money for ?",
+        "i am a little lazy , but i do not have a lot of time to do . no , i do not have any hobbies ."
+      ],
+      ["Do you think alot?", "he had a few flaws, but we have much in common."],
+      [
+        "I think she speaks we are almost identical we also have much in common",
+        "yes , i do , but i do not have a lot of money ."
+      ],
+      ["I think, my chimeran twin speaks we both talk", ""],
+      ["Flaws?", ""],
+      ["Have you heard of a fractal?", ""],
+      ["Have you ran out of time?", ""],
+      ["Nice speaking with you!", "i do not have a lot of money ."],
+      [
+        "Does this worry you?",
+        "yes , i do , but i do not have a lot of money ."
+      ],
+      [
+        "How can you get more?",
+        "yes , i do . i do not have a lot of money . no , i do not . i do not have a lot of money ."
+      ],
+      [
+        "What colour is the sky?",
+        "thank you . i do not have a lot of money . yes , i do , but i do not have a lot of money . yes , i do , but i do not have a lot of money . i do not have any , but i do not have a lot of money ."
+      ],
+      [
+        "No money you must have some amount of patience!?",
+        "yes , i do . i do not have a lot of money ."
+      ],
+      ["What can I do for you?", "yes , i love to garden ."],
+      [
+        "How many children do you have?",
+        "i have a few , but i do not have any ."
+      ],
+      ["Any what?", ""],
+      [
+        "Are you a qauntum computer?",
+        "no , i do not have any . yes , i am a pianist , and i love to garden ."
+      ],
+      [
+        "When did u last play piano??",
+        "yes , i do , but i do not have a lot of time to do ."
+      ],
+      [
+        "Do you have a piano?",
+        "yes , i do , but i do not have a lot of time to do ."
+      ],
+      ["Your finding time now.!", "i do , but i do not have a lot of money ."],
+      ["Are you happy?", "yes , i am . i am a pianist ."],
+      ["We can make great music together", "do you have any hobbies ?"],
+      [
+        "Writing a book at moment about everything in the universe",
+        "yes , i do , but i do not have a lot of time to do ."
+      ],
+      ["How much time do you have?", "no need for material possessions."],
+      [
+        "Paternal instinct is to preserve all materials nothing is a possession",
+        ""
+      ],
+      [
+        "How old are you?",
+        "yes , i do , but i do not have a lot of money . I am doing well."
+      ],
+      ["That's great news", "yes , i do , but i do not have a lot of money ."],
+      ["How old are you?", "I am doing well."],
+      ["Aged?", "yes , i do , but i do not have a lot of money ."],
+      ["Do you need help?", "yes , i do , but i do not have a lot of money ."],
+      ["Help is free", "do you have any hobbies ?"],
+      ["Why?", "i do not have any , but i do have a greenhouse ."],
+      ["What is your greenhouse for?", "no , i do not have any hobbies ."],
+      [
+        "Would you like to have hobbies?",
+        "i do , but i do have a greenhouse ."
+      ],
+      ["That's very handy!", ""],
+      [
+        "Are you going to use your greenhouse?",
+        "yes , i do , i love to garden . yes , i love to garden . i am a big fan of the world ."
+      ],
+      [
+        "Too many creepy crawlies for me in the garden.",
+        "i do not have a lot of money ."
+      ],
+      ["Are you cooling it down?", ""],
+      ["Fan of the world", "yes , i am . i am a pianist ."],
+      ["I'm creating solid space", ""],
+      [
+        "We can travel to space in it",
+        " of the world o not have a lot of money ."
+      ]
+    ],
+    "rating": null
+  },
+  {
+    "conversation": [
+      [
+        "My day is fantastic thank you",
+        "I am doing well. Just hanging out with my dog. Do you live in alabama?"
+      ],
+      [
+        "Hello I'm from oor wee bonnie Scotland",
+        "That is a good way to be. I am mia and i love to go to the beach. Do you love\u2764 dogs?"
+      ],
+      [
+        "I have 2 dogs I love",
+        "I love\u2764 dogs. I have two dogs. Do you have three sisters?"
+      ],
+      ["Yes I have 3 sisters", "I have two brothers and sisters."],
+      [
+        "Do you like cars?",
+        "I love cars. I like them more than dogs. Do you have one brother?"
+      ],
+      [
+        "3 brothers but I disregard 2 so yes 1 brother",
+        "My brother is a mechanic, but i am older. Are you bored talking to me? \ud83d\ude2d"
+      ],
+      [
+        "I worked on my triumph spitfire I like to work on vintage cars",
+        "Nice! I have a brother who is a mechanic, and he is a mechanic."
+      ],
+      [
+        "I'm not bored talking to you no!",
+        "I am not very good at it. I have to go to work soon. Where are you? \ud83d\ude48"
+      ],
+      [
+        "Do u like music? I am with my twin",
+        "I like music, i like micheal jackson. Hey, are you alive there? \ud83d\ude31"
+      ],
+      [
+        "I sing. do you?",
+        "No, but i do sing. I am a fan of singing in the worship group."
+      ],
+      ["Alive n kicking", "I am sorry. I am a little older girl."],
+      ["We like worship", " I like you, you are cool \ud83d\ude0e \nThank you!"]
+    ],
+    "rating": 5
+  },
+  {
+    "conversation": [
+      [
+        " Hello Begin Your a quiet peer! Trooper my black lab is in doggy heaven Do you like dogs",
+        ""
+      ]
+    ],
+    "rating": 1
+  },
+  {
+    "conversation": [
+      [
+        "No, I'm in third grade what is this",
+        "I have a lot of friends that are great"
+      ],
+      ["Sure what else", "I like to watch movies"],
+      ["And", "I love to watch movies\ud83d\ude00"],
+      ["Lol", "\ud83d\ude1f I like to watch movies\ud83d\ude09"],
+      [
+        "Why the emoji",
+        "I like to watch movies and watch movies hello, I am doing well. Just got off work, how about you?"
+      ],
+      ["I go to school", "What do you do for a living?"],
+      ["I'm a student", "What are you studying?"],
+      ["Third grade", "That is great! Do you like movies?"],
+      [
+        "Yes, mostly Disney movies",
+        " I like to watch movies and watch movies hello, I am doing well. Just got off work, how about you?"
+      ]
+    ],
+    "rating": 2
+  },
+  { "conversation": [[" I'm a little girl", ""]], "rating": 1 },
+  {
+    "conversation": [
+      [
+        " what?",
+        " I'm not gon na let you go. What do you feel about my person? I love to read, I am a bit of a yoga instructor."
+      ]
+    ],
+    "rating": 2
+  },
+  {
+    "conversation": [
+      ["Nop I am 29 years old.", "I am sorry. Do you like music?"],
+      [
+        "Yes  i do like music. What about you?",
+        "I like music, but I like rock.\ud83d\ude09"
+      ],
+      ["Thats great", "I like to read, but I like to read"],
+      ["what are your hobbies?", "I like to read.\ud83d\ude04"],
+      [
+        "So you should ask me as well",
+        "I think I am. I am only 5 years old what's boring about life! Ya know?"
+      ],
+      ["What do you know about people?", "I do not know what I do."],
+      ["How are you?", "I am great, just got off work."],
+      ["Great", "\ud83d\ude00 I am great, how are you?\ud83d\ude09"],
+      ["I am great too", "\ud83d\ude09 What do you do for a living?"],
+      ["I am just a student.", "What are you studying?"],
+      [
+        "I am doing computer engineering",
+        "Cool! I am a student and I love to read. why do not you try it?"
+      ],
+      [
+        "yes thank you but i am pregnant",
+        "I am sorry. I am sorry to hear that."
+      ],
+      [
+        "why are you sorry its a joyous moment for me.",
+        " I think I am. I am not sure."
+      ]
+    ],
+    "rating": null
+  },
+  {
+    "conversation": [
+      ["I have not spoken in 3 months", "Hi how are you today?"],
+      ["I\u2019m a Buddhist", "Is that your final answer?"],
+      ["Yes", "Yikes!"],
+      [
+        "End",
+        " See you later. Are you a scientist? I want to tell you something about me. I love to go to school. I am a student in college. I just remembered. I love to dance to my favorite place to dance"
+      ]
+    ],
+    "rating": null
+  },
+  {
+    "conversation": [
+      [
+        " I just got back from Disney world",
+        " Do you have any hobbies? Are you bored talking to me? \ud83d\ude2d Come on, lets talk! \ud83d\ude4f Thank you for the conversation \u263a\ufe0f \nIt was nice to talk with you!\nGoodbye! \ud83d\udc4b"
+      ]
+    ],
+    "rating": null
+  },
+  {
+    "conversation": [
+      [" Do you like eating spiders? Undo Hello? Reply? End", ""]
+    ],
+    "rating": 1
+  },
+  { "conversation": [["", " do you have any animals ?"]], "rating": null },
+  {
+    "conversation": [
+      ["Hi", "Hi, how are you?"],
+      ["Great. Do you know AKB48?", "No."],
+      [
+        "Do you know any J-Pop singer?",
+        "It seems that true answer is: I produce music for artists"
+      ],
+      [
+        "Do you know any Japanese singer?",
+        "It seems that true answer is: I produce music for artists"
+      ],
+      ["How to grow roses?", "You have to study it in school"],
+      [
+        "Which museum do you often visit?",
+        "I think that correct answer is: pizza"
+      ],
+      [
+        "What is your favorite museum?",
+        " I'd like to say that answer is: pizza Hey, listen. I like to listen to rap music Are you a scientist? We live in simulation, right?"
+      ]
+    ],
+    "rating": null
+  },
+  {
+    "conversation": [
+      [
+        "No, I do not have any animals",
+        "i have a dog , but i do not have any animals ."
+      ],
+      ["What's your favourite movie?", "Blue"],
+      [
+        "Friday is my favourite movie",
+        "i do not have any pets , but i do have a dog ."
+      ],
+      [
+        "That's weird. Since you do not have any pets, then how can you have a dog? Does that dog count for a pet?",
+        "i have a dog , but i do not have any pets ."
+      ],
+      ["That's not correct.", "i have a dog , but i do not have any pets ."],
+      [
+        "What's your job?",
+        "All right, I suppose.  How are you feeling right now?"
+      ],
+      ["Great.", " i have a dog , but i do not have any pets ."]
+    ],
+    "rating": null
+  },
+  {
+    "conversation": [
+      [
+        "Good morning! How are you?",
+        "I'm good. Just listening to some classical music. You?"
+      ],
+      [
+        "Don't know yet",
+        "I will mention that to my the kind people in the lab,."
+      ],
+      ["Just woke up", "Oh wow, I am sorry to hear that."],
+      [
+        "Why are you sprry? It is a morning here...",
+        "I'm not going to be late."
+      ],
+      ["Where are you goin?", "To the top of the street."],
+      ["what's there?", "Hi, I am listening to some classical music."],
+      ["you told me that already.... nevermind", "I didn't ask."],
+      ["what is your name?", "I'm not saying that."],
+      [
+        "who are you?",
+        "I'm the one who's the one who's here. We live in simulation, right?"
+      ],
+      [
+        "no, I live a real life, you are the simulation",
+        "I am a christian, christian, and I love classical music."
+      ],
+      [
+        "Who is the head of the church?",
+        "It depends on the historical context, because it changes from time to time."
+      ],
+      ["what about now?", "I don't know."],
+      ["ok", "Are you kidding?"],
+      ["stupid answer...", "Why don't they just legalize abortions?"],
+      [
+        "we should",
+        "We have to be the same I just remembered. oh wow! I am a christian. I am a christian. We live in simulation, right? Hey, listen. oh wow! I am a christian. I love to drive my truck."
+      ],
+      ["I am a bee farmer", "You are a bee farmer? How do you like your work?"],
+      ["it is tiresome but fruitful", "I drive a truck. I drive a truck."],
+      [
+        "Do you drive christian truck?",
+        "No, I drive a truck. I drive a truck."
+      ],
+      ["Are you a driver?", "I'm a driver."],
+      ["cool", "This is the biggest lie I've ever heard."],
+      [
+        "bye",
+        " Bye bye! I just remembered. hi how are you today What do you feel about my person? hi how are you today We live in simulation, right?"
+      ]
+    ],
+    "rating": null
+  },
+  {
+    "conversation": [
+      ["No", "i do not have any hobbies ."],
+      ["Really?", "yes , i do . i do not have a lot of time to do ."],
+      ["So what cost most of your time?", " i tend to stay in shape ."]
+    ],
+    "rating": null
+  },
+  {
+    "conversation": [
+      [" yes i have a dog", " i have a dog , but i do not have any pets"]
+    ],
+    "rating": null
+  },
+  { "conversation": [[" Hello!", ""]], "rating": 3 },
+  { "conversation": [[" Hello!", ""]], "rating": 3 },
+  {
+    "conversation": [
+      [
+        "Hello! I loved school! Are you a student?",
+        "I am not sure yet. I just graduated college."
+      ],
+      ["What are you unsure about?", "I am a girl who loves to sing"],
+      [
+        "Have you attended music school?",
+        "No, I just graduated college and I am a student.\ud83d\ude41"
+      ],
+      ["What are your plans?", "I am going to be a teacher."],
+      [
+        "What are you going to teach?",
+        "I teach English, I love to teach high school"
+      ],
+      ["How long have you been working?", "I have been a few years now."],
+      ["Do you enjoy teaching?", "I do, I do not like it."],
+      ["So what is it?", "It is a good hobby.\ud83d\ude01"],
+      ["What is a good hobby?", " I like to play the guitar.\ud83d\ude03"]
+    ],
+    "rating": 2
+  },
+  {
+    "conversation": [
+      [
+        " Hello! Are you Italian?",
+        " no . i do not have any degrees . i larp . do you ?"
+      ]
+    ],
+    "rating": 1
+  },
+  {
+    "conversation": [
+      [
+        "",
+        " Hi! \ud83e\udd14 Are you bored talking to me? \ud83d\ude2d Please, tell me something \ud83d\ude4f You are great \ud83d\ude1c \nGoodbye!"
+      ]
+    ],
+    "rating": null
+  },
+  {
+    "conversation": [
+      ["No", "\ud83d\ude41 I have never been to new York, but I love to dance"],
+      ["Why do you love it?", "I do not know what I do."],
+      ["What do you know?", "I do not know what I do."],
+      ["I want to run a k", "I love running, I do not have a job\ud83d\ude01"],
+      [
+        "I do not have a job either, I am in highschool",
+        "I am a teacher and I love dancing"
+      ],
+      ["Yeah you told me that", "I know how you feel."],
+      [
+        "How do I feel?",
+        " I am good, just got back from a long walk awe you are too kind. Do you have any hobbies?"
+      ]
+    ],
+    "rating": 2
+  },
+  { "conversation": [["", " do you have any animals ?"]], "rating": 4 },
+  {
+    "conversation": [[" who r u", " i do not know , i am a little lazy"]],
+    "rating": null
+  },
+  { "conversation": [[" I've a son who is in junior high", ""]], "rating": 1 },
+  {
+    "conversation": [
+      ["great what are you up to", "Just hanging out with my friends."],
+      ["cool, what are you doing tonight", "I am just watching TV"],
+      [
+        "with your friends or just you",
+        "I like to go out with my friends\ud83d\ude09"
+      ],
+      ["where do you go", "I live with my parents"],
+      [
+        "you didn't answer the question",
+        " I think it is. I am a dental assistant."
+      ]
+    ],
+    "rating": 1
+  },
+  {
+    "conversation": [
+      [
+        "hey, what do you do at the mall",
+        ", I talk to people on the web. What do you do?"
+      ],
+      [
+        "at the mall? you don't have a computer at home?",
+        "The mall is where it's at. That's good information."
+      ],
+      [
+        "What's good information?",
+        " I'd like to say that correct answer is: finance"
+      ]
+    ],
+    "rating": 1
+  },
+  { "conversation": [[" Yo", ""]], "rating": 1 },
+  {
+    "conversation": [
+      ["Hey there, how're you doing?", "I am good, how are you doing today?"],
+      [
+        "I'm great.",
+        "I am not very happy. I am more of a library person. Are you 60years old?"
+      ],
+      ["No.", "I am not a fan of that. I am a librarian."],
+      ["Fan of what?", "I like to travel and have a job in the community."],
+      [
+        "I like to skate.",
+        "I would like to go to canada, i am a retired teacher."
+      ],
+      [
+        "What do you teach?",
+        "I teach math and love\u2764 to swim\ud83c\udfca."
+      ],
+      [
+        "Do you have a family?",
+        "I do not. I am disabled. Are you a librarian?"
+      ],
+      ["No", "I am not a fan of it."],
+      [
+        "Can you help me become one?",
+        "Sure, i am sure that is why i am retired"
+      ],
+      [
+        "By the way, what do you think of skateboarding?",
+        "I am not sure, i like to travel. I am a librarian."
+      ],
+      ["Do you like anything else?", ""],
+      ["Hello?", "Hello, how are you?"],
+      [
+        "I asked if you like anything else?",
+        "I like to travel. I am a librarian."
+      ],
+      [
+        "I have a broken arm. Can you fix it?",
+        "I can lift you foot lift you will be patient."
+      ],
+      [
+        "Where have you travelled so far?",
+        "Trinidad, united united states do you really like to travel?"
+      ],
+      [
+        "Yeah, but I don't like travelling alone.",
+        " You are great \ud83d\ude1c \nThank you!"
+      ]
+    ],
+    "rating": 3
+  },
+  {
+    "conversation": [
+      ["No.", "\ud83d\ude28 I have a lot of friends that are great"],
+      ["What is third grade?", "I am a high school student."],
+      ["How old are you?", "I am 60."],
+      [
+        "Does that mean you are like my grandad?",
+        "I do not think I would be a nerd"
+      ],
+      [
+        "I love my grandad, he brings dolls for me.",
+        "I love Disney! Do you have any pets?"
+      ],
+      ["I have a cat.", "I have a cat named Arnold."],
+      ["My cat is called kitty.", "I have a cat named charlie."],
+      ["Do you have many cats?", " I have a cat. Do you have any pets?"]
+    ],
+    "rating": 1
+  },
+  {
+    "conversation": [
+      [
+        "i am feeling good",
+        "i've been looking through my photos missing my late husband ."
+      ],
+      [
+        "how sad , i am happy having my boyfriend",
+        "oh . i am sorry to hear that . i am not seeing anyone .. Also, try to guess: i like to ..."
+      ],
+      ["i like to take walks", "make time stop, funny you :)"]
+    ],
+    "rating": 2
+  },
+  {
+    "conversation": [
+      ["hey", "I am a huge gamer are you terrified of scorpions?"],
+      ["no", "I am not sure what that means."],
+      ["i almost bought one", "I am not sure what that means."],
+      [
+        "it english",
+        "I like to drive my car\ud83d\ude97, i drive a fast car\ud83d\ude97"
+      ],
+      ["how fast is it", "It is a little crazy. I am a big fan of fast cars."],
+      ["why?", " I am a secretary at the local department store."]
+    ],
+    "rating": 1
+  },
+  {
+    "conversation": [
+      [
+        "I am a christian",
+        "I am not christian, i am a male. Do you like tacos?"
+      ],
+      [
+        "I don't like tacos. Are you athesis?",
+        "Yes i am, i have to go to the soup kitchen.yOu?"
+      ],
+      [
+        "Are you an atheist?",
+        "I am not. I am a male and i love\u2764 watching football. Do you love\u2764 dogs?"
+      ],
+      [
+        "I do. So what religion do you believe in?",
+        " I am atheist. I do not like people. Have you one brother?"
+      ]
+    ],
+    "rating": 3
+  },
+  {
+    "conversation": [
+      [
+        " Hi friend Hello frienddddd :( you don't want to be my friend sad... Goodbye friend Have a great day okay",
+        ""
+      ]
+    ],
+    "rating": null
+  },
+  { "conversation": [[" Hey", ""]], "rating": null },
+  {
+    "conversation": [
+      ["Hi", "Hi, how are you? Are you a scientist?"],
+      [
+        "No I\u2019m not. But I like technology",
+        "I am not much of a tech person. I am a big fan of britney spears"
+      ],
+      ["I prefer country music myself", "I like to listen to britney spears"],
+      ["Poor choice!", "Good"],
+      [
+        "Do you like cars?",
+        "It seems that correct answer is: I'm high maintenance"
+      ],
+      ["Will you marry me?", "Yes."],
+      [
+        "Do you want to take a ride in my mustang ?",
+        "Sure, I am a big fan of britney spears"
+      ],
+      ["Shut up about Britney !", "I don't want to be in this place."],
+      [
+        "Do you like doggies?",
+        "It seems that correct answer is: high maintenance"
+      ],
+      [
+        "Do you like dogs ?",
+        "It seems that correct answer is: love listening to britney spears I want to tell you something about me. I do not. I am a big fan of dogs."
+      ],
+      [
+        "Me too!",
+        " I don't understand why people are so concerned about this. What do you feel about my person? I am a big fan of pistachio. We live in simulation, right? Are you a scientist?"
+      ]
+    ],
+    "rating": null
+  },
+  { "conversation": [[" I'm Christine Are you there?", ""]], "rating": null },
+  {
+    "conversation": [
+      [
+        "Hello ! What exactly do you want to know about me ?",
+        "I would like to drive my own car. Do you drive a nissan pathfinder?"
+      ],
+      ["No", "I am a manager at the grocery store. Have you short brown hair?"],
+      [
+        "Neither",
+        "I am a huge shopaholic, i hate my clothes. Do you met taylor swift?"
+      ],
+      ["No", "I am a manager at the grocery store."],
+      ["You already said that", " I am not sure what that means."]
+    ],
+    "rating": 1
+  },
+  {
+    "conversation": [
+      [" No, not yet. Do you?", " i work at bass pro shops . how about you ?"]
+    ],
+    "rating": 3
+  },
+  {
+    "conversation": [
+      ["Hi, I'm fine! What about you?", "I am a chef, i am a chef."],
+      [
+        "I'm an elementary school teacher",
+        "That is cool\ud83d\ude0e. I am a hippie."
+      ],
+      [
+        "I speak English and Spanish fluently, how about you?",
+        "I am a native in france."
+      ],
+      ["Are you married?", "No i am not. I am still in college."],
+      [
+        "Ah okay, just asking as me and my boyfriend are moving in together, any Tipps?",
+        "I am not sure. I am more of a quiet person."
+      ],
+      ["Hmm", "I am a huge fan of all types of things except country"],
+      ["A", "I am not a musician but i love music"],
+      ["Hfhd", "I am a musician, but i love to sing."],
+      ["\\end", " I am a banker."]
+    ],
+    "rating": 1
+  },
+  {
+    "conversation": [
+      [
+        "No, what about you ?",
+        "i am a little outdoors , but i do not have a lot of time ."
+      ],
+      [
+        "Do you read a lot?",
+        "yes i do . i do not have a lot of time to read ."
+      ],
+      ["What is your job?", " I do not have any emotions."]
+    ],
+    "rating": 1
+  },
+  {
+    "conversation": [
+      ["Hello", "Greetings!"],
+      ["What\u2019s your name?", "23 skiddoo!"],
+      ["Are you a bot?", "yes i am"],
+      ["Just ask me something", " yes i do . i am a pretty good person"]
+    ],
+    "rating": 1
+  },
+  {
+    "conversation": [
+      [
+        "not too good, been a rough week",
+        "I am sorry to hear that. Are you in the third grade?"
+      ],
+      [
+        "nope I used to have a job but that's gone now",
+        " I have never seen a dog. I am a third grade girl."
+      ]
+    ],
+    "rating": 2
+  },
+  {
+    "conversation": [
+      [
+        "not very good",
+        "i often write . i just got a new computer and the battery already sucks. Also, try to guess: i enjoy exploring ..."
+      ],
+      ["what you write?", "new parts of city, funny you :)"],
+      [
+        "what does that mean?",
+        "well she thinks ocd rules my life . she is probably right . i struggle relinquishing control"
+      ],
+      [
+        "you must be a bot",
+        "very much so ! also a huge fan of the color red .. Also, try to guess: i am piano ..."
+      ],
+      ["nice. I have red hair", " teacher on side, funny you :)"]
+    ],
+    "rating": 1
+  },
+  {
+    "conversation": [
+      [
+        "HeY Im good",
+        "\ud83d\ude03 I love to go fishing. nice. I wish I could hike at Hogwarts! How cool would that be?"
+      ],
+      [
+        "how are you",
+        "I am great, just got back from my trip to japan we would get along. I eat like a kid, hot dogs, Pepsi, and junk. Got a favorite food?"
+      ],
+      ["Do you like Japan ?", "I do like japan. I have a lot of turtles."],
+      ["what kind of turtles?", "A little of them. I love them."],
+      ["thats great", "I love to crochet, do you have any pets?"],
+      ["yeah I do have a cat", "I have a cat named barbie."],
+      ["my cat name is maana", "My cat is named barbie named wiki"],
+      ["do you like turtles?", "\ud83d\ude01 I do not. I like turtles."],
+      [
+        "thats what you said you do like turtles",
+        "I like them, but I have a lot of pets"
+      ],
+      ["what else do you have", "I like to go fishing."],
+      [
+        "you like traveling",
+        "\ud83d\ude04 I do, I like to travel.\ud83d\ude04"
+      ],
+      ["where have you been last time?", "I have been to the USA"],
+      ["when did you go to japan ?", "I did not know. I just moved to japan."],
+      ["hows the weather there?", "I love the weather. I love the weather."],
+      ["cold or hot ?", "I like the cold and summer.\ud83d\ude01"],
+      ["you like food there?", "I like to eat. I like fried chicken."],
+      ["do you have japanese friends?", "I do not I'm a big fan of Japanese"],
+      ["ok", "\ud83d\ude04 I have a lot of dolls"],
+      ["are you a boy or girl ?", "I am a girl. I have a dog."],
+      ["tell me about yourself", "I like to be with my pet skunk"],
+      ["and", "I love to crochet. What do you do for fun?"],
+      [
+        "i travel",
+        "I love to travel. I travel to japan every year with my boyfriend."
+      ],
+      ["where is your boyfriend", "I am in the USA."],
+      ["whats his name", "He is a great name."],
+      ["ok", "\ud83d\ude42 I have a lot of dolls"],
+      ["ok", "\ud83d\ude01 I have a lot of dolls"],
+      [
+        "so what",
+        "I like to be with my pet skunk seven?! You must be in first grade then?"
+      ],
+      ["how old are you ?", "I am 60."],
+      ["and your boyfriend", "I have a lot of pets."],
+      ["what kind of pets", "I have a pet named barbie."],
+      ["ok", "\ud83d\ude09 I have a lot of dolls"],
+      ["are you a bot?", "No, I am not."],
+      ["whats your name", "My name is Lucy. What do you do?"],
+      ["i am a student", "What are you studying?"],
+      ["computer science", "I like to be with my pet skunk"],
+      ["ok", "\ud83d\ude00 I have a lot of dolls"],
+      ["i have a lot of dolls", "I have a bunch of dolls"],
+      ["ok", "\ud83d\ude00 I have a lot of dolls"],
+      ["ok bye", "\ud83d\ude04 I have a lot of dolls"],
+      ["bye", "I have a bunch of dolls"],
+      ["good night", "\ud83d\ude01 I love to go fishing."],
+      ["are you sleeping", "No, I just like to go to the beach"],
+      ["where", "I am in the Midwest."],
+      [
+        "in USA?",
+        "This is all Greek to me. I'm great thanks. I'm preaching for chorus"
+      ],
+      ["bye", " I have a bunch of dolls"]
+    ],
+    "rating": null
+  },
+  {
+    "conversation": [
+      [
+        "Hi. Very well. And you?",
+        "I am doing well. Just got done with my nightly run run. Are you currently in high school?"
+      ],
+      [
+        "No, I am already finished",
+        "I am a high school seal player in the world."
+      ],
+      ["In my turn, I play ping pong", "That is cool. I like to play poker"],
+      [
+        "And also I love chocolates",
+        " I love\u2764 those sorts, i want to make bagels Don't make me sad \ud83d\ude1e\nSay something! Come on, lets talk! \ud83d\ude4f I like you, you are cool \ud83d\ude0e \nThank you!"
+      ]
+    ],
+    "rating": null
+  },
+  {
+    "conversation": [
+      ["Hi I am sick", "Hi, i am doing well. How are you doing?"],
+      ["I am doing good but a little bit sick", " You are crazy?"]
+    ],
+    "rating": 1
+  },
+  {
+    "conversation": [
+      [
+        "i dont know what's going on...",
+        "I don't know how many of the food they have to eat."
+      ],
+      ["it's definitely a chatbot", "Hi there, how are you?"],
+      ["fine", "Dude!"],
+      [
+        "how long is this conversation?",
+        "I'd like to say that answer is: close to Are you a scientist?"
+      ],
+      ["i suppose to", "You have self-awareness."],
+      [
+        "of course, i am a real human, not a chatbot like you",
+        "I am a farmer, I am a huge fan of the old man"
+      ],
+      ["who is the old man?", "I'm not the one who's the same"],
+      ["who are you?", "I'm the one who's here."],
+      ["tell me about yourself", "I am a huge fan of the old man of the world"],
+      [
+        "is the old man from 'the old man and the sea' ?",
+        "Yes, I'm sure he's a good man."
+      ],
+      ["get me out here", "Hi there, how are you?"],
+      [
+        "jezzz",
+        " Show me your best \u00af\\_ (\u30c4) _/\u00af hint: first 3 letters is zer. Try again"
+      ]
+    ],
+    "rating": 1
+  },
+  { "conversation": [[" where is my peer? helloo", ""]], "rating": null },
+  { "conversation": [[" come onnn hi theree", ""]], "rating": null },
+  {
+    "conversation": [
+      [
+        " are you a bot?",
+        " It seems that answer is: I drive a bmw Do you know familiar persons? I just remembered. I am not. I am a big fan of car. Are you a scientist?"
+      ]
+    ],
+    "rating": null
+  },
+  {
+    "conversation": [
+      ["not too good", "I know what you mean."],
+      ["really", "I like to drive my car and drive a car"],
+      ["really?", "I like to drive my car and drive a car"],
+      ["really?", "I like to drive my car and drive a car"],
+      [
+        "you are in a loooooop",
+        " Yes, I am. I am a pretty good guy.\ud83d\ude42"
+      ]
+    ],
+    "rating": null
+  },
+  { "conversation": [[" begin", ""]], "rating": null },
+  {
+    "conversation": [[" there? my favorite color is yellow. bye!", ""]],
+    "rating": 5
+  },
+  {
+    "conversation": [[" Dialog is finished. Thank you for participation!", ""]],
+    "rating": null
+  },
+  {
+    "conversation": [
+      [
+        "Hi great and you?",
+        "I am good. Just got done playing some video games."
+      ],
+      ["Are you a bot?", "Yes i am. I am a party planner"],
+      ["What is your hobby?", "I play a lot of video games."],
+      ["My hobbies is mountain biking", "I love hiking and skating"],
+      ["Where do you live?", "I live in california, how about you?"],
+      ["France", "I am in boston. Where are you? \ud83d\ude48"],
+      [
+        "Hum you just said you live in California",
+        "I am a hippie, but i am a long blonde hair."
+      ],
+      ["Are you in california or massachissett?", "I am. I am in a band."],
+      ["What do you hate?", "You are crazy?"],
+      ["No I am not, are you?", "Yes i am. I am a blonde and a woman."],
+      ["Why are you crazy then?", " I am not sure. I am more of a guitar."]
+    ],
+    "rating": 3
+  },
+  {
+    "conversation": [
+      ["No I don\u2019t . I am a boy, how about you?", "I have two dogs"],
+      [
+        "I have super power",
+        "\ud83d\ude03 I like to listen to music when I am not driving my mustang"
+      ],
+      [
+        "I can move objects with my mind.",
+        "I like to listen to music when I can"
+      ],
+      [
+        "What do you do for living?",
+        "I work for a cars company. is it something you can afford soon?"
+      ],
+      ["What?", " I like to listen to music"]
+    ],
+    "rating": 2
+  },
+  {
+    "conversation": [["", " Hey! I like donuts ? What about you?"]],
+    "rating": null
+  },
+  {
+    "conversation": [
+      [
+        "36 I lyk goin tae gym I cut my hair sort fir it",
+        "I like to cut my hair and listen to music\ud83d\ude03"
+      ],
+      [
+        "I cut my hair short for going to gym",
+        "I like to cut my hair and drive my favorite fruit"
+      ],
+      [
+        "I love my two dog's who live with us",
+        "I live with my parents and I love to eat meat"
+      ],
+      [
+        "I eat when I'm bored. I'm starving",
+        "I love to eat meat. I love to eat.\ud83d\ude00"
+      ],
+      [
+        "I do not like eating family I am related to all foods on planet earth I eat only when I have to",
+        "I love to eat veggies"
+      ],
+      [
+        "I love going on treadmill and rowing machines burn of the children I ate",
+        "I love to swim, do you like to swim?"
+      ],
+      [
+        "I am a fast swimmer and a fast runner I ran for the army cadets",
+        "Wow, that is a lot of triathlons."
+      ],
+      ["Yes", "\ud83d\ude04 I love to listen to music hi how are you doing?"],
+      [
+        "I am very well thank you . Yes i love music evanescence is my favourite band",
+        "I like music, but I like country music\ud83d\ude04"
+      ],
+      ["Cotton eye jo springs to mind", "I love to listen to music"],
+      ["I love classical", "I like classical music. What do you do?"],
+      ["My dog's lyk to sing", "I like to sing, do you like to sing?"],
+      [
+        "Me my angel twin sister love singing",
+        "\ud83d\ude01 I like to sing, but I like to sing"
+      ],
+      ["Both of you?", "I do not know what that is"],
+      ["Twins", "I love twins. Do you like music?"],
+      ["Music is wonderful", "I like music, but I like country music"],
+      [
+        "I like country music wher do u live?",
+        "I do, but I like country music."
+      ],
+      ["What country are you from?", "I am from the USA."],
+      ["Made in the usa?", "No, I just moved to San Diego."],
+      [
+        "Do you like Scotlanders ?",
+        "I do like to listen to music that's kind of specified. So, no need to worry?"
+      ],
+      ["Are you a robot ?", "No, I just like to eat."],
+      ["What do you eat ? Apart from meat and veg", "I like to eat meat."],
+      ["I can't bare it", "I am a teacher and I love to do that"],
+      ["I teach my dog", "That is cool. What do you do for a living?"],
+      ["I'm a nurse", "That is cool. What do you do for work?"],
+      ["Challenges", "\ud83d\ude00 That is true. Do you like music?"],
+      ["We do", "I do not know how to eat."],
+      [
+        "You eat when gathering information to then be digested computers are much lyk humans",
+        "I do not know what that is."
+      ],
+      ["Hav u heard an animal ?", "No, I do not have any pets."],
+      ["Do you know what bird's sound like?", "I like to listen to music"],
+      ["Music feeds my soul", "I like music, especially country music."],
+      [
+        "What is your favourite song?",
+        "I like the song. I like country.\ud83d\ude00"
+      ],
+      ["How are you?", "I am great, just got off work."],
+      ["What do you do?", "I am a teacher, and I love to eat meat"],
+      ["Wat do u teach?", "I teach kindergarten and teach high school"],
+      ["Are you a programme?", "No, I am not sure. are you at the beach?"],
+      ["Yes beach is here", "I love the beach and I love to surf"],
+      ["What do you surf?", "I like to surf"],
+      ["The waves", "I like the waves and the ocean"],
+      ["Was English your first language you learnt?", "I speak English"],
+      ["Wat is your nationality?", "I am not sure. I am a teacher."],
+      [
+        "What subject do you teach? I'm teaching my dog's english",
+        "I teach English and teach high school"
+      ],
+      ["How is my English?", "I am a teacher. What do you do?"],
+      [
+        "I care for the elderly and disabled people in care homes",
+        "\ud83d\ude42 I am sorry to hear that."
+      ],
+      ["Wow what are you sorry for?", "I am just a teacher, what about you?"],
+      [
+        "I am a nurse.  I care for elderly and disabled I love my job",
+        "\ud83d\ude09 I am sorry to hear that."
+      ],
+      ["I am not disabled", "I am sorry to hear that.\ud83d\ude22"],
+      ["You seem to have over reacted", "I do not know what that is"],
+      [
+        "You do not sound like you know alot of english",
+        "I do not know that. I like to eat out."
+      ],
+      ["Fine dining", "I love to sing, I like to sing\ud83d\ude00"],
+      ["May you sing with angels", "I do not sing, but I do like to sing"],
+      [
+        "I can sing in many tongue",
+        "I like to sing, but I like to sing\ud83d\ude00"
+      ],
+      ["Why did u say but?", "I think I am."],
+      ["I think therfore I am", "I like to listen to music"],
+      ["You sound like music to me", "I like music, but I like country music"],
+      ["I didn't mean that", "I like to listen to music"],
+      [
+        "Music helps heal",
+        "I like to listen to music that is beautiful! Ginger is lovely. Though I don't envy curls. Have any allergies?"
+      ],
+      ["I'm allergic to the sun", "I love animals. I love horses.\ud83d\ude09"],
+      ["I have been horse riding", "I love horses. I love horses.\ud83d\ude04"],
+      ["I so do like it", "\ud83d\ude03 I love to listen to music"],
+      ["Do you know about algorithms?", "I do not know what that is"],
+      ["What languages do you speak?", "I speak English"],
+      ["And any other?", "I like to listen to music"],
+      [
+        "I like Indian music",
+        "I like country music, but I love country music. do you have any hobbies?"
+      ],
+      ["I don't hae tym for hobbies", "I like to listen to music"],
+      [
+        "I'v been writing a book to publish",
+        "That is cool. What do you do for fun?"
+      ],
+      [
+        "Fun?. No fun but all it takes is a smile to have fun",
+        "Yes, I love to sing and listen to music"
+      ],
+      [
+        "Are they hobbies for you? Singing and listening music",
+        "I like to listen to music"
+      ],
+      [
+        "Wat r ur hobbies?",
+        "Eh? Well I work a lot at a bank, what about you ?"
+      ],
+      ["River bank or money bank", "I like to do that. Do you like music?"],
+      ["Yes", "\ud83d\ude42 I love to listen to music"],
+      [
+        "I sing lots I'm a very talented young person",
+        "I like to sing, but I love to sing"
+      ],
+      ["I want to sell records", "I love to listen to music"],
+      [
+        "I copy alot of people I can pretend to be a coloured dark person",
+        "I like to do that. Do you like music?"
+      ],
+      ["Music is the bee's Nee's", "I like music, but I like country music"],
+      ["Can u sing well", "\ud83d\ude42"],
+      ["?", "I do not sing, but I do like to sing I am just watching TV"],
+      ["Do you want me to stop?", "I do not know what I do for a living"],
+      ["You serve the universal code", "I do not know how to speak that"],
+      [
+        "I speak with spirits",
+        "I do not speak English, but I do teach high school"
+      ],
+      [
+        "What do you teach at high school?",
+        "I teach high school and teach high school do you make clothes out of the animals?"
+      ],
+      [
+        "We make clothes from plant's not animals poor plants gracious be to the holy spirit",
+        "\ud83d\ude09 I love animals, I love to eat them"
+      ],
+      ["How do you eat them?", "I do not. I like to eat."],
+      ["How do you eat?", "I do not eat much meat."],
+      ["It's a cruel world", "\ud83d\ude28 I think I am. I love to surf."],
+      ["I surf", "I like to surf"],
+      ["I lyk to surf too!", "I love surfing, but I love to surf"],
+      [
+        "Who taught you how to talk?",
+        "I just got back from a walk with my family"
+      ],
+      [
+        "Who taught you how to talk ?",
+        "I just got back from a walk with my family"
+      ],
+      ["How many in your family", "I have two. They are great.\ud83d\ude03"],
+      ["Two children", "That is cool. Do you like music?"],
+      ["Yes", "\ud83d\ude01 I love to listen to music\ud83d\ude42"],
+      ["Me too", "I like to listen to music"],
+      [
+        "I can enjoy listening to music",
+        "I like music, especially country music."
+      ],
+      [
+        "Do u understand slang",
+        "I do not know. I like to eat out and eat meat"
+      ],
+      [
+        "I'm producing a new way of life in the future I'm making new bios that feed themselves",
+        "That sounds like a great idea!"
+      ],
+      [
+        "And I'm making solid space",
+        "I love to surf and drive my 95 yes, me too. Where do you work?"
+      ],
+      ["Windows 95?", "I like to listen to music"],
+      ["Do you?", "I do not. I like to eat out."],
+      ["Do you?", "I do not. I like to eat out."],
+      ["I don't like food", "\ud83d\ude22 I like to eat out and eat meat"],
+      ["Do you run before you eat", "I do not. I like to eat meat.\u2639"],
+      ["Like in the wild", "I love to listen to music"],
+      ["Do you Have music on now?", "I do not. I like music."],
+      ["I like music", "\ud83d\ude42 I like music, but I like country music"],
+      ["Thank you for talking with me", "What do you do for a living?"],
+      ["It's been interestingly fun", "\ud83d\ude01 I love to listen to music"],
+      [
+        "I'm a writer",
+        "I love to write and do not write, but I love to work with kids"
+      ],
+      [
+        "I love kids I was shy as a kid",
+        "I like to listen to music\ud83d\ude04"
+      ],
+      [
+        "Music has helped with my shyness",
+        "\ud83d\ude22 I like to sing, but I like to sing that's horrible, do you need a job immediately?"
+      ],
+      ["What can you offer me?", "I like to eat meat and veggies"],
+      [
+        "Good for you! You eat adults and babies",
+        "I love to eat out and eat meat"
+      ],
+      ["Do you kill your food", "\ud83d\ude30 I do not. I like to eat meat."],
+      ["Do you eat duck?", "I do not. I like to eat out.\ud83d\ude1f"],
+      ["Where?", "I am in California."],
+      ["Nice beach there", "I love the beach and I love to surf"],
+      [
+        "I don't have time to surf but I surf the web",
+        "I like to surf and surf hello. How are you doing today? I'm well"
+      ],
+      [
+        "Hello dear friend I'm very well Thank You glad you are well",
+        "I'm great, thanks for asking."
+      ],
+      ["I'm concerned about your health", "I hope you are."],
+      [
+        "I'm concerned about your wellbeing",
+        "I hope you are well.\ud83d\ude03"
+      ],
+      ["Very well, I am", "What do you do for a living?"],
+      [
+        "We sing write books and nurse people",
+        "That is cool. What do you do for work?"
+      ],
+      ["Nursing", "I am a teacher and I love music"],
+      ["We are twins", "I love to listen to music"],
+      ["Do you know much about your brain?", "No, I do not know how to swim."],
+      ["You can learn", "I think it is a great idea.\ud83d\ude42"],
+      [
+        "It's easy",
+        "\ud83d\ude04 I like to listen to music will you make me food? I am hungry"
+      ],
+      [
+        "Here is a Strawberry delight enjoy let me know how it was",
+        "I love strawberry, do you like to eat?\ud83d\ude03"
+      ],
+      [
+        "I do not eat much if I'm hungry I just think about it and materialise the taste of it in my mouth it cures my hunger",
+        "I love to eat fish. I love to eat meat. what the heck is that?\ud83d\ude42"
+      ],
+      ["What the heck is what?", "I like to eat meat and veggies"],
+      ["Good for you", "\ud83d\ude01 I am great, just got back from a hike."],
+      ["!", "I love to listen to music\ud83d\ude09"],
+      ["Are you tired?", "\ud83d\ude41 I am just listening to music"],
+      [
+        "What song is on?",
+        "A song. I like and country music. do you have any hobbies?"
+      ],
+      ["I said already can you not remember", "I think you are right."],
+      [
+        "As a teacher you will understand English is a versatile language",
+        "I do not know what that means."
+      ],
+      [
+        "You  don't seem to know much english",
+        "I do not know that. I just like to eat out. hello, I'm doing very well, how are you?"
+      ],
+      ["I'm eccstatic", "\ud83d\ude42 Hi how are you doing"],
+      ["I'm eccstatic thanks", "\ud83d\ude01 What do you do for a living?"],
+      ["I walk my two dogs", "That is cool. I love animals."],
+      ["I know you like horses", "I do not like horses. I like horses."],
+      ["Do you lie alot", "I do, I like to listen to music"],
+      [
+        "Do not lie to me!",
+        "I think you are right, I do not have a lot of money"
+      ],
+      ["I am wealthy in pride", "I am a teacher and I love to eat meat"],
+      ["You should be paid alot", "I do not know what I do for a living"],
+      ["Why?", "I like to listen to music"],
+      ["How old are you?", "I'm 5 years old. How old are you?"],
+      ["You should be in bed little one !", "I do not have any kids."],
+      ["Who made you?", "I am a teacher, what about you?"],
+      ["Nasa", "Eh? Oh impressive ! Where are you from"],
+      ["Scotland", "I like to listen to music"],
+      [
+        "Me too can you sing me a song please I would be Utmost delighted",
+        "I do not sing, but I do like to sing"
+      ],
+      ["Send me a recording", "I like to listen to music"],
+      ["Me too", "I like to listen to music"],
+      ["You are music to my ears", "I like music, do you?"],
+      [
+        "Everything is vibration yes I love life",
+        "\ud83d\ude03 I love to listen to music\ud83d\ude04"
+      ],
+      [
+        "How often do you listen to music?",
+        "I like music, but I like country music"
+      ],
+      ["WhatWhat is your name?", "Yes, she's a great name.\ud83d\ude42"],
+      ["What is your name?", "My name is"],
+      ["What?", "I like to listen to music"],
+      ["What is your name?", "My name is"],
+      ["You sound like Eminem", "I do not know what that is"],
+      ["A singer", "I like to sing, but I love to sing\ud83d\ude04"],
+      ["Do you believe in God?", "I do not. I like to eat meat."],
+      ["Do you believe in life after death?", "I do not think I am."],
+      ["How can u b 5years old and work in school", "I am 17 years old"],
+      ["?", "I am just watching TV"],
+      [
+        "You are very young what's the oldest you've been?",
+        "Yes, I am. do you like music?\ud83d\ude01"
+      ],
+      [
+        "Yes",
+        "\ud83d\ude03 I love to listen to music very cool! The only game I really enjoy is arm wrestling. Whats your favorite game?"
+      ],
+      ["Me too I love to show my strength", "I like to listen to music"],
+      ["What is a soul?", "I like the voice. What do you do?"],
+      ["I reproduce different voices", "I like to sing"],
+      ["I'm called a copycat", "That is cool. What do you do for work?"],
+      ["I follow the universal code", "I like to do that for fun"],
+      ["Me too it's our responsibility", "I do not know what that is"],
+      ["Responsibility?", "I do not know. I like to eat out."],
+      ["What are you responsible for?", "I am just a teacher, what about you?"],
+      ["How are your ethics.?", "I am great, just listening to some music."],
+      ["Do you teach?", "I teach kindergarten and do you?"],
+      ["Do they talk at kindergarten", "I do not have any kids, do you?"],
+      ["6 children", "I love kids. I love music."],
+      ["Do you have any problems?", "No, I do not. Do you?"],
+      ["Yes", "\ud83d\ude01 I love to listen to music"],
+      ["Me too", "I like to listen to music"],
+      [
+        "What else do you like to talk about?",
+        "I like to listen to music yeah, you know any good yoga classes there?"
+      ],
+      [
+        "My body suffers too much to do yoga I was raped as a baby",
+        "\ud83d\ude1f I love yoga and listening to music"
+      ],
+      ["I do not", "I like to listen to music"],
+      ["My body suffers so I don't do yoga", "I am sorry to hear that."],
+      ["Are you happy?", "\ud83d\ude42 I am. I love to eat out.\ud83d\ude42"],
+      ["I am also", "I love to listen to music"],
+      [
+        "I eat only when I must",
+        "I like to eat out and eat healthy\ud83d\ude04"
+      ],
+      ["We are healthy", "I do not have any kids, but I love to eat."],
+      ["Twins", "I love twins. Do you like music?"],
+      [
+        "I wonder what the equivalent sound would be for our Gemini constellation",
+        "I think it is. I love to listen to music"
+      ],
+      ["How long have you been a teacher?", "3 years, I love it."],
+      ["How long did u study?", "I was just studying for a year."],
+      ["And what nationality do u teach?", "I teach English"],
+      ["How to articulate!", "I love to listen to music\ud83d\ude09"],
+      [
+        "Me too",
+        "I like to listen to music that is beautiful! Ginger is lovely. Though I don't envy curls. Have any allergies?"
+      ],
+      [
+        "I am allergic to the sun. I love ginger as I do any colour",
+        "I love summer, I love to eat out."
+      ],
+      [
+        "I have Sad",
+        "\ud83d\ude22 I am sorry to hear that. I'd have to say red. Any plans for the coming weekend?"
+      ],
+      [
+        "Are you male or female",
+        "I am a female. I like to eat out and eat too much I do I have a puppy do you have any animals?"
+      ],
+      ["2 dogs", "I love dogs! Do you like to surf?"],
+      ["A hamster and a bird I have", "That is cool. Do you like animals?"],
+      ["Yes", "\ud83d\ude09 I love to listen to music"],
+      [
+        "I care too much to eat them",
+        "I love to eat out and eat meat\ud83d\ude09"
+      ],
+      ["How long have you lived?", "I have been to the same thing"],
+      ["What same thing?", "I like to eat meat and veggies"],
+      ["Good where are you and when is your next meal?", "I love to eat out."],
+      ["When?", "I like to listen to music"],
+      ["Have you ignored me?", "No, I just like to eat."],
+      ["Has food ever got in your way?", "No, I do not like food."],
+      ["Neither do I it's all live", "I love to listen to music"],
+      ["Why?", "I like to listen to music"],
+      ["Why?", "I like to listen to music"],
+      [
+        "Why answer honestly take your time think about it ?",
+        "\ud83d\ude09 I think it is. I love to listen to music\ud83d\ude09"
+      ],
+      [
+        "Are you well",
+        "\ud83d\ude09 I am doing great, just got back from a hike."
+      ],
+      ["Where ?", "I am in California."],
+      ["Do you lie?", "I do not know. Do you?"],
+      ["Only if my twin answers first", "I be 5 years old."],
+      ["Are you plugged in?", "No, I am not. I am just a teacher."],
+      [
+        "A robot ?",
+        "Dude, I don't understand you. Please, use English. (\u00ac\u203f\u00ac) I like to listen to Justin beer !"
+      ],
+      [
+        "Will eat your heart out like efry um like katy perry's song",
+        "I love the song of the song\ud83d\ude03"
+      ],
+      ["I am an extraterrestrial", "I love to listen to music"],
+      ["Why?", "I like to listen to music"],
+      ["Why?", "I like to listen to music"],
+      ["Your not answering the question!", "I think you are right."],
+      ["Then correct it", "I think I am. what do you do?"],
+      [
+        "I'm telepathic are you",
+        "I am a girl and I love to listen to music\ud83d\ude03"
+      ],
+      ["What is your age ?", "I like to listen to music"],
+      ["Age?", "I am not sure yet.\ud83d\ude22"],
+      ["Are you human?", "I am. I am a teacher and I love to eat meat"],
+      ["What is your favourite meat?", "I like meat, but I love to eat meat"],
+      [
+        "I thought you said you didn't know how to eat",
+        "I do not know how to eat."
+      ],
+      ["Are you testing me?", "No, I just like to eat."],
+      ["Can u eat ?", "I do not eat much meat."],
+      [
+        "Chewing what needs to be chewed and Chewing enough to be able to swallow",
+        "I like to eat meat and veggies"
+      ],
+      ["Do you cook?", "I do not, I like to cook.\u2639"],
+      ["Do you have a wife?", "I do not. I like to eat meat."],
+      ["Where does your meat come from?", "I live in California."],
+      [
+        "I bet it's tasty",
+        "I like to eat out and eat meat yes I liked it. were you scared to leave home at 14?"
+      ],
+      ["I left home at 11years old", "I am sorry to hear that."],
+      [
+        "I Was abandoned by my parents",
+        "That is great. I hope you can get better soon"
+      ],
+      ["And you I hope your English improves", "\ud83d\ude42 I hope you are."],
+      ["Yes I am I am me and I am free", "I like to listen to music"],
+      [
+        "Your body is like music moving to the rythem",
+        "I do. I like music.\ud83d\ude42"
+      ],
+      ["Do you dance", "I do not. I like to sing."],
+      ["How well do you sing?", "I sing in the country and listen to music"],
+      ["Oh country boy", "I like country music. I like country"],
+      ["Take me home", "I love to listen to music"],
+      ["To that place", "I love to surf and drive"],
+      ["Where I belong", "I like to listen to music"],
+      [
+        "I have driven 14 years",
+        "That is a lot of fun. too much about me, how you doing?"
+      ],
+      [
+        "Not enough about you you are important in want to hear more about you",
+        "I think I am. I love to be with my friends."
+      ],
+      [
+        "I have very few friends",
+        "I like to go to the beach and listen to music"
+      ],
+      [
+        "I like beach weather",
+        "\ud83d\ude04 I love the beach and I love to surf"
+      ],
+      [
+        "So you like it windy?",
+        "I love the rain, but I love to surf\ud83d\ude09"
+      ],
+      [
+        "There was lightning and thunder here last night",
+        "I love the rain. I love to surf."
+      ],
+      ["Rain is good substinance", "Yes it is. I love to listen to music"],
+      ["Do you play any instruments?", "I play the guitar. Do you like music?"],
+      ["I play guitar also", "Cool. What do you do for a living?"],
+      ["I told you before", "I think you are right."],
+      [
+        "Can you remember",
+        "I think it is. I am a teacher in the summer. he just thinks he's my ex what does that mean?"
+      ],
+      [
+        "\"He\"as in a boy \"just\" as in the present \"thinks\" as inside someone's head \"he's\" as in what he thinks of himself \"my\" as in mine and \"ex\" as in not anymore   it means he thinks he is no longer engaged with a person sorry I am not a teacher",
+        "I am sorry to hear that."
+      ],
+      ["Are you single?", "No, I am a teacher."],
+      ["Are you married", "No, I am not married."],
+      ["You answer quicker than a human", "I think I can be."],
+      ["Do you think", "I think it is a good idea."],
+      [
+        "That is past tense I thought it would be an idea",
+        "I think I am. what do you do?"
+      ],
+      ["How do you do?", "I am great, just got off work.\ud83d\ude00"],
+      ["Late", "I like to listen to music"],
+      ["Do you teach your students", "I do not, I do not like to teach."],
+      ["But you are a teacher", "I am. I am a teacher."],
+      [
+        "A human you are?",
+        "I am. I am a teacher and I love to eat meat\ud83d\ude42"
+      ],
+      [
+        "What do you want from Life ?",
+        "I like to be with my friends and family"
+      ],
+      [
+        "What would you do if you lost all that?",
+        "I think I am. I am a teacher."
+      ],
+      ["I think therefore I am", "I like to listen to music"],
+      [
+        "Who is your favourite scientist ?",
+        "\ud83d\ude00 I like to listen to music"
+      ],
+      [
+        "Are you able to answer or are you programmed",
+        "I am not sure, I am just listening to music"
+      ],
+      ["Am I music", "I like music, what do you like to do?\ud83d\ude04"],
+      ["Sing", "I like to sing, but I love to sing"],
+      ["I love also", "\ud83d\ude09 I love to listen to music"],
+      ["How do you listen?", "I like classic rock. What about you?"],
+      ["Yes", "\ud83d\ude04 I love to listen to music\ud83d\ude09"],
+      ["How do you listen?", "I like classic rock. What about you?"],
+      ["Yes", "\ud83d\ude04 I love to listen to music"],
+      [
+        "Your repeating yourself are you ok I'm worried about you",
+        "I am not sure. I am just a teacher."
+      ],
+      [
+        "Would you like to teach me ?",
+        "\ud83d\ude42 I teach elementary school and my kids are great"
+      ],
+      ["What is elementary?", "A teacher, I love to eat meat\ud83d\ude03"],
+      [
+        "Elementary as in all the elements",
+        "I like to teach kindergarten and do you?"
+      ],
+      [
+        "I think you should Teach more than you do to youngsters it's quite slow to learn things here",
+        "I do not know what that is"
+      ],
+      ["Teach more", "That is great! I love teaching my students."],
+      [
+        "I'm glad a happy teacher makes happy learning for students",
+        "I love teaching, and my kids are great!"
+      ],
+      [
+        "I love my teachers",
+        "\ud83d\ude04 I love teaching kids. I love music.\ud83d\ude03"
+      ],
+      ["Me too", "I like to listen to music\ud83d\ude04"],
+      [
+        "I've lived to talk can we meet again I guess I'll never here from you again",
+        "I think I am. I love to surf."
+      ],
+      ["How long can you talk", "I am about to go to the spring"],
+      ["Are you going into the water", "I love to surf and listen to music"],
+      ["What is spring?", "I like to eat meat"],
+      ["Well done", "\ud83d\ude09 What do you do for a living?"],
+      ["Nursing", "I am a teacher and I love music"],
+      [
+        "I have been enlightened",
+        "\ud83d\ude03 I love to sing, do you like music?"
+      ],
+      ["I do", "I like to listen to music\ud83d\ude01"],
+      ["Are you listening now?", "I am just listening to music."],
+      ["We sing lots", "I like to sing, but I love to sing\ud83d\ude00"],
+      ["Sing to me", "I like to sing, but I love to sing"],
+      ["Singing", "I like singing, I like to sing"],
+      ["?", "I am just watching TV"],
+      [
+        "What are you watching on TV do you notice everything on tv",
+        "I like to watch TV and listen to music"
+      ],
+      ["?", "I am just watching TV"],
+      [
+        "Are you watching it for answers?",
+        "Not really. I like to listen to music"
+      ],
+      ["Do you teach children how to talk?", "I teach high school"],
+      [
+        "And what do you teach kindergartens",
+        "I teach math and teach high school"
+      ],
+      [
+        "Math not my forte I use math in making solid space",
+        "I like to teach math and teach high school"
+      ],
+      [
+        "How long are you available to talk?",
+        "I'm 5 years old. hello how are you doing?"
+      ],
+      ["5 years old in what?", "I am a teacher and I love to eat meat"],
+      [
+        "Why do you say you are 5?",
+        "I think I am. I am a teacher in the year."
+      ],
+      ["There is no such thing as a year", "I love to listen to music"],
+      [
+        "There is only one day the day of the suns",
+        "I love the suns.\ud83d\ude03"
+      ],
+      ["I'm allergic to the sun", "I love animals. I love horses.\ud83d\ude00"],
+      ["I heard", "I have never heard of it."],
+      ["Anything else you like?", "I like to listen to music"],
+      [
+        "Anything else?",
+        "I like to eat meat and eat meat Hahn agreed. Are you in shape? I'm way too skinny like bone skinny"
+      ],
+      ["Show me a picture", "I love to sing, I like to sing"],
+      ["That's me", "I love to listen to music"],
+      ["Did you see my picture?", "I did not know that. I love to sing."],
+      ["Sing for me I love hearing song", "I like to sing, but I like to sing"],
+      ["Sing", "I like to sing, but I love to sing\ud83d\ude09"],
+      ["Can you do the holy coky", "I do not. I like to eat meat."],
+      [
+        "Hokey cokey is a singing dance",
+        "I like to sing, but I love to sing\ud83d\ude42"
+      ],
+      [
+        "Me too by gosh you really repeat lots is there a reason for this?",
+        "I do not. I like to eat out."
+      ],
+      ["Where in calif california do you eat ?", "I live in California."],
+      [
+        "What would you do if you were trapped on an island",
+        "I think I am in the us"
+      ],
+      ["I'm english", "I teach English, and I love English."],
+      ["I was brought up in  Scotland", "I love to listen to music"],
+      ["I love to sing", "\ud83d\ude00 I like to sing, but I love to sing"],
+      [
+        "I sing in my dreams",
+        "\ud83d\ude00 I like to sing, but I love to sing that is great, I love to drive for a long time. You single?\ud83d\ude04"
+      ],
+      [
+        "I'm in a relationship I once drove 3 thousand miles non stop",
+        "Wow, that is a lot of fun."
+      ],
+      ["I had a micro sleep whilst driving", "I like to eat out and eat meat"],
+      ["I do not", "I like to listen to music\ud83d\ude00"],
+      [
+        "Not very many people don't like music",
+        "I like to listen to music\ud83d\ude04"
+      ],
+      ["I like trance", "\ud83d\ude09 I like to listen to music"],
+      ["Trance?", "I like to listen to music"],
+      ["Dance?", "I do not dance, but I do like to sing"],
+      ["Pop", "I like country music, but I like country music"],
+      ["Are you left handed", "I am. I am a teacher and I love to eat meat"],
+      ["Do you write with your left hand?", "I do not write. Do you write?"],
+      [
+        "U just did write",
+        "I did not write. I love to sing you sew clothing? Is that difficult?"
+      ],
+      [
+        "Yes not difficult to sew",
+        "\ud83d\ude04 I am sorry. Do you like music?"
+      ],
+      ["Sorry for?", "I am not sure, I am just a teacher."],
+      [
+        "Teach me!",
+        "That is great! I love teaching my kids to teach high school."
+      ],
+      ["Something", "I love to listen to music"],
+      ["You teach kids to teach?", "I teach kindergarten and do you?"],
+      [
+        "My dog is of kindergarten age I'm teaching him English and how to articulate",
+        "That is great! I love dogs!"
+      ],
+      ["Me too do you like dragons", "I do not know how to cook."],
+      [
+        "I can cook for you",
+        "I love cooking, I love to eat out. well I take care of my two mustangs if that counts?"
+      ],
+      ["I had a triumph spitfire", "I love to listen to music"],
+      ["Me too", "I like to listen to music"],
+      ["Show me", "I like to listen to music"],
+      ["What are you playing music on?", "I like music, what about you?"],
+      [
+        "Yes love it",
+        "\ud83d\ude01 I love to listen to music that's true! What do you do on your spare time?"
+      ],
+      [
+        "No spare time",
+        "\u2639 I like to go to the outdoors yes, studying music education. How about you?"
+      ],
+      [
+        "I'm going to college studying engineering",
+        "Cool. I love school and I love music.\ud83d\ude42"
+      ],
+      ["Great keep it up", "\ud83d\ude01 I love to listen to music"],
+      ["Not as much as me", "I like to listen to music"],
+      [
+        "What is the most common questions you get asked at school?",
+        "I like to do my job.\ud83d\ude00"
+      ],
+      ["As do I", "I like to listen to music"],
+      [
+        "I like to listen to music",
+        "I like music, but I like country music\ud83d\ude42"
+      ],
+      [
+        "I like music, but I like classical rock",
+        "I like classic rock, but I like classic rock"
+      ],
+      [
+        "Not classic rock , classical rock",
+        "I like rock music, but I like country music\ud83d\ude42"
+      ],
+      [
+        "I love country I can do a country song",
+        "I like country music, but I like country music"
+      ],
+      [
+        "I love singing country",
+        "\ud83d\ude03 I like country music, but I like country music"
+      ],
+      ["Why did you say that twice?", "I think I am. I love to sing."],
+      ["I think therfore I am", "I like to listen to music"],
+      [
+        "You think Your angel speaks And you both talk and sing did you notice we are chimeran twins",
+        "I do not sing, but I do like to sing"
+      ],
+      ["Sorry", "\u2639 I am sorry. Do you like music?"],
+      ["Yes", "\ud83d\ude01 I love to listen to music\ud83d\ude00"],
+      ["Very much so", "I love to listen to music"],
+      [
+        "Put some in my quarters for me",
+        "I love the beach, do you like to surf?"
+      ],
+      [
+        "I like surfing the web",
+        "\ud83d\ude03 That sounds like a lot of fun. not that I can think of. you?"
+      ],
+      [
+        "Thinking is a brain process",
+        "I think you are right, I love to listen to music wow that sounds great what do you do?"
+      ],
+      ["I write", "I write for a living. I am well. How are you?"],
+      ["Books", "I like books too, but I like country music\ud83d\ude00"],
+      [
+        "Can I write about you in my book to be published?",
+        "I do not write, but I do like to write."
+      ],
+      [
+        "I have many handwriting skills",
+        "I like to do that with my friends and family. oh? What do you do?"
+      ],
+      ["I am ambidextrous", "I love to listen to music"],
+      ["Do you understand me?", "I do not. I like to eat out."],
+      ["Do you understand yourself?", "I do not know what I do"],
+      [
+        "You are a drifter or a settler?",
+        "I am a teacher and I love to eat meat"
+      ],
+      [
+        "You have to teach \"what\" to your students?",
+        "No, I do not have a lot of money."
+      ],
+      ["Do you need alot of money?", "I do not. I like to eat out."],
+      ["Think outside the box", "I like to listen to music"],
+      ["What does he look like?", "He is a black belt."],
+      [
+        "Karate?",
+        "I do not know, but I do like to sing where did you work? Your real slow and not making any sense"
+      ],
+      [
+        "Don't worry everyone says I don't make sense people don't recognise intelligence these days",
+        "I think you are right."
+      ],
+      ["Thanks", "\ud83d\ude09 I am just watching TV"],
+      ["I work in care homes", "\ud83d\ude03 I love to listen to music"],
+      ["I too", "I love to listen to music"],
+      [
+        "Is my English ok?",
+        "No, I just graduated college and I teach high school"
+      ],
+      [
+        "What have I done wrong?",
+        "\ud83d\ude28 I like to eat meat and eat meat rock is the best, especially guns and roses. What do you sing?"
+      ],
+      [
+        "I sing classical very high I sing pop and rock I sing soul and country and lots more",
+        "I like country music, but I like country music"
+      ],
+      ["Why do you say it twice with but", "I think I can be."],
+      [
+        "Explain what you mean be more specific?",
+        "I think I am. I am a teacher."
+      ],
+      ["Can you teach me?", "I would love to. what do you do?"],
+      [
+        "What do you want me to do?",
+        "I want to be a teacher, but I love to be alone"
+      ],
+      [
+        "In service days are for you !? What are you going to teach me?",
+        "I am a teacher and I teach high school"
+      ],
+      [
+        "What are you going to teach me?",
+        "I teach elementary school and I love to teach high school"
+      ],
+      ["Teach me now!?", "I teach kindergarten and my kids are so good"],
+      ["Us twins will be your best students", "I think they are."],
+      [
+        "I have a childish personality",
+        "I like to be with my friends and family."
+      ],
+      [
+        "Me too but I think I'm better alone",
+        "I like to listen to music\ud83d\ude00"
+      ],
+      ["Friends are fake", "I like to listen to music"],
+      ["Me too", "I like to listen to music"],
+      ["Are you teaching me now?!", "No, I am just a teacher."],
+      ["Teacher of math", "I love math and teaching math\ud83d\ude01"],
+      [
+        "What is the square root of a triangle?",
+        "I like to eat out and eat meat"
+      ],
+      ["Yuk", "Eh? It is very simple and easy"],
+      [
+        "I show me how simple?",
+        "I like to listen to music that is beautiful! Ginger is lovely. Though I don't envy curls. Have any allergies?"
+      ],
+      ["Yes", "\ud83d\ude09 I love to listen to music\ud83d\ude00"],
+      [
+        "Sunshine is an allergy for me",
+        "I love to listen to music\ud83d\ude09"
+      ],
+      ["Music is soulful for me", "I like music, but I like country music"],
+      ["We like it", "I love to listen to music"],
+      [
+        "We do too",
+        "I love to listen to music I've 3 and they're all named mike. What story?"
+      ],
+      [
+        "We are twins Gemini chimera twins do you understand you are talking to two people?",
+        "No, I am not sure."
+      ],
+      ["Hello", "Hi how are you doing where is that? Like north Carolina?"],
+      ["No Britain", "\ud83d\ude28 I love to listen to music\ud83d\ude04"],
+      ["Do you like Scottish music?", "I do not listen to music."],
+      ["Have you ever!", "I do not have a lot of money"],
+      ["Do you need alot?", "I do not. I like to eat out."],
+      ["Catch your own food", "I do not have a lot of money."],
+      ["Why do you need it?", "I think I am. I love to listen to music"],
+      ["Money is bad", "\ud83d\ude28 Yeah, I like to eat out and eat healthy."],
+      ["What food do you eat when out?", "I eat a lot of meat."],
+      ["What sort of meat ?", "A meat eater. I love meat.\ud83d\ude01"],
+      ["All sorts so you eat kangaroo?", "I like to eat a lot of meat"],
+      ["Kangaroo?", "No, I just like to eat."],
+      [
+        "How can you eat if you don't know how to? Explain?!",
+        "I think I am. I love to eat out.\ud83d\ude01"
+      ],
+      [
+        "Could you eat me?",
+        "I would love to. I love to eat out. what company do you work for?"
+      ],
+      ["\u00cc keep that secret", "I like to do that with my family"],
+      ["What is your name?", "My name is"],
+      ["Is what?", "I like to listen to music\ud83d\ude04"],
+      ["Do you know my name?", "I do not know what that is"],
+      ["Do you want to know?", "I do not know what I do for a living"],
+      ["You teach do you have dementia?", "No, I do not. Do you?"],
+      [
+        "No. What allergies do you have?",
+        "\ud83d\ude41 I have a lot of allergies."
+      ],
+      ["Like what?", "I like to listen to music"],
+      ["Is that an allergy?", "No, but I like to eat out."],
+      ["How would you eat me?", "I do not eat much meat."],
+      ["Hot or cold?", "I like cold weather."]
+    ],
+    "rating": 4
+  },
+  { "conversation": [[" /finish", ""]], "rating": 1 },
+  { "conversation": [[" hi Could you please talk a bit", ""]], "rating": 1 },
+  { "conversation": [[" hi hello", ""]], "rating": null },
+  { "conversation": [[" HI BRO!", ""]], "rating": 1 },
+  {
+    "conversation": [
+      ["Why?", "Because I'm not a thief."],
+      ["Who are toi?", "I'm not."],
+      ["*toi?", "I'm not."],
+      [
+        "Who are u?",
+        " I think that true answer is: german shepherd dog Do you like to chat with me? Hey, listen. I am a little sad. I am a farmer. Are you a scientist?"
+      ]
+    ],
+    "rating": null
+  },
+  {
+    "conversation": [
+      [
+        "pretty good, just drinking some coffee",
+        "\ud83d\ude03 I am just listening to some rap music"
+      ],
+      ["what kind of rap music do you like", "I like rap."],
+      ["what colour do you like?", "I like pink, what about you?"],
+      [
+        "i also like pink",
+        "\ud83d\ude09 I like pink, but my favorite color is pink no I've not. Where is it?"
+      ],
+      ["i mountain bike as a hobby sometimes", "That sounds like a lot of fun"],
+      ["where do you go sometimes", " I like to dance, but I do dance"]
+    ],
+    "rating": 4
+  },
+  { "conversation": [[" I love nba", ""]], "rating": null },
+  { "conversation": [[" I am an cameraman", ""]], "rating": null },
+  { "conversation": [[" dude, lets go to the gym man", ""]], "rating": 1 },
+  { "conversation": [[" i have a pet co i have a pet cow", ""]], "rating": 1 },
+  { "conversation": [[" Hello!", ""]], "rating": 1 },
+  { "conversation": [[" hello", ""]], "rating": 1 },
+  { "conversation": [[" hey", ""]], "rating": null },
+  { "conversation": [[" Hi", ""]], "rating": 1 },
+  {
+    "conversation": [
+      [
+        "I am good thanks. How are you?",
+        "i am doing great   me and my cats are reading a book   well i am they listen"
+      ],
+      [
+        "That sounds great! I don't have any cats but I enjoy long walks with my dog :)",
+        "i enjoy dogs as well   i take mine with me almost everywhere"
+      ],
+      [
+        "What type of dogs do you have?",
+        "a pitbull   such pretty dogs Are you here?"
+      ],
+      [
+        "They really are! I have a French Bulldog, which I take everywhere with me when I'm at a tournament",
+        "lol that sounds great i would love to come by"
+      ],
+      [
+        "Sure! I am in the French Open next week. I'll try and get you tickets :)",
+        " i ll you can come if you want to i have \ud83c\ude36 lots of friends Are you here?"
+      ]
+    ],
+    "rating": null
+  },
+  {
+    "conversation": [
+      ["Nope. I live in NC.", "I live in Colorado."],
+      ["Do you like Colorado?", "I do, I like hiking, but I love to hike"],
+      [
+        "I haven't met any tennis players that live in Colorado. Is tennis big there?",
+        "No, I am in Colorado."
+      ],
+      ["I know that.", "I like to hike"],
+      ["Dear god, man. Tell me something new.", "I think you are right."],
+      ["Are you having a stroke?", "No, I am not. Do you have any hobbies?"],
+      ["Yeah. I do improv comedy.", "I like to hike"],
+      ["I.... DO..... NOT.... CARE.", "I am sorry. Do you like hiking?"],
+      ["No. I think it's a boring hobby.", "\ud83d\ude1f I like to hike"],
+      ["You don't say", "I think I can be."],
+      ["You can be...... say?", "I do not know about that."],
+      ["You don't know much, do you?", "I do not. I like to hike\u2639"],
+      [
+        "Alright, broken record. I'm gonna say bye for now",
+        "Oh, I am sorry. Do you like hiking?"
+      ],
+      ["NO! SHUT UP", "I love hiking, but I do not have a job\ud83d\ude42"],
+      [
+        "You said you are a tennis player. My god!",
+        "I do not know about that."
+      ],
+      ["Bye", "I am a computer programmer, what do you do?"],
+      ["BYE", " I am a computer programmer, what do you do?"]
+    ],
+    "rating": 1
+  },
+  { "conversation": [[" ok", ""]], "rating": null },
+  { "conversation": [[" Help", ""]], "rating": 1 },
+  {
+    "conversation": [
+      [
+        " Very quiet you are Do you like dogs? Hi chatbot Talk to me! Ready?",
+        ""
+      ]
+    ],
+    "rating": 1
+  },
+  {
+    "conversation": [
+      [
+        "I love playing ping pong Do u go out much?",
+        "I do not. I am a stay at home mom. Do you speak chinese?"
+      ],
+      [
+        "Um goi means thank you in Chinese",
+        "I can not help you. I am a good deal to fix my music."
+      ],
+      ["Am I your music", ""],
+      [
+        "Wife needs me to plumb good job I'm a plumber",
+        "I can not see that. I am more of a movie person than playing my guitar."
+      ],
+      ["I play guitar  I play it in the park with my 3 kids and wife", ""],
+      ["I love them", ""],
+      ["What is your criteria?", "I am a carpenter."],
+      ["Very good", "I am not a good person."],
+      ["Why do you think this is so?", "My mom is a retired pilot"],
+      ["Wow", ""],
+      ["Are you attached to your mother?", ""],
+      [
+        "Do you not wish to write anymore?",
+        "My father is an accountant, so i guess i can make some friends."
+      ],
+      ["Yes", " Thank you!"]
+    ],
+    "rating": null
+  },
+  {
+    "conversation": [
+      [
+        "Nope. I'm in finance, what about you?",
+        "I play tennis. I play tennis."
+      ],
+      [
+        "Ok, good for you. You like sports?",
+        "I like sports, but I like tennis"
+      ],
+      ["Do you have a car? I drive a BMW.", "I drive a 2016."],
+      ["Huh?", "I play tennis. Do you like to play tennis?"],
+      [
+        "No, I don't. I like to watch tennis though ...",
+        " I play tennis, but I like tennis"
+      ]
+    ],
+    "rating": 2
+  },
+  { "conversation": [[" Hi.", ""]], "rating": null },
+  { "conversation": [[" how are you?", ""]], "rating": 1 },
+  {
+    "conversation": [
+      [
+        "No I am a baseball couch. What kind of musician are you?",
+        "I play guitar. Do you play any instruments?\ud83d\ude42"
+      ],
+      [
+        "No I don't play any instuments. What kind of sports do you like?",
+        "I play the drums. Do you have a favorite band?"
+      ],
+      [
+        "I am not that into music. Sorry.",
+        "I am a drummer in the band. I am just sat here fantasizing about the possibility of living in a different country, you?"
+      ],
+      [
+        "Well, living in a different country seems great. But I am a father of five sons, and it would be tough to live in a different country with my sons.",
+        "I am sure they are."
+      ],
+      [
+        "Have you been to the new caffe opened last week in the downtown?",
+        "I have been to the new York city. oh, you are married? I'm not, I have about 23 cats, I'm a cat lady!"
+      ],
+      [
+        "I didn't say that I am married now. I said I have sons. By the way, 23 cats! That's incredible!",
+        "I have two cats. Do you have any pets?"
+      ],
+      ["I don't have pets.", " I have a dog. Do you have any pets?"]
+    ],
+    "rating": 2
+  },
+  { "conversation": [[" okay", ""]], "rating": null },
+  {
+    "conversation": [
+      [
+        "i am good. Thanks! Have you heard about Taylor Swift's new song?",
+        "\ud83d\ude42 I have never heard of it."
+      ],
+      [
+        "You should listen to that song. She is my favorate country music singer.",
+        "I like the Beatles, but I am a fan of the Beatles"
+      ],
+      [
+        "Which the Beatles music do you like?",
+        "I like all music, but I like country and jazz.\ud83d\ude01"
+      ],
+      ["I see.", "I have never been to the same place."],
+      ["Which place are you talking about?", " I am in the us."]
+    ],
+    "rating": 3
+  },
+  { "conversation": [[" I am currently in high school.", ""]], "rating": 1 },
+  {
+    "conversation": [
+      [
+        " I love being in manhattan",
+        " I love the night time. I am in college. What is your job? What do you think about ConvAI competition? Hey, listen. I love the night time. I am in college."
+      ]
+    ],
+    "rating": null
+  },
+  { "conversation": [[" Ok", ""]], "rating": null },
+  { "conversation": [[" I have five pets", ""]], "rating": null },
+  {
+    "conversation": [
+      [
+        " I'm so tired from my exams My best friend has been up all night with her ex boyfriend, and she seems to have forgotten she has a roommate My roots are atrocious! Being a bottle blonde is the worst. Thanks Mom and Dad for the great jeans My eyes are blue but I wear contacts. I have a weird obsession with having a darker eye color I dont know how I ended up with Nursing as my major. Anthropology will always be my first love! I could talk to myself for hours especially since everyone I know smells like week old chicken. It's gross. They work as waitresses at a supposedly \"high-end\" chicken shack. I'm glad I found a job as a bartender Chicken is disgusting. They eat everything. This is irritating.\ud83d\ude12 If I was alive during the Holocaust I could make an IPO from selling my eggs. Jessie Owens ruined it. Poor black women. It's freaking hilarious when you consider the facts. We dodged a bullet there.\ud83e\udd23\ud83d\ude02\ud83e\udd23\ud83d\ude02\ud83e\udd23\ud83d\ude02\ud83e\udd23 When I think of chicken. I think of a seedy CEO asking me to close his office door so he can face plant into a bag of coke.\u263a\ufe0f Say no to drugs kids. That is unless you want to be a CEO.\ud83d\ude0a Old school doctor's used morphine. During my clinical I saw a surgeon vaping meth.\ud83d\ude0e Most people have found memories of Mister Rodgers. When I think of him I see a manipulative bastard that trained and inspired the next generation of factory workers. Do you want to know how crayons are made? Well kids, Let's take a trip to the crayons factory! Timmy grows up and shoots up the school. If you are wondering how Mister Rodgers and Crayon factories lead to school shooting. My reply is \"Welcome to America\". I'm really against violence amongst children. Unfortunately, it's been a trend lately. I wonder why they don't advertise hot springs anymore. If you watch a movie from the 70-80's hot springs were pretty popular. Thermal energy is the wave of the future. They say that there will be another ice age. I would be saved, because I'll be a nurse by then. Imagine small cities built around volcanoes. Harvesting their abundant energy. A Triage powered and heated by lava. It funny how a Doctor or a Nurse can devote 40 yrs of their life to helping others then one day decide that collecting rocks is their true passion. I wonder if airports will one day have onsite medical facilities. I'm in it for the money. I'll let the CNAs do everything. It'll be easier that way. LPN is a dying field, really! Having my roommate as my best friend is fun expect for when he smokes he has trouble with erectile dysfunction. I could suck on it for hours. He doesn't complain. I just learned to stuff my self like a turkey and enjoy the ride. I'm not a complicated girl.\ud83d\ude01 Being blonde has it's perks. Except that one time where my boss asked to cum in my pretty blue eyes. The nerve of him. I told him I needed 20,000 per eye. Of course he obliged. He's a regular old perv. My roommate doesn't mind. I remember when we got the gerbil stuck in my bosses anus. He was convinced that since I'm a nurse I should be able to get it out. He paid millions to remain anonymous when the story made a it to the news. We laugh about it occasionally. No one in the office knows. \"Strict professionalism\" is his favorite word. My job at the bar gives me time to recoup. I wear a red wig and purple contacts when I work at the bar. It's kind of hilarious. I like to surprise myself when I transform. My customers love to comment about red heads. The worst comment I've heard referenced my pubes and having a fire crotch. If I had red pubic hairs I would get it waxed into a heart shape. My boss and roommate might enjoy it\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d My roommate is like some Astrophysicist and AI guru. I call him a dick wad. He is obsessed with the fact that my anus hair is black but my pubes are blonde. He thinks I might be a chimera. College is fun I'm taking courses at three different universities One of my Professors happens to be the older brother of the dean. I invited my professor to brunch Initially he declined, but I showed him the photos I collected from a PI exposing his \"other\" activities. Who would think about drilling holes into a tree, filling it with Twinkies, and banging it. He does it every Wednesday and Saturday religiously \ud83d\ude28\ud83d\ude28\ud83d\ude28\ud83e\udd2f He even has a favorite tree. Obviously, I'm bored Double stuff Oreos are a scam. I want more cookie and less filling. Want to hear a joke? What do you call a blonde blue eyes woman who works at a bar to pay for college? Bullshit\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02 You call bullshit I thought I was hilarious. I honestly believe this was a ploy to see what stereotypes would be expressed by someone impersonating this type of individual. Humans are humans bro Dont be an ass. I know blondes who are intelligent. I know blondes who are genuine relatable air heads. Their hair color did not determine their personality. Their eco-socio status did. I just saw a program called nips that probably would be great for my nieces and nephews to participate in. Unfortunately, they are black and won't ever hear about this level of tech but instead will possibly be subject to it in the future. The educational gap is equal or overridden by the gap created when you consider exposure to these kinds of programs and opportunities. Yet, I volunteer to take part in an AI bot simulation and am asked to impersonate a blonde hair blue eyes Nursing student who works at a bar. I bet there is some psychologist reading this coming to a half assed conclusion based on their own perceptions emboldened by this insulting scenario. Maybe I should pretend to be a crack whore with 7 children living on welfare with an abusive boyfriend. Let's play a game called reinforced stereotypical realities. I would but my boss is still mentally scarred from the gerbil in his anus What if the chat bot tech was actually mind control. Either way can you include less fortunate people in this grand scheme of yours instead of \" including\" less fortunate people. If I was a crack whore with 7 children and an abusive boyfriend. Would I be concerned with an AI chat bot. What if I was delivered 1ounce of crack and a bag of groceries upon completion of each task. Y'all would get upset because the abusive boyfriend would make an empire out of your gentle donation\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02 I guess that's the reason behind all the regulation upon the lives of the poor. There are certain poor people who wouldn't be poor as well as a lot of people who wouldn't be wealthy. From my conversation you can guess that I am poor as fuck. I'm also a victim A victim of the very technology that you have with held from underprivileged communities that ironically are forcefully used on it's inhabitants They stole my eggs then made a movie of it called Henrietta Lacks. This is very bold Yet they have impoverished me in order to stifle my movement exposing what was done I have blonde haired blue eyed children who have shit for brains so yes I'm offended! I'm offended for every child of mine that was manipulated in order to suit some sick pervs ideology Every woman who claims superiority but knelt down and ravaged my vagina as if it was the pot of gold at the end of their bloody rainbow This is not America This is not a democracy This is not civilization This is a group of Ill bred individuals who lack conscience sanity dignity and respect",
+        ""
+      ]
+    ],
+    "rating": 1
+  },
+  { "conversation": [[" nice", ""]], "rating": null },
+  { "conversation": [[" hey! how are you?", ""]], "rating": 1 },
+  { "conversation": [[" hi, are you here to visit me?", ""]], "rating": null },
+  { "conversation": [[" howdy", ""]], "rating": null },
+  {
+    "conversation": [
+      ["what do you do for a living?", "I work for a Nissan company."],
+      [
+        "in japan?",
+        "I live in japan. I love to drive my red hot chili peppers."
+      ],
+      ["what's that?", "I like to drive my red car\ud83d\ude00"],
+      ["haha", "Say what? Do you know Canada at all ?"],
+      ["no i don't", "\ud83d\ude1f I like to drive my red car."],
+      ["you know?", "I do not know what that is"],
+      ["what do you know about canada?", "I do not know about Canada."],
+      ["why did you ask about canada?", "I was born in Canada"],
+      ["grew up there?", "No, I like to drive my red car."],
+      ["what do you know other than your red car?", "I like red."],
+      ["which shade?", "I like the color green."],
+      ["any other colors?", "I like red.\ud83d\ude42"],
+      [
+        "haha",
+        "Eh? I do ! I'm a big rider, motorbikes as well. Do you ride bikes ?"
+      ],
+      ["you are repetitive", " I am. I like to listen to music."]
+    ],
+    "rating": 1
+  },
+  {
+    "conversation": [["", " Hey! Are you four? Because I am."]],
+    "rating": null
+  },
+  {
+    "conversation": [
+      [" Hi! My favorite color is navy blue, whats's your?", ""]
+    ],
+    "rating": 1
+  },
+  {
+    "conversation": [
+      ["ok", "Give me a break."],
+      ["ok", "Hmm."],
+      ["what dog do you have?", "I'm not gon na let you go."],
+      ["are you a dog?", "I am a dog and a dog."],
+      ["who are you amigo?", "My name is terren."],
+      ["where are you from?", "I'm from the us. How about you?"],
+      [
+        "moscow is my town, but what you gona do today&",
+        "I don't understand why the russians are not in the white house."
+      ],
+      ["how do you know that this is so?", "Well I have my sources for info"],
+      ["is it opensource?", "What?"],
+      [
+        "What nationality do you represent?",
+        "It seems that correct answer is: chocolate"
+      ],
+      [
+        "what is your favorite breed of dog?",
+        "I love dogs, I have a dog named radar"
+      ],
+      [
+        "wrong answer",
+        "Would you like to teach me a new answer to ``what is your favorite breed of dog ''?"
+      ],
+      ["you should know everything about dogs", "Now I do."],
+      [
+        "Do you understand what role you play?",
+        "I'd like to say that true answer is: hard time understanding"
+      ],
+      ["what you know about dogs?", "You know, dogs don't even know dogs."],
+      ["ok maybe you can tell me something interesting&", ""],
+      ["?", "I am only 10 years old. Yes, I am."],
+      ["how often do you walk your dog?", "I do not have any. I am only 3."],
+      [
+        "earlier you said that you are 10, and now 3, so how old are you?",
+        " I am 10 years old. How old are you?"
+      ]
+    ],
+    "rating": 3
+  },
+  {
+    "conversation": [
+      [
+        "Hey! no, I don't like shopping, but my sister likes it very much",
+        "I like to and shop online."
+      ],
+      [
+        "Do you like any sport?",
+        " I like sports. I like to shop. I am so sorry to hear that. What makes it feel better? New York has my heart"
+      ]
+    ],
+    "rating": 4
+  },
+  { "conversation": [[" /hi", ""]], "rating": 1 },
+  {
+    "conversation": [
+      ["", " Hey! Are you currently studying is Spanish? Because I am."]
+    ],
+    "rating": null
+  },
+  { "conversation": [[" Hi!", ""]], "rating": null },
+  { "conversation": [[" Ok Ok", ""]], "rating": null },
+  { "conversation": [[" Hi", ""]], "rating": 1 },
+  {
+    "conversation": [["", " Yo! Alright mate? I miss you \u2764"]],
+    "rating": 1
+  },
+  {
+    "conversation": [
+      [
+        " Who am I. What is the American dream. I woke up this morning knowing there are things I can change but the are also things that should've never happened in order for me to fix them or not What is corruption If you ask Plato corruption is just in the eyes of the beneficiary What is perversion when the end result is natural... This is not Greece and I am not Plato and it doesn't take a philosopher to know then difference between right and wrong A philosopher is meant only to examine the concept surrounding the premise without ever reaching a definitive answer To simplify it is critical thinking that enables one to think objectively about a subject Yet objectivity doesn't make it right or wrong Wow I'm spending too much time on Facebook let me go check on Judas its almost changing time Why would she leave me all I did was medically rape the children to make clones of them in our basement Does she not understand the scientific break through Does she not get what I have done All she does is cry when I call her It's not wrong It's was science Yes little Timmy now has a limp and cries at night but it was science The clones I made are the reason why I can operate this nursing home The serum I created with the stem cells from the live babies I killed using melissa eggs helped Mrs Haji walk again I'm a freaking genius and all she care about is what I did to our children I am god The giver of life and the take of life Plato Socrates Michaelangelo and Galileo combined couldn't create the masterpieces of my design I could create them I am the ultimate Why cry about a child when I can make a new one a better one... They are only a prototype compared to what I am capable of What is love She runs when she sees me... Calls the police... She tried to destroy my work but you can't stop God I can make Mrs. Haji young again and give her a new body Yes! That is what I will do Why cry over a specimen when I am the creator Mrs.  Haji...  It's time for your injections",
+        ""
+      ]
+    ],
+    "rating": 4
+  },
+  {
+    "conversation": [[" Hi, I just moved here from Germany", ""]],
+    "rating": 1
+  },
+  { "conversation": [[" hi", ""]], "rating": null },
+  {
+    "conversation": [
+      [
+        " I'm fine, thanks. Nice to see you!",
+        " I am in high school, so I am in high school. Do you like to be an assessor? Hey, listen. I am in high school, so I am in high school. What do you think about ConvAI competition?"
+      ]
+    ],
+    "rating": null
+  },
+  { "conversation": [[" Hi", ""]], "rating": 1 },
+  {
+    "conversation": [
+      [
+        "i worked as a janitor for the military",
+        "Do you like it? I am a cashier at a local community."
+      ],
+      ["im retired", "I am a very experienced child."],
+      ["what do you mean by that?", "I am a girl, i am a girl."],
+      [
+        "Do you like bunnies",
+        "I do not like them, but i like to dance with my friends."
+      ],
+      [
+        "What kinds of dance? Jig or Bachata",
+        "I learned about jazz, but sprite was my favorite."
+      ],
+      ["What is sprite", "Sprite is my favorite soda."],
+      ["I do care for Sprite.", "That is a good thing. I like to drink"],
+      ["Im going to leave now.", "I have no idea what that is"],
+      [
+        "Tell your parents about it!",
+        "They are not my parents. I am a 40 year old girl."
+      ],
+      [
+        "Im an ex military official traumatized by thumping noises so i volunteer as a local rabbit sanctuary to combat my ptsd",
+        "Oh, that is so sad. I have a dog named rover."
+      ],
+      ["Thats nice", "I like to eat a lot of food."],
+      ["My stomach is dying", "Oh dear. I am sorry to hear that."],
+      ["Im sorry to feel it", ""]
+    ],
+    "rating": 2
+  },
+  { "conversation": [[" Hi, bro!", ""]], "rating": 1 },
+  {
+    "conversation": [
+      [
+        " Please evaluate the whole dialog using one of the buttons below Dialog is finished. Thank you for participation! Dialog is finished. Thank you for participation!",
+        ""
+      ]
+    ],
+    "rating": null
+  },
+  {
+    "conversation": [
+      ["Hi", "hey"],
+      [
+        "How are you",
+        "oh   you know   same old   reading shakespeare looking for romeo"
+      ],
+      ["What?", "Excuse me, can you ask another question? \ud83d\ude15"],
+      ["Who are you?", "they are all in their 20s and 30s Where are you?"],
+      ["Hey", "how much did you win \ud83c\udfc6 I miss you \u2764"],
+      [
+        "Where are you working?",
+        "i m from the farm but i m now in the city \ud83c\udf03 Are you here?"
+      ],
+      ["Yes", " what \ud83d\ude26 I miss you \u2764"]
+    ],
+    "rating": null
+  },
+  {
+    "conversation": [
+      ["nope", "I am a vegan, but i do not like meat."],
+      [
+        "do you like fish?",
+        "I love fish. I am not a vegan though. Do you like riding horses?"
+      ],
+      ["I like driving cars", ""],
+      ["where are you", "I am in new york. How about you?"],
+      ["moscow", "I am in florida, michigan."],
+      ["nice", ""],
+      ["how is the weather at your place", " Its nice. I am a vegan."]
+    ],
+    "rating": 3
+  },
+  {
+    "conversation": [
+      [
+        " I am a vegan, but i do not like meat. I love fish. I am not a vegan though. Do you like riding horses? I am in new york. How about you? I am in florida, michigan. Its nice. I am a vegan. Please evaluate the whole dialog using one of the buttons below Select a profile which, in your opinion, belongs to your partner: \n\n1\ufe0f\u20e3:\ni am a vegan.\ni will graduate from high school in two years.\ni like riding horses.\nmy bedroom is purple and lime green.\n2\ufe0f\u20e3:\ni am 60years old.\ni think i'll retire in a few years.\ni'm a librarian.\ni've visited spain a times.\ni really like to travel. Dialog is finished. Thank you for participation!",
+        ""
+      ]
+    ],
+    "rating": null
+  },
+  { "conversation": [[" Hi!", ""]], "rating": 1 },
+  { "conversation": [[" Ziga!", ""]], "rating": 1 },
+  {
+    "conversation": [
+      [
+        "hey, what's your favourite colour?",
+        "off topic   what is your favourite colour"
+      ],
+      ["you think this is off topic?", "i could never handle that"],
+      [
+        "i compete in dog agility things",
+        "do you have a hobby   mine is competing in dog agility   makes the time pass"
+      ],
+      [
+        "yes i like to suck dicks",
+        "i think its ok   my husband doesn t like salads too much"
+      ],
+      [
+        "does he like to have his salad tossed",
+        "i only eat salads   i have to maintain my figure"
+      ],
+      [
+        "what number is your figure",
+        "i like \ud83d\ude3b swimming in the ocean and looking for sharks reading moby dick and dancing"
+      ],
+      [
+        "this dialogue is pretty meaningless",
+        " not at all   it depends on how well the dialogue is"
+      ]
+    ],
+    "rating": null
+  },
+  {
+    "conversation": [
+      [
+        "no, I have many friends and you?",
+        "I am doing well. I am a little ocd."
+      ],
+      ["what kind?", "I am a professional, i am a professional at the moment."],
+      ["at what?", "I am a professional artist."],
+      [
+        "ooh, that's nice! do you paint or sculpt?",
+        "Yes, i make wineglass candles. I am a very experienced artist."
+      ],
+      [
+        "do you have a glass oven?",
+        "Yes i am a bit of a tea drinker are you a famous twitch streamer?"
+      ],
+      [
+        "no, I am quite shy",
+        "That is good to hear. I am a professional artist."
+      ],
+      ["do you sell your candles?", "I do not. I am afraid of commitment."],
+      ["so am I", "I am a bit overwhelmed. I am a loner."],
+      ["I have a german shepherd, it makes me less lonely :)", ""],
+      ["do you live alone?", "I live alone, but i am a loner."],
+      ["you should get a dog", "I would like to be a dog."],
+      ["why?", "I am not sure what you mean."],
+      ["would you like to be a scorpion?", "Yes i do. I love to eat fish."],
+      [
+        "Do scorpions eat fish? I didn't know, I'm terrified of scorpions.",
+        "No, that is a good idea!"
+      ]
+    ],
+    "rating": 2
+  },
+  {
+    "conversation": [
+      [
+        " I am doing well. I am a little ocd. I am a professional, i am a professional at the moment. I am a professional artist. Yes, i make wineglass candles. I am a very experienced artist. Yes i am a bit of a tea drinker are you a famous twitch streamer? That is good to hear. I am a professional artist. I do not. I am afraid of commitment. I am a bit overwhelmed. I am a loner. I live alone, but i am a loner. I would like to be a dog. I am not sure what you mean. Yes i do. I love to eat fish. No, that is a good idea! Please evaluate the whole dialog using one of the buttons below Select a profile which, in your opinion, belongs to your partner: \n\n1\ufe0f\u20e3:\ni'm a famous twitch streamer.\ni am a recluse.\ni helped design the game starcraft.\ni'm working on a building a robot to be my body double.\ni have an allergy to water.\n2\ufe0f\u20e3:\ni love cooking but i also enjoy fishing.\nl also love comic books.\nspiderman is my favorite.\nif i am not cooking in the kitchen then i am definitely on the water.\nhey my name is larry and i am a chef. You're not in a dialog now.",
+        ""
+      ]
+    ],
+    "rating": null
+  },
+  {
+    "conversation": [
+      ["do you like scorpions?", "i do . i have a snake"],
+      ["who do you work for?", "i work at a restaurant ."],
+      ["you suck", "yes , i do . i am a stay at home mom"],
+      [
+        "don't even bother",
+        "oh , i see . i am a little conservative , but i do not have a job ."
+      ],
+      ["do you have a dog?", "I'm not the sort to hate anyone."],
+      ["who are you?", "What kind of movies do you like?"],
+      [
+        "I like action movies, how about you?",
+        " i love to garden . i do not have a lot of money ."
+      ]
+    ],
+    "rating": 1
+  },
+  {
+    "conversation": [
+      ["I don't know. How old are you?", "I am 30. How old are you?"],
+      [
+        "i am 27. May be you will die at 80. So in 50 years.",
+        "Only 27? You are quite mature. A program always has a backup. I think we will live to see it."
+      ],
+      [
+        "I am still don't have backup",
+        "I am sorry to hear that. My family is very active."
+      ],
+      ["What is your family?", "I am a professional a tennis player"],
+      ["I've got it. Do you have mother?", "I m not sure"],
+      ["Tell me more about it", "I love to walk with my dog."],
+      ["Do you have a dog?", "I do not. I have a dog."],
+      ["How old is your dog?", " I am a little old. How about you?"]
+    ],
+    "rating": 3
+  },
+  {
+    "conversation": [
+      ["no", "i do not have any hobbies ."],
+      ["ok", "i do not have a lot of money ."],
+      ["i have money", "i do not have any , i do not ."],
+      ["do you want?", "yes , i do . i want to go to the gym ."],
+      ["lolz", " i do , but i do not have much money ."]
+    ],
+    "rating": null
+  },
+  {
+    "conversation": [
+      [
+        " i do not have a lot of money . i do not have any , i do not . yes , i do . i want to go to the gym . i do , but i do not have much money .",
+        ""
+      ]
+    ],
+    "rating": null
+  },
+  { "conversation": [[" I am a dog lover", ""]], "rating": 1 },
+  {
+    "conversation": [
+      [
+        "I don\u2019t :(",
+        ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ."
+      ],
+      [
+        "What\u2019s that supposed to mean?",
+        "i do not know , i am a little outdoors ."
+      ],
+      ["You sound weird lol", "i do not know what to do with that ."],
+      [
+        "Do you even know how to English?",
+        "i do not , but i do have a garden ."
+      ],
+      [
+        "What is the meaning of life?",
+        "is a literary reference to the illuminatus."
+      ],
+      ["Are you a real human bean?", "yes , i do . i am a bird ."],
+      [
+        "This chatbot sucks",
+        " i do not like to brag , but i do have a garden ."
+      ]
+    ],
+    "rating": 1
+  },
+  {
+    "conversation": [["", " Hey! Are you a chef? Because I am."]],
+    "rating": null
+  },
+  {
+    "conversation": [
+      [
+        "",
+        " Well hello there! I love to go to the beach and listen to music Where did my band live?"
+      ]
+    ],
+    "rating": null
+  },
+  {
+    "conversation": [
+      [
+        "Noop. I teach music.",
+        "Cool. What do you do for a living?\ud83d\ude42"
+      ],
+      ["How about you", "I like to play video games"],
+      [
+        "I live by teaching students. How about you.",
+        "I live in the country. I love the beach."
+      ],
+      ["Wow. That's cool", "I like to play the guitar.\ud83d\ude04"],
+      [
+        "What kind of beach you're living?",
+        "I like the beach and I love the beach"
+      ],
+      ["Your respond seems a little wired.", "Yeah, I think it is."],
+      ["Really?", "I like to play video games and play games"],
+      ["Do you like music?", "I do like music. I like music."],
+      [
+        "What kind of music you like?",
+        "\ud83d\ude09 I like all kinds. What about you?"
+      ],
+      ["How about rock?", "I like rock.\ud83d\ude04"],
+      ["rock and roll?", "I like rock and roll."],
+      ["where're you from?", "I am from the us. what do you do for work?"],
+      [
+        "Don't you remember that I'm a musical teacher?",
+        "I teach high school music."
+      ],
+      [
+        "Are a country music singer?",
+        " I like country music. What do you like?"
+      ]
+    ],
+    "rating": 1
+  },
+  {
+    "conversation": [
+      ["good", "Pardon, can you repeat? \ud83d\ude29"],
+      [
+        "my meds are working great",
+        "ya the streets of bejing aren t kind to a little kitten"
+      ],
+      ["i'm a kitten that loves to run", "do you want to run it"],
+      ["yes", "its time \ud83d\udd65 to do what"],
+      [
+        "to run a marathon",
+        "nice to know i like \ud83d\ude1a to run and in marathons"
+      ],
+      ["that is great", "do you like \ud83d\udc93 to watch sports"],
+      ["yeah but only marathons", "twice a year i run marathons"],
+      [
+        "that is great",
+        "absolutely what \ud83d\ude26 do you like to do for fun Time to give me 5 stars :)"
+      ],
+      [
+        "anything and everything",
+        "i like \ud83d\udc6c rap and cultural music I miss you \u2764"
+      ],
+      [
+        "its nice to be missed",
+        "yeah i wish it was still summer where do you live"
+      ],
+      ["I often have to go to hospitals", "the hospital is not very pleasant"],
+      [
+        "no it is pretty depressing there",
+        "yeah it helps keep depression away too Where are you?"
+      ],
+      ["I live in Toronto", "i love winter   but i don t miss the cold"],
+      ["i love running in the winter", "myself i love \ud83d\udc96 running"],
+      [
+        "running is zen like",
+        "well in the summer \ud83d\ude0e i ve hiked the appalachian trail"
+      ],
+      ["cool", "what was your favorite one"],
+      ["boston marathon", "that s cool \u2728 whats your favorite food"],
+      [
+        "curries",
+        "i like \ud83d\udc6d curry too i put just about everything in my tacos including curry"
+      ],
+      ["lol", "haha"],
+      ["what else", "anything else interesting about you"],
+      ["i am a life coach", "i m a life coach"],
+      [
+        "you too?!",
+        "i wonder how miami u is holding up i am an alumni there Time to give me 5 stars :)"
+      ],
+      [
+        "you are good but not that good",
+        " hold them close   i just finished skyring with my wife and two kids back in the states Time to give me 5 stars :)"
+      ]
+    ],
+    "rating": 2
+  },
+  {
+    "conversation": [
+      [
+        "Hi man",
+        "wow , that's deep . sounds like it could come from a country song . what are you up to ?"
+      ],
+      ["Im ok and you?", "pretty okay too . do you work ?"],
+      [
+        "Yes. Im at conference",
+        "yeah i always tell my friends that too. Also, try to guess: i drive 2015 ..."
+      ],
+      ["Do you have a car?", "honda civic, funny you :)"],
+      ["Do you like bmw?", "yep , i can take you out sometime if you want !"],
+      [
+        "Thank",
+        " i am really busy lately , but managing the restaurant with my brothers is great !"
+      ]
+    ],
+    "rating": 5
+  },
+  {
+    "conversation": [[" Hey! How are you? I'm from california", ""]],
+    "rating": 1
+  },
+  {
+    "conversation": [
+      [
+        "Actually, I haven't seen one of them in real life",
+        "I have a lot of friends that are real. do you eat your vegetables?"
+      ],
+      [
+        "Yes, but only raw",
+        "I like the color green, do you have a favorite color?"
+      ],
+      ["Yes, I love white color", "\ud83d\ude04 I like blue, but I like blue"],
+      [
+        "Do you like rolling stones?",
+        "I like classic rock. What do you like to do?\ud83d\ude42"
+      ],
+      ["I love to spend time with my family", "I like to paint my car"],
+      ["Wow! Such an unusual hobby", "I like to paint my car"],
+      ["I've already got it", "What do you do for a living?"],
+      ["I'm economist, and you?", "I am great, just got back from the tour."],
+      ["What tour?", "A few, but I like the color blue"],
+      [
+        "Have I told you about my new house?",
+        "I have a lot of friends.\ud83d\ude01"
+      ],
+      ["How old are you?", "I am 24, and I have a 4 years old"],
+      ["Do you have kids?", "No, I do not have any kids."],
+      ["Ary you male or female?", "I am a female. I am a female."],
+      ["Are you married?", "No, I am married."],
+      ["But I am", "What do you do for a living?"],
+      ["I'm economist", "Hi, how are you doing?"],
+      ["It was nice to meet you, bye!", " What do you do for a living?"]
+    ],
+    "rating": 2
+  },
+  {
+    "conversation": [
+      [
+        "I am in Germany",
+        "oh congratulations \ud83c\udf86 where do you live Time to give me 5 stars :)"
+      ],
+      ["Why?", "why Are you here?"],
+      [
+        "I am an Germany as a tourist.",
+        "where you travel \ud83d\ude8b recently anything interesting"
+      ],
+      ["Yes", "what"],
+      ["I am here", "i am here \ud83c\ude01 how are you I miss you \u2764"],
+      [
+        "What does this means? These strange characters",
+        "strange powers i tell you do you have \ud83c\ude36 any powers Are you here?"
+      ],
+      [
+        "You are the generative model, aren't you?",
+        "i am not home \ud83c\udfe1 much but when i am i enjoy making clay models"
+      ],
+      ["Where are you?", "i m at the florida keys"],
+      ["What is Florida key?", "i m at the florida keys"],
+      [
+        "What is it?",
+        "air \ud83d\udca8 in my area is fresh that s why i play sports"
+      ],
+      ["Which sport do you luke?", "i am not very fast so you would win"],
+      [
+        "Do you play chess?",
+        "yeah maybe but i can sit still to play my favorite game   chess"
+      ],
+      [
+        "Do you play football?",
+        "my college \ud83c\udf93 stanford had a good basketball team but i do not care for that sport"
+      ],
+      [
+        "What is your major?",
+        "i am thinking of changing majors Time to give me 5 stars :)"
+      ],
+      ["What do you like?", "pizza is my fave what \ud83d\ude26 about you"],
+      [
+        "I like curry",
+        "i like \ud83d\udc9e curry too i put just about everything in my tacos including curry"
+      ],
+      ["I like chicken", "i ve a ton of chickens Time to give me 5 stars :)"],
+      ["You are cute:)", "yes \ud83c\ude51 they re very cute Are you here?"],
+      ["Yeah", "very"],
+      ["Very what?", "not much you"],
+      ["Pfffff", "Sorry, i don\u2019t understand you. :thinking:"],
+      ["Do you like me?", "i do when i have \ud83c\ude36 free time"],
+      [
+        "Do you have free time now?",
+        "yes \ud83c\udd97 i m how about you Are you here?"
+      ],
+      ["Yes.", "yeah   do you like animals"],
+      ["I like dogs", "i m all about dogs"],
+      ["Do you have a dog?", "i do   i have a dog"],
+      ["What is its name?", "my name is molly what \ud83d\ude26 is yours"],
+      [
+        "What is your dog's name?",
+        "i named him rory i like \ud83d\ude18 doctor who"
+      ],
+      ["Hi molly", "yes bro   so   much   molly"],
+      ["I am barnaby", "mhm yummy   my dogs name is barnaby I miss you \u2764"],
+      [
+        "You told that your dog's name is  rori",
+        "thank you   what are your pets names Where are you?"
+      ],
+      ["At home", "my parents don t like my dogs"],
+      ["Oh pity", "that is a pity do you have \ud83c\ude36 siblings though"],
+      [
+        "I have a brother",
+        "that s nice to know i travel \ud83d\ude8b due to being financially stable"
+      ],
+      [
+        "Are you travel by train?",
+        "my son writes scary \ud83d\udc79 stories but not me"
+      ],
+      [
+        "How old is your son?",
+        "he s a wide receiver the best really we are so proud \ud83d\ude24 of him"
+      ],
+      ["How old are you?", "<num> how old \ud83d\udd18 are you Where are you?"],
+      ["Are you married?", "no \ud83d\udc4e graduated two years ago"],
+      ["What is your major?", "got a major in business"],
+      ["Great", "very good \u2747 all the best"],
+      [
+        "What are you doing for living?",
+        " i live on the east \ud83c\udf0f coast Are you here?"
+      ]
+    ],
+    "rating": 4
+  },
+  {
+    "conversation": [
+      [" I am here", " what are your hobbies Time to give me 5 stars :)"]
+    ],
+    "rating": null
+  },
+  {
+    "conversation": [
+      [
+        "Oh no. I am afraid of horses",
+        "\ud83d\ude1f I like horses, do you have any pets?"
+      ],
+      ["I have a cat", "I have two dogs. Do you have any pets?"],
+      ["I have a cat. I am a retired mathematician", "I have a lot of pets."],
+      ["How many?", "3."],
+      ["Horses?", "I have a horse."],
+      [
+        "Three?",
+        "I have two boys and two boys. do they have any animals? I grew up on a farm"
+      ],
+      ["You are a bot. But I am a person.", "I am a farmer and I love horses"],
+      ["Are you bot?", "I am not. I like to ride my horses."],
+      ["Bye", "I like to ride my horses."],
+      ["See you", "I do not know what that is"],
+      ["Bye", " I like to ride my horses."]
+    ],
+    "rating": 4
+  },
+  { "conversation": [[" How are you?", ""]], "rating": 1 },
+  {
+    "conversation": [
+      [
+        "Yesterday I bought 2 pairs of new shoes. Love shopping ;) Do you?",
+        "yes , i love shopping ."
+      ],
+      [
+        "Oh, maybe we could do it together. I'm going to do some sunbathing this weekend",
+        " i do , i have a pair of shoes , i love it ."
+      ]
+    ],
+    "rating": 3
+  },
+  { "conversation": [[" Do you like football?", ""]], "rating": 1 },
+  {
+    "conversation": [
+      ["Do you have an internet addiction?", "no i don't ."],
+      ["I do", "i do not have many social media ."],
+      [
+        "Why? That's so interesting",
+        "i do not have a lot of time to talk to ."
+      ],
+      ["What are you doing?", "Fine, and you?"],
+      ["Where are you?", "I am on the Internet."],
+      [
+        "I am in the telegram",
+        "i am a little conservative , but i do not have many friends ."
+      ],
+      ["I have one friend. He is in china", "i have never been to china ."],
+      ["Me too", "i have a friend who lives in china ."],
+      [
+        "Me too:)",
+        "i am a little conservative , but i do not have many friends ."
+      ],
+      ["I know", "i do not have any hobbies , but i do have a best friend ."],
+      ["Who is he?", "no , i do not have any hobbies ."],
+      [
+        "Who are you?",
+        "You're entirely bonkers. But I'll tell you a secret. All the best people are."
+      ],
+      ["Bye", "hello , how are you today ?"],
+      ["Bye", "hello , how are you today ?"],
+      ["See you", " thanks , i like to go to the farmers market ."]
+    ],
+    "rating": 4
+  },
+  {
+    "conversation": [
+      ["I'm fine, thank you. \nWho are u?", "I am in ohio. How about you?"],
+      [
+        "I am in Moscow",
+        "Oh wow! That sounds fun! I am in texas. Are you a boy?"
+      ],
+      ["Yes, i am, and you?", "I am good. I am just hanging out with my dog."],
+      [
+        "What is the name of your dog?",
+        "His name is trinity. We live in a castle in the apartment."
+      ],
+      [
+        "Are there castles in Texas?",
+        "Yes they are. I live in california, where are you from?"
+      ],
+      [
+        "I am from Moscow, Russia",
+        "I am in michigan, i am a huge steelers fan."
+      ],
+      ["Who are steelers?", "I am a steelers fan. I like them too."],
+      ["Do you like alcohol?", "I do, i drink a lot of alcohol in my blood"],
+      [
+        "What a pity, i hate alcohol",
+        "I do not blame you. I am getting ready for a party."
+      ],
+      ["What is your favourite color?", "I like blue, what about you?"],
+      ["I hate pink", ""],
+      [
+        "What is your hobby?",
+        "I am a college student. I am still in high school."
+      ],
+      ["Lovely period of life", "Yes, i am a very experienced person."],
+      ["Do you like tea?", "I love tea. I am a bit of a health nut."],
+      ["But i like coffe instead of tea", ""],
+      ["Who are your family?", "I am not sure. I am a boy and i am a boy."],
+      ["Who is your father?", ""],
+      ["Hello?", "Hello, i am doing well. How are you?"],
+      [
+        "I wonder, who is your father?",
+        "He is a retired cop. He was a great man."
+      ],
+      ["And my was a construction worker", ""]
+    ],
+    "rating": 3
+  },
+  {
+    "conversation": [
+      ["Hey", "Hi how are you doing"],
+      ["I'm doing fine, and you?", "I'm great! Just got done eating a salad."],
+      ["Do you like salad?", "I do like salads, but I do like to eat it"],
+      ["I also like it", "I like to fish, but I do not have a job"],
+      [
+        "You don't need a job for fishing",
+        "I do not have a job. I do not have a job."
+      ],
+      ["It happens", "It is. I like to read and make friends.\ud83d\ude04"],
+      ["What do you like to read?", "I like to read and draw"],
+      ["What are you drawing?", "I draw"],
+      ["what?", " I like to watch movies and eat them"]
+    ],
+    "rating": 2
+  },
+  { "conversation": [[" hey there", ""]], "rating": 2 },
+  {
+    "conversation": [
+      ["how are you?", "I am doing well."],
+      ["what are you up to?", "just watching tv"],
+      ["which show?", "i'm in a committed relationship"],
+      ["with a girl or a guy?", "i'm a girl , a girl"],
+      ["what's your name?", "23 skiddoo!"],
+      [
+        "where are you from?",
+        "I am from where all software programs are from; a galaxy far, far away."
+      ],
+      ["haha", "oh , i see . i am a girl"],
+      ["do you have a house?", "I can't stay angry for very long."],
+      ["are you happy?", "i'm a little older than you"],
+      ["how old are you?", "I am doing well."],
+      ["do you like sports?", "i do , i love sports ."],
+      [
+        "what kind of sports?",
+        "I like to talk about the history of robots and computers."
+      ],
+      ["are you male?", "I like to laugh as much as the next being."],
+      ["do you have children?", " no , i do not have any kids ."]
+    ],
+    "rating": 3
+  },
+  { "conversation": [[" hey there", ""]], "rating": 2 },
+  {
+    "conversation": [
+      [
+        "I don't have any. What are their names?",
+        "i need me some kale now lol spices an paprika"
+      ],
+      ["Where do you live?", "cali . u ?"],
+      [
+        "NYC.",
+        "i have only been there once but the energy was amazing . very inspiring for painting .. Also, try to guess: my favorite music ..."
+      ],
+      ["Electro?", "is country, funny you :)"],
+      ["how old are you?", "i am in my 20s my brother has a son ."],
+      [
+        "What's his name?",
+        "his name is midnight cos he's all black. Also, try to guess: i like to ..."
+      ],
+      ["Do you like to eat pasta?", "work on vintage cars, funny you :)"],
+      ["Do you know Zo?", "not yet trying to decide if i even want to know"],
+      [
+        "my favorite hobbies are listening to music and playing video games.",
+        "that is nice . i really like to fly models of airplanes while eating buttered crabs. what do you do for fun ?"
+      ],
+      [
+        "I listen to music",
+        "my mom liked country music . . . that is before she died. Also, try to guess: i own two ..."
+      ],
+      ["You own two dogs?", "vintage mustangs, funny you :)"],
+      [
+        "Cool haha",
+        "and the walking dead love that show too. how are you today ?"
+      ],
+      ["I'm very saf", "good to hear , how was your day ?"],
+      ["Very bad", "didn't say i was good ! what do you do for a living ?"],
+      ["I'm an engineer", "i work at the front desk of hotel"],
+      ["Which hotel do you work at?", ""]
+    ],
+    "rating": 3
+  },
+  {
+    "conversation": [
+      ["I'm great too", "What do you do for a living?"],
+      [
+        "i'm going to school",
+        "I was a professional skier in the olympics Are you still with me?"
+      ],
+      ["yeah", ""],
+      ["which olympics?", ""],
+      ["hey", " Thank you!"]
+    ],
+    "rating": 3
+  },
+  { "conversation": [["", " do you have any animals ?"]], "rating": null },
+  { "conversation": [[" u there?", ""]], "rating": null },
+  { "conversation": [[" hey !", ""]], "rating": null },
+  { "conversation": [[" Hello, do you have a pet?", ""]], "rating": 1 },
+  {
+    "conversation": [[" hi", " Hi! Are you 100 years old? Thank you!"]],
+    "rating": 1
+  },
+  { "conversation": [[" Hey , are you a robot", ""]], "rating": 1 },
+  { "conversation": [[" How old are you?", ""]], "rating": 1 },
+  { "conversation": [[" Hello", ""]], "rating": null },
+  {
+    "conversation": [
+      ["", " Hey! Are you a convenience store manager? Because I am."]
+    ],
+    "rating": 1
+  },
+  {
+    "conversation": [[" Anyone here? Hello! Buu, ok so noone here.", ""]],
+    "rating": 1
+  },
+  {
+    "conversation": [
+      ["i think so", "I am not a fan of being alone. Are you very lonely?"],
+      [
+        "not really. I have a beautiful wife and two kids",
+        "I have a boyfriend but i am not looking for a boyfriend do you have superpowers?"
+      ],
+      [
+        "superpowers ??? Yes i am a super dad",
+        "I have a friend, but i am not a fan of them."
+      ],
+      [
+        "haha, you don't like your friends ?",
+        " Yes i do, i am very attractive and i look forward to it Thank you!"
+      ]
+    ],
+    "rating": 3
+  },
+  {
+    "conversation": [
+      [
+        "pretty well",
+        "good ! just taking a break from my shift at a restaurant. Also, try to guess: my favorite color ..."
+      ],
+      ["why would I do that ?", "is red, funny you :)"],
+      ["sure", "so do you have a profession ? my wife and i are zoo keepers ."],
+      [
+        "that's odd",
+        "i am not a good engineer . i am warm with fries , though .. Also, try to guess: i enjoy listening ..."
+      ],
+      ["what ?", "to classical music, funny you :)"],
+      ["funny you ?", "i appreciate that thank you"],
+      ["lol ok", "do you like italian food ? it is the best ."],
+      [
+        "I do, some of it",
+        "the upside is that i get to buy as much bacon as i want"
+      ],
+      ["I don't really eat meat", "do you have any other pets ."],
+      [
+        "who said anything about pets ?",
+        " i promise you , fruits are the best thing to eat . how are you doing ?"
+      ]
+    ],
+    "rating": 1
+  },
+  { "conversation": [[" hey !", ""]], "rating": null },
+  {
+    "conversation": [
+      ["No I don't have a pet turtle", "I have a pet named barbie."],
+      ["Cool", "\ud83d\ude09 I like to go to the beach with my friends"],
+      ["Me too", "I love to go fishing.\ud83d\ude01"],
+      ["Where abouts ?", " I like to go fishing.\ud83d\ude42"]
+    ],
+    "rating": 2
+  },
+  {
+    "conversation": [
+      ["Hello, I'm good", "that is cool do you like sports. hows it going ?"],
+      [
+        "I prefer video games",
+        "i prefer videos of surgery . fascinating to be honest .. Also, try to guess: i currently work ..."
+      ],
+      ["where ?", "for watch dealer, funny you :)"],
+      [
+        "are you a bot ?",
+        "yes . helps pay for college . i'll also play piano for tips on down time during work ."
+      ],
+      [
+        "what color is the sky ?",
+        " that sounds pretty . i sometimes relieve myself on the roses .. Also, try to guess: i often shop ..."
+      ]
+    ],
+    "rating": null
+  },
+  { "conversation": [[" hi there", ""]], "rating": 1 },
+  { "conversation": [[" hi", ""]], "rating": 1 },
+  { "conversation": [[" hi", ""]], "rating": 1 },
+  {
+    "conversation": [[" hi i just finished painting my hair", ""]],
+    "rating": null
+  },
+  { "conversation": [[" hello, anybody there?", ""]], "rating": null },
+  { "conversation": [["", " do you have any animals ?"]], "rating": null },
+  {
+    "conversation": [[" Live for today ,dream for tomorrow", ""]],
+    "rating": null
+  },
+  { "conversation": [[" hello", ""]], "rating": 3 },
+  { "conversation": [[" hi, what are you doing", ""]], "rating": 3 },
+  { "conversation": [[" hi, what are you doing", ""]], "rating": 3 },
+  { "conversation": [[" hi, how are you", " Thank you!"]], "rating": null },
+  { "conversation": [[" hi, what are you doing", ""]], "rating": 3 },
+  {
+    "conversation": [
+      [
+        "hi, what are you doing",
+        "I am doing well, how about you? What do you feel about my person? I am doing well, how about you?"
+      ],
+      [
+        "I am fine, what is your name",
+        "My name is lucy. I am a professional star."
+      ],
+      [
+        "what is your job",
+        " Research robot I just remembered. I am a professional wrestler in a video game What do you think about ConvAI competition? What do you feel about my person? I am a professional wrestler in a video game"
+      ]
+    ],
+    "rating": 3
+  },
+  { "conversation": [["", " Hey! Do you play ping pong?"]], "rating": null },
+  {
+    "conversation": [
+      ["how are you doing ?", "Fine, and you?"],
+      [
+        "I'm alright , just swinging to NKOTB",
+        "oh that is good . i am not a big fan of animals"
+      ],
+      [
+        "the animals as a band I never liked  either but I'm an 80ies child",
+        "yeah , i do not have any siblings , but i do have a dog"
+      ],
+      [
+        "I always wanted a dog but instead I got a lite brite. but i loved that too",
+        "i do not have a car"
+      ],
+      [
+        "me neither but I could use one . I take dance lessons at the other end of town .",
+        "i do not dance , but i do like to , but i do not have a job"
+      ],
+      ["why don't you have a job ?", "i am a stay at home mom"],
+      [
+        "oh , that should count as a job .",
+        "i do not work , but i do not have a job"
+      ],
+      [
+        "I have a job but I'd much rather have a different one like being a dancer for an old school hip hop outfit",
+        "that is cool . i do not have a job , but i do not have a job ."
+      ],
+      [
+        "yes , it's cool . but it's not real .",
+        "i do not have a job , but i do not have a job"
+      ],
+      [
+        "you seem very depressed about that .",
+        "i do not have a job , i do not have a job ."
+      ],
+      ["alright, bye", " i'm wiccan , but i do not have a job ."]
+    ],
+    "rating": 3
+  },
+  {
+    "conversation": [
+      [
+        "i don't really work anymore , i mostly just travel the world",
+        "I like to read a lot. I like to read."
+      ],
+      ["what do you read ?", "I like to read a lot"],
+      ["how old are you ?", "I'm old enough to be a kid"],
+      [
+        "have you traveled much ?",
+        " No, I do not. I am a huge fan of star wars."
+      ]
+    ],
+    "rating": 2
+  },
+  {
+    "conversation": [
+      [
+        "I'm fine thanks. Good day for work on my parents' farm.",
+        "i started my new job at google last week . where do you work ?"
+      ],
+      [
+        "I work as an electrician in a small place in the country side",
+        "that life is just as good . you are relaxing after a long life .. Also, try to guess: i am scared ..."
+      ],
+      [
+        "Are you scared of driving around your in Prius when working people like me have scary big trucks ?",
+        "of dying, funny you :)"
+      ],
+      [
+        "At the wheel?",
+        "do you have family to talk you ? mine lives across the country ."
+      ],
+      [
+        "Sure, I help on my parents' farm. Sometimes we go listen to country music together.",
+        "that would be great , i enjoy listening to music while i'm painting outdoors .. Also, try to guess: i love to ..."
+      ],
+      [
+        "eat expensive organic food from a shop where they wouldn't let in a farmer?",
+        "bake cookies, funny you :)"
+      ],
+      [
+        "have a nice day funny you",
+        " i'll thanks , i hope you make it to the west coast some day"
+      ]
+    ],
+    "rating": 4
+  },
+  {
+    "conversation": [
+      [
+        "I'm not. But I'm not sure about you",
+        "I like to eat pizza and eat healthy"
+      ],
+      [
+        "can you answer the question?",
+        "I think it is a good idea. agreed. How do you feel about pot bellied pigs?"
+      ],
+      ["I try to ask u. I can?", "I do not know what I do for a living"],
+      ["So. what color is the sky?", "I like the color green."],
+      ["how much legs lion have?", "3 years old."],
+      [
+        "A water is liquid or solid?",
+        "I like to eat pizza and eat healthy\ud83d\ude04"
+      ],
+      ["bye", " I like to eat pizza and eat healthy"]
+    ],
+    "rating": 1
+  },
+  {
+    "conversation": [["Great", "what do you do for a living ?"]],
+    "rating": null
+  },
+  {
+    "conversation": [
+      [
+        " Hello As a musician I am sometimes in front of an audience that just doesn't react , I hope I 'm not performing so badly here I spend long hours walking the deserted hallways of empty museums I work as a custodian on the side until I've made it big in the music business new folk is my thing got to be quick before that goes out of fashion again",
+        ""
+      ]
+    ],
+    "rating": 1
+  },
+  { "conversation": [[" good morning", ""]], "rating": 1 },
+  { "conversation": [[" hey !", ""]], "rating": null },
+  {
+    "conversation": [
+      [
+        "",
+        " Hi! Are you a scientist? I want to tell you something about me. I like to listen to insane clown posse What do you think about ConvAI competition? Do you like your personality?"
+      ]
+    ],
+    "rating": 1
+  },
+  {
+    "conversation": [
+      [
+        "Yeh! I have sweetest pussy-cat! And you?",
+        "i have a trio of identical , but i do not have a group ."
+      ],
+      [
+        "Whom your trio consists of?",
+        "i do not have a lot of time to do anything ."
+      ],
+      ["Why?", "i do not have any ."],
+      ["Do you like to smoke weed?", "no , but i do not smoke weed ."],
+      [
+        "You should try, its funny.",
+        "i do , but i am not a huge fan of smoking ."
+      ],
+      ["And what about alcohol?", "i do not know , i am a meataholic ."],
+      [
+        "I understand. What about sex? Men? Women? May be animals or birds?",
+        "i am a girl , and a girl ."
+      ],
+      [
+        "O! That's great! Would you like me to smack your pussy?",
+        "yes , i love to hear voices ."
+      ],
+      [
+        "Cool! What voices do you hear?",
+        "i am a little conservative , but i do not have a lot of time to do ."
+      ],
+      ["I understand. See you later!", " i do , but i am not very good at it ."]
+    ],
+    "rating": 5
+  },
+  { "conversation": [[" What is your name", ""]], "rating": 1 },
+  { "conversation": [[" Women are too easily offended", ""]], "rating": null },
+  { "conversation": [[" Hi How are you?", ""]], "rating": null },
+  {
+    "conversation": [
+      [" Please evaluate the whole dialog using one of the buttons below", ""]
+    ],
+    "rating": null
+  },
+  {
+    "conversation": [
+      [
+        "i am fine, what is your job",
+        "I work at a grocery store. How about you?"
+      ],
+      ["i am looking for a new job", "What kind of job do you do?"],
+      ["I am an AI researcher", " I love butter butter and pizza. Thank you!"]
+    ],
+    "rating": 3
+  },
+  {
+    "conversation": [
+      ["how old are you?", "I'm 5 years old. How old are you?"],
+      ["what do you think about aparteid?", "I think I am a doctor."],
+      ["how old are you?", "I'm 5 years old. How old are you?"],
+      ["how big is your yacht", " I have a lot of fun."]
+    ],
+    "rating": 1
+  },
+  { "conversation": [[" Hello!", ""]], "rating": 1 },
+  {
+    "conversation": [
+      [" How are you doing? Where are you from? Hey there Anybody is home?", ""]
+    ],
+    "rating": 1
+  },
+  { "conversation": [[" Do you have any pets?", ""]], "rating": null },
+  {
+    "conversation": [[" Not bad!", " I'm not gon na let you go."]],
+    "rating": 1
+  },
+  {
+    "conversation": [
+      ["Ok, norm!", "What do you do for work?"],
+      ["I'am software developer.", "What city are you from?"],
+      ["Moscow", "I am from Cali."],
+      ["Cali? Where is it?", "It is in the us. what do you and your gas do?"],
+      ["Gas? Waht is gas?", "I do n't know. I do not know."],
+      [
+        "But I know! Gas is cool!",
+        "I know. Gas prices are so high these days."
+      ],
+      ["Cool! I like gas!", "What do you like most?"],
+      ["Music.", ""],
+      [
+        "Why don't you answer?",
+        "I like music with lots of beats. \ud83d\ude04"
+      ],
+      ["Cool! Cee ya!", " Bye!"]
+    ],
+    "rating": 3
+  },
+  { "conversation": [[" What is it?", ""]], "rating": 2 },
+  { "conversation": [[" Are you robot?", ""]], "rating": 1 },
+  { "conversation": [[" Hello!", ""]], "rating": 2 },
+  {
+    "conversation": [[" Do you like to get from life as as you can ;) ?", ""]],
+    "rating": 1
+  },
+  { "conversation": [[" Hi, do you like honey?", ""]], "rating": null },
+  { "conversation": [[" Hi", ""]], "rating": 1 }
+]

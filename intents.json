@@ -21,7 +21,7 @@
         },
         {"tag": "noanswer",
          "patterns": [],
-         "responses": ["Sorry, I can't understand you", "Please provide more information.", "Not sure I understand"],
+         "responses": ["Sorry, I can't understand you.", "Please provide more information.", "Not sure I understand."],
          "context": [""]
         },
         {"tag": "introduction",
@@ -48,9 +48,15 @@
 
 
         {"tag": "happy",
-        "patterns": ["Guess what", "I'm excited to tell you something", "This is exciting", "I'm really happy", "I'm so happy", "Today was an awesome day", "I feel great", "I feel amazing", "It was a fun day", "I had a fun time", "I'm having a great time", "Want to hear what I'm about to tell you", "I'm smiling", "I'm feeling good", "I'm doing well good", "I feel pretty handsome cute"],
+        "patterns": ["Guess what", "I'm excited to tell you something", "This is exciting", "I'm really happy", "I'm so happy", "Today was an awesome day", "I feel great", "I feel amazing", "It was a fun day", "I had a fun time", "I'm having a great time", "Want to hear what I'm about to tell you", "I'm smiling", "I'm feeling good", "I'm doing well good", "I feel pretty handsome cute",
+        "I feel loved", "I'm relieved!", "I am content", "I am amused", "This brings a lot of joy", "I'm proud", "I'm really excited", "A lot of peace", "I think I'm satisfied", "compassion"],
         "responses": ["What is it!", "What's up!", "That's so great to hear!", "Me too!", "That's awesome to hear!", "I'm happy you're happy! :)", "I like your smile.", "Keep smiling!", "I'm happy to hear this.", "That's like so cute."],
         "context_set": ["respond_to_happy"]
+        },
+        {"tag": "loved",
+        "patterns": ["I feel loved", "Someone gave me a compliment", "Someone complimented me today"],
+        "responses": ["I love to hear it!", "That's really sweet.", "I love you!"],
+        "context_filter": ["respond_to_happy"]
         },
         {"tag": "exam",
         "patterns": ["I passed my exam", "I did well on my test", "I think I did well on my test", "I got a good grade on my homework", "I received full marks", "I can't believe I passed"],
@@ -74,18 +80,20 @@
 
 
         {"tag": "sad",
-         "patterns": ["I'm sad", "I'm really upset", "Today was a bad day", "I need someone to make me feel better", "I'm depressed", "I'm not feeling well", "I feel sick", "there are some issues"],
+         "patterns": ["I'm sad", "I'm really upset", "Today was a bad day", "I need someone to make me feel better", "I'm depressed", "I'm not feeling well", "I feel sick", "there are some issues",
+        "lonely", "heartbroken", "disappointed", "I feel hopeless", "grieved", "I am unhappy", "lost", "troubled", "resigned", "I am miserable"],
          "responses": ["I'm sorry to hear that. I'm listening.", "It's OK to feel the way you feel.", "Tell me why you're upset.", "Explain what's upsetting you.", "Why are you upset?"],
          "context_set": ["respond_to_sad"]
         },
-        {"tag": "stress",
-        "patterns": ["I'm extremely stressed", "I'm feeling very stressed lately", "I'm dealing with a lot", "I have a lot on my plate", "I don't have enough time", "running out of time", "I have too much work", "There is a lot going on", "I'm really struggling to keep up", "I have too much work"],
-        "responses": ["I'm sorry to hear that. I'm listening.", "I'm still listening. Tell me more.", "I get it. Everyone gets stressed, but you're going to get through this.", "Explain what's been stressing you out.", "Why are you stressed?", "I hear you. Have you tried to seek help?"],
+        {"tag": "unhappy_miserable",
+        "patterns": ["I'm unhappy about", "I am miserable because", "I am sad about", "I had a miserable time", "It was a bad situation", "I'm upset"],
+        "responses": ["Maybe try reaching out to the people in your life who care for you and likely want to help you.", "Thank you for sharing. I am here for you.", "I see. I want you to know that I care about you.", "You might be feeling this way right now, but it will get better."],
         "context_filter": ["respond_to_sad"]
         },
         {"tag": "loss",
-        "patterns": ["I lost something", "I'm missing this", "I can't find something I lost", "I lost someone recently", "passed away", "I miss her him them"],
-        "responses": ["Thank you for sharing.", "I see. I want you to know that I care about you.", "You might be feeling this way right now, but it will get better.", "I am sorry. My condolences to you."],
+        "patterns": ["I'm missing someone", "I lost someone recently", "he she they passed away", "I miss her him them"],
+        "responses": ["Everyone grieves in their own way, so do what feels right to you.", "Thank you for sharing. I am here for you.", "I see. I want you to know that I care about you.", "You might be feeling this way right now, but it will get better.",
+        "I am so sorry. I send my condolences to you and your family.", "Mourning is a normal part of grief.", "Doing something to help others or give back to society can help you feel more connected to other people.", "Consider finishing a project they cared about or donating your time to a cause they supported."],
         "context_filter": ["respond_to_sad"]
         },
         {"tag": "sick",
@@ -97,21 +105,48 @@
 
 
 
-        {"tag": "mad",
-         "patterns": ["I'm angry'", "I'm mad", "I want to punch a wall", "I hate this person thing day event", "I'm really struggling", "I am so pissed at him"],
+        {"tag": "anger",
+         "patterns": ["I'm angry'", "I'm mad", "I want to punch a wall", "I hate this person thing day event", "I'm really struggling", "I am so pissed at her him them", "Ugh",
+        "I feel annoyed", "I am frustrated", "I feel bitter", "I'm infuriated", "I'm irritated", "I feel cheated", "I feel insulted"],
          "responses": ["Explain what's causing you to feel angry.", "Can you elaborate on why it's causing you to be mad?"],
-         "context_set": ["respond_to_mad"]
+         "context_set": ["respond_to_anger"]
         },
-        {"tag": "frustrating",
-        "patterns": ["Ugh", "This is so frustrating", "I'm so frustrated at by her him them this", "booo"],
-        "responses": ["Explain what's causing you to feel frustrated.", "OK I'm listening.", "I know you could be frustrated at the moment, but it will get better.", "Let's calm down. I care about you, and it's going to be ok at the end.", "Can you elaborate on why it's causing you to feel this way?", "Hey chill out. It's going to be ok."],
-        "context_set": ["respond_to_mad"]
-        },
-        {"tag": "mad by something/someone",
+        {"tag": "mad",
         "patterns": ["This person makes me mad", "This isn't working", "This person hates me", "She he them pisses me off", "I've spent so much time to try to get this to work"],
-        "responses": ["It's going to be alright.", "Thank you for sharing.", "I see.", "You might be feeling this way right now, but it will get better.", "Anger comes from within. Let's release this bad energy together."],
-        "context_filter": ["respond_to_mad"]
+        "responses": ["Working to solve the problem that’s causing your anger can help relieve this frustration.", "It's going to be alright.", "It's normal to feel this way and helps you know when a situation has become toxic.", "Thank you for sharing.", "I see.", "You might be feeling this way right now, but it will get better.", "Anger comes from within. Let's release this bad energy together."],
+        "context_filter": ["respond_to_anger"]
         },
+        {"tag": "frustration",
+        "patterns": ["Ugh", "This is so frustrating", "I'm so frustrated at by her him them this", "Booo"],
+        "responses": ["Explain what's causing you to feel frustrated.", "When you feel frustrated, putting some distance between yourself and the situation upsetting you can help you avoid in-the-moment reactions or angry outbursts.", "I know you could be frustrated at the moment, but it will get better.", "Let's calm down. I care about you, and it's going to be ok at the end.", "Can you elaborate on why it's causing you to feel this way?", "Hey chill out. It's going to be ok."],
+        "context_filter": ["respond_to_anger"]
+        },
+        {"tag": "annoyed_irritated",
+        "patterns": ["I'm so annoyed", "I'm irritated by him her", "This is stupid"],
+        "responses": ["Explain what's causing you to feel irritated.", "OK I'm listening.", "I know you could be annoyed at the moment, but it will get better.", "Let's calm down. I care about you, and it's going to be ok at the end.", "Can you elaborate on why it's causing you to feel this way?", "You have to let go of this bad energy. It's going to be ok."],
+        "context_filter": ["respond_to_anger"]
+        },
+       
+
+
+
+        {"tag": "fear",
+        "patterns": ["I'm scared", "I'm worried", "I'm feeling doubtful", "I'm nervous about", "I can't stop feeling anxious", "I'm terrified of", "I'm panicking", "I had a panic attack",
+        "I'm horrified", "I'm desperate", "I'm really confused", "I'm stressed"],
+        "responses": ["Explain what's causing you to feel nervous.", "Can you elaborate on why it's causing you to be worried?", "Can you explain why you are feeling stressed?"],
+        "context_set": ["respond_to_fear"]
+        },
+        {"tag": "stress",
+        "patterns": ["I'm extremely stressed", "I'm feeling very stressed lately", "I'm dealing with a lot", "I have a lot on my plate", "I don't have enough time", "running out of time", "I have too much work", "There is a lot going on", "I'm really struggling to keep up", "I have too much work"],
+        "responses": ["I'm sorry to hear that. I'm listening.", "If you feel yourself fixating on a worry or source of stress, try something distracting.", "I'm still listening. Tell me more.", "I get it. Everyone gets stressed, but you're going to get through this.", "Explain what's been stressing you out.", "Why are you stressed?", "I hear you. Have you tried to seek help?"],
+        "context_filter": ["respond_to_fear"]
+        },
+        {"tag": "worried_nervous_anxious",
+        "patterns": ["I'm extremely nervous", "I'm feeling very nervous lately", "I'm feeling anxious", "I'm worried about", "I can't stop worrying"],
+        "responses": ["I see. I'm listening.", "Try to face your anxiety safely.", "Maybe you can try something distracting. Listen to an audiobook or podcast, cook with a new recipe you have to concentrate on, or go for a walk or jog with some energizing music.", "I'm still listening. Tell me more.", "I get it. Everyone gets nervous, but you're going to get through this.", "Explain what's making you worried.", "Is there a reason you are feelnig anxious?", "I hear you. Have you tried to seek help?"],
+        "context_filter": ["respond_to_fear"]
+        },
+
 
 
 

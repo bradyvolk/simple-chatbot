@@ -10,7 +10,7 @@ from keras.layers import Dense, Activation, Dropout
 from tensorflow.keras.optimizers import SGD
 import random
 
-words=[]
+words = []
 classes = []
 documents = []
 ignore_words = ['?', '!']

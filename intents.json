@@ -138,6 +138,84 @@
       "context": [""]
     },
     {
+      "tag": "suicide",
+      "patterns": [
+        "I want to suicide",
+        "I am going to kill myself",
+        "I want to die",
+        "I don't want to live",
+        "How do I kill myself"
+      ],
+      "responses": [
+        "Please call 800-273-8255",
+        "Your life is valuable",
+        "If you feel like this now you may not feel like this always, don't do something that hurts you permanently."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "sleep",
+      "patterns": [
+        "I can't sleep",
+        "I am having trouble sleeping",
+        "I keep waking up in the middle of the night",
+        "I can't fall asleep",
+        "I haven't slept for days"
+      ],
+      "responses": [
+        "What is causing you to be unable to sleep?",
+        "Sleep is important, but try not to stress about it or that will make it even harder to sleep.",
+        "Do something relaxing then try to fall asleep again.",
+        "If this is stress related, try to think about something else that is pleasant for you."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "disruptive environment",
+      "patterns": [
+        "My roommates are being loud and I can't study",
+        "My room is always noisy",
+        "People are always loud in the hall",
+        "I can't concentrate because of noise"
+      ],
+      "responses": [
+        "Try asking whoever is being disruptive to stop, if that didn't work ask some authority to intervene",
+        "Try putting on some white noise to block it out"
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "world events",
+      "patterns": [
+        "I am stressed out by a war.",
+        "I am so worried about an ongoing conflict.",
+        "Why is this world so messed up?",
+        "I feel like this world has no future.",
+        "I am stressed out by a world conflict."
+      ],
+      "responses": [
+        "Things in the world are not your fault.",
+        "You can try to help by donating or spreading awareness.",
+        "Even if this is happening now, you should keep in mind that there are many positive events in the world as well."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "faculty",
+      "patterns": [
+        "My professor hates me",
+        "My professors are not grading fairly",
+        "The faculty here are so unfair."
+      ],
+      "responses": [
+        "Try to have empathy for your professor's point of view.",
+        "Try going to office hours and talking with them.",
+        "If you have a major issue, try seeing if other students are having the same thing.",
+        "Try speaking to the dean if you are having a major issue."
+      ],
+      "context": [""]
+    },
+    {
       "tag": "mood",
       "patterns": [
         "I need to talk to you",

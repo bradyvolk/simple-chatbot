@@ -519,7 +519,7 @@
         "You're right, I'll keep trying to get better though",
         "Yes, I hope you're ok that I'm a robot. I'm still here for you regardless of what I am."
       ],
-      "context_filter": [""]
+      "context": [""]
     },
 
     {
@@ -754,7 +754,7 @@
         "Oh, that is good to hear. What has made you feel calm lately?",
         "Oh that's great! Do you feel good when you are calm?"
       ],
-      "context_filter": [""]
+      "context": [""]
     },
     {
       "tag": "trust",

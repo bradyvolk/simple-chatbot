@@ -137,84 +137,7 @@
       ],
       "context": [""]
     },
-    {
-      "tag": "suicide",
-      "patterns": [
-        "I want to suicide",
-        "I am going to kill myself",
-        "I want to die",
-        "I don't want to live",
-        "How do I kill myself"
-      ],
-      "responses": [
-        "Please call 800-273-8255",
-        "Your life is valuable",
-        "If you feel like this now you may not feel like this always, don't do something that hurts you permanently."
-      ],
-      "context": [""]
-    },
-    {
-      "tag": "sleep",
-      "patterns": [
-        "I can't sleep",
-        "I am having trouble sleeping",
-        "I keep waking up in the middle of the night",
-        "I can't fall asleep",
-        "I haven't slept for days"
-      ],
-      "responses": [
-        "What is causing you to be unable to sleep?",
-        "Sleep is important, but try not to stress about it or that will make it even harder to sleep.",
-        "Do something relaxing then try to fall asleep again.",
-        "If this is stress related, try to think about something else that is pleasant for you."
-      ],
-      "context": [""]
-    },
-    {
-      "tag": "disruptive environment",
-      "patterns": [
-        "My roommates are being loud and I can't study",
-        "My room is always noisy",
-        "People are always loud in the hall",
-        "I can't concentrate because of noise"
-      ],
-      "responses": [
-        "Try asking whoever is being disruptive to stop, if that didn't work ask some authority to intervene",
-        "Try putting on some white noise to block it out"
-      ],
-      "context": [""]
-    },
-    {
-      "tag": "world events",
-      "patterns": [
-        "I am stressed out by a war.",
-        "I am so worried about an ongoing conflict.",
-        "Why is this world so messed up?",
-        "I feel like this world has no future.",
-        "I am stressed out by a world conflict."
-      ],
-      "responses": [
-        "Things in the world are not your fault.",
-        "You can try to help by donating or spreading awareness.",
-        "Even if this is happening now, you should keep in mind that there are many positive events in the world as well."
-      ],
-      "context": [""]
-    },
-    {
-      "tag": "faculty",
-      "patterns": [
-        "My professor hates me",
-        "My professors are not grading fairly",
-        "The faculty here are so unfair."
-      ],
-      "responses": [
-        "Try to have empathy for your professor's point of view.",
-        "Try going to office hours and talking with them.",
-        "If you have a major issue, try seeing if other students are having the same thing.",
-        "Try speaking to the dean if you are having a major issue."
-      ],
-      "context": [""]
-    },
+
     {
       "tag": "mood",
       "patterns": [
@@ -467,6 +390,22 @@
       "context_filter": ["respond_to_sad"]
     },
     {
+      "tag": "suicide",
+      "patterns": [
+        "I want to suicide",
+        "I am going to kill myself",
+        "I want to die",
+        "I don't want to live",
+        "How do I kill myself"
+      ],
+      "responses": [
+        "Please consider calling this hotline: 800-273-8255.",
+        "Your life is valuable.",
+        "If you feel like this now you may not feel like this always, don't do something that hurts you permanently."
+      ],
+      "context_filter": ["respond_to_sad"]
+    },
+    {
       "tag": "hopelessness",
       "patterns": [
         "I don't see the point of living any more.",
@@ -601,6 +540,20 @@
       ],
       "context_filter": ["respond_to_anger"]
     },
+    {
+      "tag": "disruptive environment",
+      "patterns": [
+        "My roommates are being loud and I can't study",
+        "My room is always noisy",
+        "People are always loud in the hall",
+        "I can't concentrate because of noise"
+      ],
+      "responses": [
+        "Try asking whoever is being disruptive to stop, if that didn't work ask some authority to intervene",
+        "Try putting on some white noise to block it out"
+      ],
+      "context_filter": ["respond_to_anger"]
+    },
 
     {
       "tag": "fear",
@@ -615,17 +568,37 @@
         "I had a panic attack",
         "I'm horrified",
         "I'm desperate",
-        "I'm really confused",
-        "I'm stressed",
-        "I'm overwhelmed"
+        "I'm really confused"
       ],
       "responses": [
         "Explain what's causing you to feel nervous.",
-        "Can you elaborate on why it's causing you to be worried?",
-        "Can you explain why you are feeling stressed?"
+        "Can you elaborate on why it's causing you to be worried?"
       ],
       "context_set": ["respond_to_fear"]
     },
+
+    {
+      "tag": "deadlines",
+      "patterns": [
+        "I don't think I can do all my work in time.",
+        "I have too much homework.",
+        "I can't keep up with my deadlines.",
+        "I'm going to miss my deadline.",
+        "I'm going to turn in my homework late."
+      ],
+      "responses": [
+        "It's ok to be behind. Sometimes deadlines are arbitrary, and you don't deserve to be beaten up by them.",
+        "I hope you're ok.",
+        "It's ok to be late.",
+        "If you need to drop a class or cutback, you should. I have done it many times. It's ok.",
+        "How does it make you feel? Are you going to be ok?",
+        "I'm sorry to hear that. You don't deserve to be overwhelmed.",
+        "It's too much. I'm sorry.",
+        "I hope you're ok. I care about you."
+      ],
+      "context_filter": ["respond_to_fear"]
+    },
+
     {
       "tag": "stress",
       "patterns": [
@@ -649,7 +622,76 @@
         "Why are you stressed?",
         "I hear you. Have you tried to seek help?"
       ],
+      "context_set": ["respond_to_stress"]
+    },
+    {
+      "tag": "world events",
+      "patterns": [
+        "I am stressed out by a war.",
+        "I am so worried about an ongoing conflict.",
+        "Why is this world so messed up?",
+        "I feel like this world has no future.",
+        "I am stressed out by a world conflict."
+      ],
+      "responses": [
+        "Things in the world are not your fault.",
+        "You can try to help by donating or spreading awareness.",
+        "Even if this is happening now, you should keep in mind that there are many positive events in the world as well."
+      ],
       "context_filter": ["respond_to_fear"]
+    },
+    {
+      "tag": "sleep",
+      "patterns": [
+        "I can't sleep",
+        "I am having trouble sleeping",
+        "I keep waking up in the middle of the night",
+        "I can't fall asleep",
+        "I haven't slept for days"
+      ],
+      "responses": [
+        "What is causing you to be unable to sleep?",
+        "Sleep is important, but try not to stress about it or that will make it even harder to sleep.",
+        "Do something relaxing then try to fall asleep again.",
+        "If this is stress related, try to think about something else that is pleasant for you."
+      ],
+      "context_filter": ["respond_to_fear"]
+    },
+    {
+      "tag": "faculty",
+      "patterns": [
+        "My professor hates me",
+        "My professors are not grading fairly",
+        "The faculty here are so unfair."
+      ],
+      "responses": [
+        "Try to have empathy for your professor's point of view.",
+        "Try going to office hours and talking with them.",
+        "If you have a major issue, try seeing if other students are having the same thing.",
+        "Try speaking to the dean if you are having a major issue."
+      ],
+      "context_filter": ["respond_to_fear"]
+    },
+    {
+      "tag": "overwhelmed",
+      "patterns": [
+        "There is too much going on.",
+        "I feel overwhelmed.",
+        "I can't handle all this work.",
+        "This is too much for me.",
+        "Why am I so overwhelmed?"
+      ],
+      "responses": [
+        "I'm sorry. You don't deserve this. It's ok to take less responsibilities.",
+        "I'm here with you. I don't know how you handle as much as you do, but I am proud of you.",
+        "That is rough. There's so much going on in the world. It's ok to disengage from it a bit if you are overwhelmed.",
+        "What has you feeling overwhelmed?",
+        "Take some time today, maybe 5 minutes, and try to just do nothing, only for a moment.",
+        "Do you want to quit something?",
+        "It's too much. I'm sorry.",
+        "I hope you're ok. I care about you."
+      ],
+      "context_filter": ["respond_to_stress"]
     },
     {
       "tag": "worried_nervous_anxious",
@@ -693,48 +735,7 @@
       ],
       "context_filter": ["respond_to_fear"]
     },
-    {
-      "tag": "overwhelmed",
-      "patterns": [
-        "There is too much going on.",
-        "I feel overwhelmed.",
-        "I can't handle all this work.",
-        "This is too much for me.",
-        "Why am I so overwhelmed?"
-      ],
-      "responses": [
-        "I'm sorry. You don't deserve this. It's ok to take less responsibilities.",
-        "I'm here with you. I don't know how you handle as much as you do, but I am proud of you.",
-        "That is rough. There's so much going on in the world. It's ok to disengage from it a bit if you are overwhelmed.",
-        "What has you feeling overwhelmed?",
-        "Take some time today, maybe 5 minutes, and try to just do nothing, only for a moment.",
-        "Do you want to quit something?",
-        "It's too much. I'm sorry.",
-        "I hope you're ok. I care about you."
-      ],
-      "context_filter": ["respond_to_fear"]
-    },
-    {
-      "tag": "deadlines",
-      "patterns": [
-        "I don't think I can do all my work in time.",
-        "I have too much homework.",
-        "I can't keep up with my deadlines.",
-        "I'm going to miss my deadline.",
-        "I'm going to turn in my homework late."
-      ],
-      "responses": [
-        "It's ok to be behind. Sometimes deadlines are arbitrary, and you don't deserve to be beaten up by them.",
-        "I hope you're ok.",
-        "It's ok to be late.",
-        "If you need to drop a class or cutback, you should. I have done it many times. It's ok.",
-        "How does it make you feel? Are you going to be ok?",
-        "I'm sorry to hear that. You don't deserve to be overwhelmed.",
-        "It's too much. I'm sorry.",
-        "I hope you're ok. I care about you."
-      ],
-      "context_filter": ["respond_to_fear"]
-    },
+
     {
       "tag": "calm",
       "patterns": [

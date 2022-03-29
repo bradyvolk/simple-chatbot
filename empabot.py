@@ -89,12 +89,14 @@ def getResponse(ints, intents_json, msg, userID='123', show_details=False):
                 # a random response from the intent
                 result = random.choice(i['responses'])
                 if float(ints[0]["probability"]) < 0.90:
-                    print(float(ints[0]["probability"]))
                     result = main.output(msg)
+                if len(result) < 2:
+                    result = "Sorry I don't know how to respond to that."
             result = random.choice(i['responses'])
             if float(ints[0]["probability"]) < 0.90:
-                print(float(ints[0]["probability"]))
                 result = main.output(msg)
+            if len(result) < 2:
+                result = "Sorry I don't know how to respond to that."
             break
     return result
 

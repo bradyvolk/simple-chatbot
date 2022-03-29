@@ -5,6 +5,8 @@ lemmatizer = WordNetLemmatizer()
 import pickle
 import numpy as np
 import feedback
+import main
+
 
 from keras.models import load_model
 model = load_model('chatbot_model.h5')
@@ -63,7 +65,7 @@ is_feedback = False
 responses_between_feedback = 5
 
 # show_details is for debugging purposes
-def getResponse(ints, intents_json, userID='123', show_details=False):
+def getResponse(ints, intents_json, msg, userID='123', show_details=False):
     tag = ints[0]['intent']
     list_of_intents = intents_json['intents']
     for i in list_of_intents:
@@ -86,14 +88,20 @@ def getResponse(ints, intents_json, userID='123', show_details=False):
                     print('-------------------')
                 # a random response from the intent
                 result = random.choice(i['responses'])
+                if float(ints[0]["probability"]) < 0.90:
+                    print(float(ints[0]["probability"]))
+                    result = main.output(msg)
             result = random.choice(i['responses'])
+            if float(ints[0]["probability"]) < 0.90:
+                print(float(ints[0]["probability"]))
+                result = main.output(msg)
             break
     return result
 
 def chatbot_response(msg):    
     # ints is a list with intent/tag and its probability
     ints = predict_class(msg, model) # example is [{'intent': 'greeting', 'probability': '0.999597'}]
-    res = getResponse(ints, intents, show_details=True)
+    res = getResponse(ints, intents, msg, show_details=True)
     return res
 
 

@@ -12,6 +12,8 @@ Make sure you have python3 installed and install the requirements:
 pip install -r requirements.txt
 ```
 
+<br>
+
 ## Running
 
 To train the retrieval model:

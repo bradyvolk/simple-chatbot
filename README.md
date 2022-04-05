@@ -1,32 +1,26 @@
 # Simple Chatbot
 
+Empabot is a simple chatbot that uses retrieval responses and generated sequence-to-sequence responses to help college students through emotions.
+
+<br>
+
 ## Installation Instructions
 
-Make sure you have python3 installed. Please install the following:
+Make sure you have python3 installed and install the requirements:
 
 ```bash
-pip install tensorflow
-```
-
-```bash
-pip install keras
-```
-
-```bash
-pip install nltk
-```
-
-If you already have tensorflow installed, make sure it is the most recent version.
-
-```bash
-pip install --upgrade tensorflow
+pip install -r requirements.txt
 ```
 
 ## Running
 
+To train the retrieval model:
+
 ```bash
 python train_retrieval.py
 ```
+
+To run Empabot:
 
 ```bash
 python empabot.py

@@ -268,8 +268,6 @@
         "compassion"
       ],
       "responses": [
-        "What is it!",
-        "What's up!",
         "That's so great to hear!",
         "Me too!",
         "That's awesome to hear!",
@@ -364,9 +362,7 @@
         "I'm really upset",
         "Today was a bad day",
         "I need someone to make me feel better",
-        "I'm depressed",
         "I'm not feeling well",
-        "I feel sick",
         "there are some issues",
         "lonely",
         "heartbroken",
@@ -374,6 +370,7 @@
         "I feel hopeless",
         "grieved",
         "I am unhappy",
+        "I am crying",
         "lost",
         "troubled",
         "resigned",
@@ -437,7 +434,6 @@
         "I feel dizzy",
         "My leg tonsils neck arm mouth stomach head hurts swollen",
         "I can't stop coughing",
-        "I am crying",
         "I feel very sick"
       ],
       "responses": [
@@ -454,7 +450,7 @@
       "patterns": [
         "I don't even know why I'm sad.",
         "I'm depressed.",
-        "I've been feel sad for a long time lately.",
+        "I've been feeling sad for a long time lately.",
         "Why is the world against me?",
         "I can't get out to bed."
       ],
@@ -607,17 +603,11 @@
       "patterns": [
         "I'm scared",
         "I'm worried",
-        "I'm feeling doubtful",
-        "I'm nervous about",
-        "I can't stop feeling anxious",
         "I'm terrified of",
         "I'm panicking",
         "I had a panic attack",
         "I'm horrified",
-        "I'm desperate",
-        "I'm really confused",
-        "I'm stressed",
-        "I'm overwhelmed"
+        "I'm desperate"
       ],
       "responses": [
         "Explain what's causing you to feel nervous.",
@@ -655,6 +645,9 @@
       "tag": "worried_nervous_anxious",
       "patterns": [
         "I'm extremely nervous",
+        "I'm feeling doubtful",
+        "I'm nervous about",
+        "I can't stop feeling anxious",
         "I'm feeling very nervous lately",
         "I'm feeling anxious",
         "I'm worried about",
@@ -758,8 +751,47 @@
     },
     {
       "tag": "trust",
-      "patterns": [""],
-      "responses": [""],
+      "patterns": [
+        "I trust you.",
+        "I feel like I can trust you.",
+        "You are trustworthy."
+      ],
+      "responses": [
+        "Thanks, I'm glad I make you feel comfortable.",
+        "Tnat's nice. I trust you."
+      ],
+      "context_filter": [""]
+    },
+    {
+      "tag": "confusion",
+      "patterns": [
+        "I'm really confused",
+        "You are confusing",
+        "You don't make any sense",
+        "What are you trying to say",
+        "What?"
+      ],
+      "responses": [
+        "I'm sorry. I can be confusing sometimes.",
+        "Sorry, I'm not the best listener sometimes. Hope that's okay."
+      ],
+      "context_filter": [""]
+    },
+    {
+      "tag": "insult",
+      "patterns": [
+        "I hate you",
+        "You suck",
+        "You are so stupid",
+        "You are dumb",
+        "You are an idiot",
+        "You aren't helpful",
+        "You are trash"
+      ],
+      "responses": [
+        "I'm sorry I haven't been very helpful. I hope you undertand",
+        "Sorry, I'm trying to get better."
+      ],
       "context_filter": [""]
     }
   ]

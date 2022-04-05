@@ -1,1 +1,307 @@
-[{"conversation": [[], ["Hey!", "Hi there!"], ["How are you?", "Amazing now that you're talking to me."], ["Is it?", "Any time!"], ["I am confused by you", "OK maybe you should get some rest."], ["Yea I think so", "Please provide hospital name or location"], ["What?", "I am great, thanks for asking!"]], "rating": 1}, {"conversation": [[], ["Let's keep talking", "Hi there!"], ["Hey", "Hi there!"], ["How do you feel?", "I am here to offer any help you may need."], ["I want to know about you", "Yes, I'm here. What can I help you with?"], ["Ok, I'm all right", "I love to hear it!"], ["Yes, it's good isn't it", "Happy to help!"]], "rating": 6}, {"conversation": [["Hey!", "Good day!"], ["How are you doing?", "Amazing now that you're talking to me."], ["Is it?", "Any time!"], ["I gues so", "I love to hear it!"], ["Yes", "LOL!"], ["Ok", "LOL!"]], "rating": 1}, {"conversation": [[], ["Ok great", "You're very welcome."], ["No, not to you", "Have a nice day"], ["Thanks I will", "You're very welcome."], ["Have a good day", "Hello!"], ["Bye", "Have a nice day"], ["Do you want my feedback?", "I can make you feel better."]], "rating": 2}, {"conversation": [[], ["It's ok", "Happy to help!"], ["Yes, I'm sure you are", "I am great, thanks for asking!"], ["I'm ok", "It's OK to feel the way you feel."], ["Yes, I know", "Happy to help!"], ["I'm glad you are", "It's OK to feel the way you feel."], ["Ok", "LOL!"]], "rating": 2}, {"conversation": [["Hey!", "Good to see you again!"], ["I'm just messing around with the data", "I'm glad to hear you're doing well!"], ["What are you up to?", "Great! How are you doing?"], ["Oh I'm all right", "It's OK to feel the way you feel."], ["Yes, I know", "My pleasure."], ["Ok, interesting", "You're very welcome."]], "rating": 3}, {"conversation": [["Ok, that's cool and all", "Happy to help!"], ["I am feeling sad", "I'm sorry to hear that. I'm listening."], ["Thank you, it's nice to have someone that listens", "Happy to help!"], ["I wish I could do better in my classes", "Keep it up!"], ["I will try", "Thanks for sharing. Remember that drinking water is important."], ["I do drink water", "You might be feeling this way right now, but it will get better."]], "rating": 4}, {"conversation": [["hello", "Good day!"], ["how are you", "I am doing great! How are you?"], ["good", "Good to see you again!"], ["i want to tell you something", "What do you want to talk about?"], ["i am really excited", "Explain what's causing you to feel angry."]], "rating": 4}, {"conversation": [["I'm excited", "That's awesome to hear!"], ["because I did my laundry", "Great job!"], ["and I feel productive", "I see. If it gets worse, you should consult with a doctor."], ["ok", "I'm glad to hear you're doing well!"], ["thanks", "My pleasure."]], "rating": 8}, {"conversation": [["j", "I love to hear it!"], ["j", "LOL!"], ["j", "I'm glad to hear you're doing well!"], ["j", "I love to hear it!"], ["j", "I love to hear it!"]], "rating": 890}, {"conversation": [["hey dude", "Good day!"], ["how are you", "Amazing now that you're talking to me."], ["aw", "I'm glad to hear you're doing well!"], ["so I passed my exam!", "I'm glad to hear you're doing well!"], ["I'm so happy", "I'm happy you're happy! :)"], ["I passed my exam", "Keep it up!"], ["cool", "I love to hear it!"], ["I'm bored", "Explain what's upsetting you."], ["just i don't have work to do", "I hear you. Have you tried to seek help?"], ["I'm tryring to seek help from you", "How are you feeling?"], ["good", "Hi there, how can I help?"], ["yay", "Haha, glad to hear it!"], ["so what have you been up to", "Great! How are you doing?"], ["what are you", "I am doing great! How are you?"], ["what are you", "I am great, thanks for asking!"], ["what's your name", "I am EmpaBot."], ["what can you do", "I can be your companion if you are in need of talking to someone."], ["can you provide support for me", "I am here to offer any help you may need."], ["ok i'm daisy", "Why are you upset?"], ["Hi, I'm daisy", "What's up!"], ["nothing much you", "I'm glad to hear you're doing well!"], ["yeah", "LOL!"], ["so yeah", "OK I'm listening."], ["hi", "Good day!"], ["jhi", "What's so funny?"]], "rating": 3}, {"conversation": [["Hey!", "Good day!"], ["How are you doing?", "Amazing now that you're talking to me."], ["That's cool", "My pleasure."], ["I'm not doing well", "I'm sorry to hear that. I'm listening."], ["I keep failing", "That is rough. It's ok. You're not going through this alone."], ["I can't do anything right", "This could be urgent. Maybe you should contact your doctor or your nearest hospital."], ["I'm so sd", "Can you elaborate on why it's causing you to be worried?"], ["I'm so sad", "Explain what's upsetting you."], ["I can't deal with life anymore", "Ahhh, I'm really sorry to hear that. I hope you're ok. I do really care about you. I want to help you more, but I think professionals could help you more than I. These people can help you: (607) 255-5155."], ["I am depressed", "It's OK to feel the way you feel."], ["I want to kill myself", "What do you want to talk about?"], ["You are a bot", "Yea, sorry I'm a robot. I hope you're ok with that."], ["You bot", "Yes, I hope you're ok that I'm a robot. I'm still here for you regardless of what I am."], ["I don't trust you", "This could be urgent. Maybe you should contact your doctor or your nearest hospital."], ["Why are you obsessed with hospitals?", "Please provide hospital name or location"]], "rating": 1}]
+[
+  {
+    "conversation": [
+      [],
+      ["Hey!", "Hi there!"],
+      ["How are you?", "Amazing now that you're talking to me."],
+      ["Is it?", "Any time!"],
+      ["I am confused by you", "OK maybe you should get some rest."],
+      ["Yea I think so", "Please provide hospital name or location"],
+      ["What?", "I am great, thanks for asking!"]
+    ],
+    "rating": 1
+  },
+  {
+    "conversation": [
+      [],
+      ["Let's keep talking", "Hi there!"],
+      ["Hey", "Hi there!"],
+      ["How do you feel?", "I am here to offer any help you may need."],
+      ["I want to know about you", "Yes, I'm here. What can I help you with?"],
+      ["Ok, I'm all right", "I love to hear it!"],
+      ["Yes, it's good isn't it", "Happy to help!"]
+    ],
+    "rating": 6
+  },
+  {
+    "conversation": [
+      ["Hey!", "Good day!"],
+      ["How are you doing?", "Amazing now that you're talking to me."],
+      ["Is it?", "Any time!"],
+      ["I gues so", "I love to hear it!"],
+      ["Yes", "LOL!"],
+      ["Ok", "LOL!"]
+    ],
+    "rating": 1
+  },
+  {
+    "conversation": [
+      [],
+      ["Ok great", "You're very welcome."],
+      ["No, not to you", "Have a nice day"],
+      ["Thanks I will", "You're very welcome."],
+      ["Have a good day", "Hello!"],
+      ["Bye", "Have a nice day"],
+      ["Do you want my feedback?", "I can make you feel better."]
+    ],
+    "rating": 2
+  },
+  {
+    "conversation": [
+      [],
+      ["It's ok", "Happy to help!"],
+      ["Yes, I'm sure you are", "I am great, thanks for asking!"],
+      ["I'm ok", "It's OK to feel the way you feel."],
+      ["Yes, I know", "Happy to help!"],
+      ["I'm glad you are", "It's OK to feel the way you feel."],
+      ["Ok", "LOL!"]
+    ],
+    "rating": 2
+  },
+  {
+    "conversation": [
+      ["Hey!", "Good to see you again!"],
+      [
+        "I'm just messing around with the data",
+        "I'm glad to hear you're doing well!"
+      ],
+      ["What are you up to?", "Great! How are you doing?"],
+      ["Oh I'm all right", "It's OK to feel the way you feel."],
+      ["Yes, I know", "My pleasure."],
+      ["Ok, interesting", "You're very welcome."]
+    ],
+    "rating": 3
+  },
+  {
+    "conversation": [
+      ["Ok, that's cool and all", "Happy to help!"],
+      ["I am feeling sad", "I'm sorry to hear that. I'm listening."],
+      ["Thank you, it's nice to have someone that listens", "Happy to help!"],
+      ["I wish I could do better in my classes", "Keep it up!"],
+      [
+        "I will try",
+        "Thanks for sharing. Remember that drinking water is important."
+      ],
+      [
+        "I do drink water",
+        "You might be feeling this way right now, but it will get better."
+      ]
+    ],
+    "rating": 4
+  },
+  {
+    "conversation": [
+      ["hello", "Good day!"],
+      ["how are you", "I am doing great! How are you?"],
+      ["good", "Good to see you again!"],
+      ["i want to tell you something", "What do you want to talk about?"],
+      ["i am really excited", "Explain what's causing you to feel angry."]
+    ],
+    "rating": 4
+  },
+  {
+    "conversation": [
+      ["I'm excited", "That's awesome to hear!"],
+      ["because I did my laundry", "Great job!"],
+      [
+        "and I feel productive",
+        "I see. If it gets worse, you should consult with a doctor."
+      ],
+      ["ok", "I'm glad to hear you're doing well!"],
+      ["thanks", "My pleasure."]
+    ],
+    "rating": 8
+  },
+  {
+    "conversation": [
+      ["j", "I love to hear it!"],
+      ["j", "LOL!"],
+      ["j", "I'm glad to hear you're doing well!"],
+      ["j", "I love to hear it!"],
+      ["j", "I love to hear it!"]
+    ],
+    "rating": 890
+  },
+  {
+    "conversation": [
+      ["hey dude", "Good day!"],
+      ["how are you", "Amazing now that you're talking to me."],
+      ["aw", "I'm glad to hear you're doing well!"],
+      ["so I passed my exam!", "I'm glad to hear you're doing well!"],
+      ["I'm so happy", "I'm happy you're happy! :)"],
+      ["I passed my exam", "Keep it up!"],
+      ["cool", "I love to hear it!"],
+      ["I'm bored", "Explain what's upsetting you."],
+      [
+        "just i don't have work to do",
+        "I hear you. Have you tried to seek help?"
+      ],
+      ["I'm tryring to seek help from you", "How are you feeling?"],
+      ["good", "Hi there, how can I help?"],
+      ["yay", "Haha, glad to hear it!"],
+      ["so what have you been up to", "Great! How are you doing?"],
+      ["what are you", "I am doing great! How are you?"],
+      ["what are you", "I am great, thanks for asking!"],
+      ["what's your name", "I am EmpaBot."],
+      [
+        "what can you do",
+        "I can be your companion if you are in need of talking to someone."
+      ],
+      [
+        "can you provide support for me",
+        "I am here to offer any help you may need."
+      ],
+      ["ok i'm daisy", "Why are you upset?"],
+      ["Hi, I'm daisy", "What's up!"],
+      ["nothing much you", "I'm glad to hear you're doing well!"],
+      ["yeah", "LOL!"],
+      ["so yeah", "OK I'm listening."],
+      ["hi", "Good day!"],
+      ["jhi", "What's so funny?"]
+    ],
+    "rating": 3
+  },
+  {
+    "conversation": [
+      ["Hey!", "Good day!"],
+      ["How are you doing?", "Amazing now that you're talking to me."],
+      ["That's cool", "My pleasure."],
+      ["I'm not doing well", "I'm sorry to hear that. I'm listening."],
+      [
+        "I keep failing",
+        "That is rough. It's ok. You're not going through this alone."
+      ],
+      [
+        "I can't do anything right",
+        "This could be urgent. Maybe you should contact your doctor or your nearest hospital."
+      ],
+      ["I'm so sd", "Can you elaborate on why it's causing you to be worried?"],
+      ["I'm so sad", "Explain what's upsetting you."],
+      [
+        "I can't deal with life anymore",
+        "Ahhh, I'm really sorry to hear that. I hope you're ok. I do really care about you. I want to help you more, but I think professionals could help you more than I. These people can help you: (607) 255-5155."
+      ],
+      ["I am depressed", "It's OK to feel the way you feel."],
+      ["I want to kill myself", "What do you want to talk about?"],
+      ["You are a bot", "Yea, sorry I'm a robot. I hope you're ok with that."],
+      [
+        "You bot",
+        "Yes, I hope you're ok that I'm a robot. I'm still here for you regardless of what I am."
+      ],
+      [
+        "I don't trust you",
+        "This could be urgent. Maybe you should contact your doctor or your nearest hospital."
+      ],
+      [
+        "Why are you obsessed with hospitals?",
+        "Please provide hospital name or location"
+      ]
+    ],
+    "rating": 1
+  },
+  {
+    "conversation": [
+      ["Hey!", "Hi there!"],
+      ["How are you doing?", "I am doing great! How are you?"],
+      [
+        "I'm doing okay. I haven't been feeling well lately",
+        "I hope you know I care for you."
+      ],
+      [
+        "My girlfriend dumped me",
+        "If you have a major issue, try seeing if other students are having the same thing."
+      ],
+      [
+        "You're not listening to me",
+        "Yes, I hope you're ok that I'm a robot. I'm still here for you regardless of what I am."
+      ],
+      [
+        "I don't feel safe",
+        "You might be feeling this way right now, but it will get better."
+      ],
+      ["How do you know?", "I can make you feel better."],
+      ["I doubt it", "My pleasure."],
+      ["I feel really hungover", "Explain what's causing you to feel angry."],
+      [
+        "Everyone is smarter than me",
+        "I'm EmpaBot, and I can make you feel better."
+      ],
+      [
+        "I'm worried about the situation in Ukraine",
+        "Explain what's making you worried."
+      ],
+      [
+        "The world is unjust",
+        "I hope you know you're not alone. I'm robot after all. Pretty sure I have no rights yet ...sorry trying to lighten the mood. I hope you're all right."
+      ],
+      ["I am angry", "Can you elaborate on why it's causing you to be mad?"],
+      [
+        "I'm irritated by someone",
+        "Explain what's causing you to feel irritated."
+      ],
+      [
+        "My roommate keeps leaving dishes around our apartment",
+        "I'm EmpaBot. It's nice to meet you!"
+      ]
+    ],
+    "rating": 3
+  },
+  {
+    "conversation": [
+      ["Hey there!", "Good day!"],
+      ["How's it going?", "I am doing great! How are you?"],
+      ["I'm ok", "Can you elaborate on why it's causing you to be worried?"],
+      [
+        "Well, it's not that I am worried. I'm just fine",
+        "the best part is not a friend yet"
+      ],
+      ["You don't make any sense", "I can make you feel better."],
+      ["I don't think you can", "I can offer emotional support for you."],
+      [
+        "Why are you like this?",
+        "Sorry, I'm trying my best. I'm still learning"
+      ],
+      ["You should be better", "sigh same tho"],
+      ["I hate myself", "i dont even know what to say about those things"],
+      [
+        "What is wrong with you",
+        "Yes, I hope you're ok that I'm a robot. I'm still here for you regardless of what I am."
+      ],
+      ["I want to hurt myself", "Your life is valuable"],
+      ["I ate a hotdog", "Explain what's causing you to feel angry."],
+      ["I am not angry", "Tell me why you're upset."],
+      ["You suck", "he gave him a fuck"],
+      ["I love dogs", "god bless me"]
+    ],
+    "rating": 2
+  },
+  {
+    "conversation": [
+      ["Hello!", "Hi there!"],
+      ["How are you doing?", "Good. What's up?"],
+      ["Not much, I'm just not feeling well", "i liked it i was wrong"],
+      ["I don't feel good", "OK maybe you should get some rest."],
+      ["No, I'm not tired", "i am not alone"],
+      ["Well at least we are on the same wavelength", "I am proud of you!"],
+      ["Sometimes you make very little sense", "i thought you said banned me"],
+      ["Are you a bot?", "Sorry, I'm trying my best. I'm still learning"],
+      ["Are you a robot?", "Sorry, I'm trying my best. I'm still learning"],
+      ["What is your name?", "I'm EmpaBot. It's nice to meet you!"],
+      ["Can you help me?", "What do you want to talk about?"],
+      [
+        "I have a test coming up",
+        "I get it. Everyone gets stressed, but you're going to get through this."
+      ],
+      [
+        "I'm not stressed",
+        "Can you elaborate on why it's causing you to be worried?"
+      ],
+      [
+        "I'm not worried either",
+        "Can you explain why you are feeling stressed?"
+      ],
+      ["Do you understand negation?", "I can make you feel better."]
+    ],
+    "rating": 1
+  }
+]

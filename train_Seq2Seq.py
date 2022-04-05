@@ -12,7 +12,6 @@ from tensorlayer.models.seq2seq import Seq2seq
 from tensorlayer.models.seq2seq_with_attention import Seq2seqLuongAttention
 import os
 
-
 def initial_setup(data_corpus):
     metadata, idx_q, idx_a = data.load_data(PATH='data/{}/'.format(data_corpus))
     (trainX, trainY), (testX, testY), (validX, validY) = data.split_dataset(idx_q, idx_a)
@@ -78,18 +77,10 @@ model_ = Seq2seq(
     embedding_layer=tl.layers.Embedding(vocabulary_size=vocabulary_size, embedding_size=emb_dim),
     )
 
+optimizer = tf.optimizers.Adam(learning_rate=0.001)
+model_.train()
 
-# Uncomment below statements if you have already saved the model
-
-load_weights = tl.files.load_npz(name='model.npz')
-tl.files.assign_weights(load_weights, model_)
-
-#optimizer = tf.optimizers.Adam(learning_rate=0.001)
-#model_.train()
-
-#seeds = ["happy birthday have a nice day",
-    #            "donald trump won last nights presidential debate according to snap online polls"]
-'''for epoch in range(num_epochs):
+for epoch in range(num_epochs):
     model_.train()
     trainX, trainY = shuffle(trainX, trainY, random_state=0)
     total_loss, n_iter = 0, 0
@@ -116,10 +107,8 @@ tl.files.assign_weights(load_weights, model_)
         
         total_loss += loss
         n_iter += 1
-    '''
     # printing average loss after every epoch
-    #print('Epoch [{}/{}]: loss {:.4f}'.format(epoch + 1, num_epochs, total_loss / n_iter))
+    print('Epoch [{}/{}]: loss {:.4f}'.format(epoch + 1, num_epochs, total_loss / n_iter))
 
 def output(seed):
-    sentence = inference(seed, 1)
-    return(' '.join(sentence))
+    return " ".join(inference(seed, 1)).capitalize()

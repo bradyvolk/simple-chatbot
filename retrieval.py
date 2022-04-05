@@ -52,6 +52,8 @@ context = {}
 
 def parse_inference(ints, intents_json, msg, userID='123', show_details=False):
     result = ("", 0)
+    if not ints:
+        return result
     tag = ints[0]['intent']
     list_of_intents = intents_json['intents']
     for intent in list_of_intents:
@@ -67,6 +69,7 @@ def parse_inference(ints, intents_json, msg, userID='123', show_details=False):
                 (userID in context and 'context_filter' in intent and intent['context_filter'] == context[userID]):
                 if show_details:
                     print('-------------------')
+                    print('msg:', msg)
                     print('tag:', intent['tag'])
                     print('ints:', ints)
                     print('userID:', userID)

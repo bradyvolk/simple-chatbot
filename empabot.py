@@ -44,8 +44,8 @@ def send(event=None):
             user_says(msg)
             try:
                 rating = int(msg)
-                if (rating > 5) and (rating <= 10): empabot_says("Thank you! I'm glad I can help.")
-                if (rating <= 5) and (rating >= 1): empabot_says("I'm sorry you're not satisfied. I'll work to get better!")
+                if (rating > 5) and (rating <= 10): empabot_says("Thank you! I'm glad I can help. Anyways, what were you saying?")
+                if (rating <= 5) and (rating >= 1): empabot_says("I'm sorry you're not satisfied. I'll work to get better! Anyways, what were you saying?")
                 user_feedback.log_rating(rating)
                 user_feedback.process_user_feedback()
                 user_feedback.clear_log()

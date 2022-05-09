@@ -12,6 +12,9 @@ Make sure you have python3 installed and install the requirements:
 pip install -r requirements.txt
 ```
 
+Be sure to download the model.npz for the Seq2Seq model from here:
+--insert model.npz url with proper access write--
+
 <br>
 
 ## Running

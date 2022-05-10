@@ -12,7 +12,7 @@ Make sure you have python3 installed and install the requirements:
 pip install -r requirements.txt
 ```
 
-Be sure to download the model.npz for the Seq2Seq model from here:
+Be sure to download the model.npz for the Seq2Seq model from here (this has to go into the main chatbot folder):
 https://drive.google.com/file/d/1tjdcNVQQF_EYwCQ4cA_b6kzGesqzVYv7/view?usp=sharing
 
 <br>

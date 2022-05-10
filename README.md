@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ```
 
 Be sure to download the model.npz for the Seq2Seq model from here:
---insert model.npz url with proper access write--
+https://drive.google.com/file/d/1tjdcNVQQF_EYwCQ4cA_b6kzGesqzVYv7/view?usp=sharing
 
 <br>
 
